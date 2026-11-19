@@ -1,0 +1,36 @@
+name: Atualizar dados
+on:
+  schedule: [{ cron: '0 6 * * *' }]      # todo dia, 03:00 em Brasília
+  workflow_dispatch: {}
+permissions: { contents: write, pages: write }
+concurrency: atualizar
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    env: { GH_TOKEN: '${{ github.token }}' }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Coletar (gta.wiki e guias públicos)
+        working-directory: pipeline
+        run: |
+          mkdir -p work data-dist
+          cp ../*.json data-dist/                                   # pacote publicado: base do portão "não encolher"
+          python3 tools/gtawiki_sync.py app/www work                # itens
+          python3 tools/missions_build.py app/www work              # missões (só gta.wiki)
+          python3 tools/missions_crosscheck.py work                 # 2ª fonte: guias que concordam entre si
+          python3 tools/factdb.py work work/gtavi.db                # status por fato
+          python3 tools/missions_build.py app/www work              # missões finais
+      - name: Portão de release e empacotamento
+        working-directory: pipeline
+        run: python3 tools/publish_data.py --base-url "https://${{ github.repository_owner }}.github.io/vi-guide-data/"
+      - name: Publicar se mudou
+        run: |
+          cp pipeline/data-dist/*.json .
+          git config user.name "VI Guide bot"; git config user.email "actions@users.noreply.github.com"
+          git add -A -- '*.json' pipeline/app/www
+          if git diff --cached --quiet; then echo "sem mudanças"; exit 0; fi
+          git commit -m "Dados de $(date -u +%F)"
+          git push
+          gh api -X POST repos/${{ github.repository }}/pages/builds >/dev/null   # pushes do bot não disparam o build do Pages sozinhos
