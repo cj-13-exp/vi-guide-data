@@ -1,0 +1,121 @@
+{
+ "format": 1,
+ "generated": "2026-11-19T13:29:26Z",
+ "files": {
+  "data": {
+   "globals": [
+    "ATLAS_PLACES"
+   ],
+   "sha256": "8a2e32254bb4cfc917ff0882acc00b1c3b9f8aefbcb64aa06d737485a2cd6fbf",
+   "bytes": 338972,
+   "count": 3742
+  },
+  "wiki": {
+   "globals": [
+    "WIKI"
+   ],
+   "sha256": "35c01cc3629862bacc97033ec31d398d55ce38b17913b6ee051ff77c3c8ff6c2",
+   "bytes": 48391,
+   "count": 450
+  },
+  "photos": {
+   "globals": [
+    "PLACE_PHOTOS"
+   ],
+   "sha256": "2af3da2dcaef43671b9349e40db3bba8c272d2bd4c8f8cbaf795bef841cd9d80",
+   "bytes": 4396,
+   "count": 579
+  },
+  "wiki2": {
+   "globals": [
+    "WIKI2"
+   ],
+   "sha256": "eeb91a3f82320c9ae39ac005712e05946ac4491311351e1d5dd1291a2987c313",
+   "bytes": 3031,
+   "count": 49
+  },
+  "real": {
+   "globals": [
+    "GB_EXTRA",
+    "REAL",
+    "REAL_ROWS"
+   ],
+   "sha256": "7da92ff2b3725e373bb17f1f01ea59392d804cf460f129abfc92dde2d7cb261d",
+   "bytes": 37660,
+   "count": 2960
+  },
+  "gv": {
+   "globals": [
+    "GV"
+   ],
+   "sha256": "2cf5a8f02a67e9e694f14a2ef867ecc3bde07f58e2d51576126a1c1ee367360b",
+   "bytes": 19996,
+   "count": 117
+  },
+  "hundred": {
+   "globals": [
+    "HUNDRED"
+   ],
+   "sha256": "3ca8e49989d7c50feb66ac32977372c70fd5d6fa6f1dee3354397d40a0404026",
+   "bytes": 4700,
+   "count": 35
+  },
+  "missions": {
+   "globals": [
+    "MISSIONS"
+   ],
+   "sha256": "8ae72f4ce28c67840aab4e68b09304ac5596400ecc89be57391355e238813d80",
+   "bytes": 18627,
+   "count": 150
+  },
+  "wiki3": {
+   "globals": [
+    "GVD",
+    "WIKI3"
+   ],
+   "sha256": "9419bc9e391f1106aabbbebc233d1cad082e63614fb6df4ce46c433a1f4273a6",
+   "bytes": 27893,
+   "count": 131
+  },
+  "ref": {
+   "globals": [
+    "REFP"
+   ],
+   "sha256": "041e1bbe3b0589a325fa3150c00b3bc7bcef4a296740aec8f00cdbbdb048fb48",
+   "bytes": 11,
+   "count": 0
+  },
+  "hq": {
+   "globals": [
+    "HQP"
+   ],
+   "sha256": "89c32463853f450d8e49435c647f322d34f3b6ed8360730f28e7e32e57a88d02",
+   "bytes": 1808,
+   "count": 45
+  },
+  "ig": {
+   "globals": [
+    "IGP"
+   ],
+   "sha256": "3c1c6ef64c7ba24e4104e20f4b9f31ba12e752112d3461895b70672ffafbcf69",
+   "bytes": 8465,
+   "count": 236
+  },
+  "official": {
+   "globals": [
+    "OFFICIAL_PHOTOS"
+   ],
+   "sha256": "c79a7c6627625ee849afe7565468cf73579349cb1b35122f55bd044bf2681dff",
+   "bytes": 22,
+   "count": 0
+  },
+  "chars": {
+   "globals": [
+    "CHAR_PHOTOS"
+   ],
+   "sha256": "07cd1448bbd3daeb228dd710bf51bf3625fbf86b94254c6d9b2f94cca10d69d2",
+   "bytes": 667,
+   "count": 18
+  }
+ }
+}
