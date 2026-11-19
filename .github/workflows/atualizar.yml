@@ -28,8 +28,9 @@ jobs:
       - name: Publicar se mudou
         run: |
           cp pipeline/data-dist/*.json .
+          date -u +%FT%TZ > ultima-execucao.txt                     # um commit por dia mantém o agendamento ativo (o GitHub o desliga após 60 dias sem atividade)
           git config user.name "VI Guide bot"; git config user.email "actions@users.noreply.github.com"
-          git add -A -- '*.json' pipeline/app/www
+          git add -A -- '*.json' ultima-execucao.txt pipeline/app/www
           if git diff --cached --quiet; then echo "sem mudanças"; exit 0; fi
           git commit -m "Dados de $(date -u +%F)"
           git push
