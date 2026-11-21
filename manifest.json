@@ -1,14 +1,14 @@
 {
  "format": 1,
- "generated": "2026-11-21T06:54:08Z",
+ "generated": "2026-11-21T17:31:25Z",
  "files": {
   "data": {
    "globals": [
     "ATLAS_PLACES"
    ],
-   "sha256": "8a2e32254bb4cfc917ff0882acc00b1c3b9f8aefbcb64aa06d737485a2cd6fbf",
-   "bytes": 338972,
-   "count": 3742
+   "sha256": "b89a9c048a23b5fba827b52790d561f89cb95eb1134f12421cd1b879cb5e9adc",
+   "bytes": 339958,
+   "count": 3754
   },
   "wiki": {
    "globals": [
@@ -22,9 +22,9 @@
    "globals": [
     "PLACE_PHOTOS"
    ],
-   "sha256": "2af3da2dcaef43671b9349e40db3bba8c272d2bd4c8f8cbaf795bef841cd9d80",
-   "bytes": 4396,
-   "count": 579
+   "sha256": "44d2482a41ec73bab9e7a750b8ca1021e0388cdec534e09ae37667a7180622a9",
+   "bytes": 4563,
+   "count": 601
   },
   "wiki2": {
    "globals": [
