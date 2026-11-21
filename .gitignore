@@ -1,4 +1,7 @@
 pipeline/work/
 pipeline/data-dist/
+pipeline/bin/
 pipeline/app/www/dataver.js
+pipeline/app/www/ph/
+pipeline/app/www/ig/
 __pycache__/
