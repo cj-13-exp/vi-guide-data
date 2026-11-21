@@ -61,7 +61,7 @@ for line in lt.split('\n'):
     if cur and re.match(r'\|\s*[^|!{}\s][^|]*$', line) and not line.startswith('|-') and not line.startswith('|}'):
         name = plain(line[1:])
         if name and not name.startswith('Image'): chap[name] = cur; giver[name] = who
-def key(n): return re.sub(r'\s*\(.*?\)\s*$', '', n).strip().lower()
+def key(n): return re.sub(r'\s*\(.*?\)\s*$', '', n.replace('\u2019', "'").replace('\u2018', "'")).strip().lower()   # curly and straight apostrophes are the same title
 byk = {key(t): t for t in M}
 for t, m in M.items():
     k = key(t); c = chap.get(t) or chap.get(m['title']) or next((chap[n] for n in chap if key(n) == k), None)
@@ -108,6 +108,36 @@ for t, m in M.items():
     if k in rankof:
         if not m.get('chapter'): m['chapter'] = rankof[k][0]
         m['rank'] = rankof[k][1]
+# Strangers & Freaks: the wiki lists every strand's missions in one table before each has its own page. Facts only (name, giver strand, chapter, who can play it, whether it counts for the
+# trophy); the in-game blurbs are not copied. A mission that already has a page, or the same title from another source, is not added twice.
+def sf_rows():
+    d = get(action='query', prop='revisions', rvprop='content|timestamp', rvslots='main', titles='Strangers & Freaks', redirects='1')
+    pg = list(d['query']['pages'].values())[0]
+    if 'missing' in pg: return [], ''
+    r = pg['revisions'][0]; x = r['slots']['main']['*']; ts_ = r['timestamp']
+    body = x.split('==List of Missions==')[1] if '==List of Missions==' in x else ''
+    out, ch, strand, n = [], None, '', 0
+    for part in re.split(r'(?m)^(={3,4}[^=\n]+={3,4})\s*$', body):
+        h = re.match(r'(={3,4})\s*([^=\n]+?)\s*={3,4}$', part.strip()) if part.strip().startswith('=') else None
+        if h:
+            if len(h.group(1)) == 3:
+                m_ = re.match(r'Chapter\s*(\d+)', h.group(2)); ch = int(m_.group(1)) if m_ else ch; strand = ''
+            else: strand = re.sub(r'\s*\(Part \d+\)', '', plain(h.group(2)))
+            continue
+        for blk in re.split(r'\n\|-\s*\n', part)[1:]:
+            cells = re.split(r'\n\|', '\n' + blk.strip().split('\n|}')[0])[1:]
+            if len(cells) < 5: continue
+            nm = re.search(r"\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]", re.sub(r'\[\[File:[^\]]*\|', '', cells[0]) if '[[File:' in cells[0] else cells[0])
+            nm = nm.group(1).strip() if nm else plain(cells[0])
+            if not nm or nm.lower().startswith(('unnamed', 'file:')) or re.match(r'(?i)^name\s*(/|&|and)\s*image$', nm): continue   # header cells are not missions
+            out.append(dict(title=nm, chapter=ch, strand=strand, prot=[re.sub(r'(?i)\s+only$', '', a.strip()) for a in re.split(r'\s*&\s*', plain(cells[2])) if a.strip()], trophy=bool(re.search(r'\{\{\s*Yes', cells[4], re.I)), i=n)); n += 1
+    return out, ts_
+SF, sf_ts = sf_rows()
+for q in SF:
+    if q['title'] in M or key(q['title']) in byk: continue
+    nrank = 0.2 + 0.6 * q['i'] / max(len(SF), 1)
+    M[q['title']] = dict(id=re.sub(r'[^a-z0-9]+', '-', q['title'].lower()).strip('-'), title=q['title'], type='side', prot=q['prot'], giver=q['strand'], loc=[], by=[], unl=[], obj=0, ts=sf_ts or '', chapter=q['chapter'], order=0, src=['gta.wiki'], rank=nrank, trophy=q['trophy'])
+    byk[key(q['title'])] = q['title']
 # a mission with no chapter of its own takes it from the graph: from the mission that unlocks it, or (a root such as the Prologue) from what it unlocks.
 # Runs after the guides' chapters are merged, and to a fixed point, so the result does not depend on where the data came from.
 byt = {M[t]['id']: t for t in M}
@@ -125,7 +155,7 @@ text = json.load(open(HERE + '/mission_text.json', encoding='utf-8')) if os.path
 rows = []
 for t in sorted(M, key=lambda t: M[t]['order']):
     m = M[t]; s = text.get(m['id'])
-    rows.append([m['id'], m['title'], m['type'], m['chapter'], m['order'], m['prot'], m['giver'], m['loc'], [M[b]['id'] for b in m['by']], [M[u]['id'] for u in m['unl']], m['obj'], s[0] if s else '', s[1] if s else '', m.get('src', ['gta.wiki']), 'confirmed' if 'gta.wiki' in m.get('src', ['gta.wiki']) else 'probable'])
+    rows.append([m['id'], m['title'], m['type'], m['chapter'], m['order'], m['prot'], m['giver'], m['loc'], [M[b]['id'] for b in m['by']], [M[u]['id'] for u in m['unl']], m['obj'], s[0] if s else '', s[1] if s else '', m.get('src', ['gta.wiki']), 'confirmed' if 'gta.wiki' in m.get('src', ['gta.wiki']) else 'probable', 1 if m.get('trophy') else 0])
 open(APP + '/missions.js', 'w', encoding='utf-8').write('window.MISSIONS=' + json.dumps({'ts': max(m['ts'] for m in M.values() if m['ts']), 'chapters': CH, 'rows': rows}, ensure_ascii=False, separators=(',', ':')) + ';')
 print(len(rows), 'missions written;', collections.Counter(r[2] for r in rows), '| by chapter', dict(collections.Counter(r[3] for r in rows)))
 for r in rows[:30]: print('  %2d ch%s %-34s by %-24s -> %s' % (r[4], r[3], r[1][:34], ','.join(r[8])[:24], ','.join(r[9])[:50]))
