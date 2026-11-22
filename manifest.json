@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-21T18:47:34Z",
+ "generated": "2026-11-22T06:57:04Z",
  "files": {
   "data": {
    "globals": [
@@ -14,9 +14,9 @@
    "globals": [
     "WIKI"
    ],
-   "sha256": "7406b1159ba12b8c9db4669874538d59a58f1bce45d5041b86141dc1d34988a7",
-   "bytes": 55010,
-   "count": 517
+   "sha256": "c68ba0f7b27742f4045c81806ed007c9863fa68fa7c6a3df29db20e422ce031b",
+   "bytes": 55861,
+   "count": 524
   },
   "photos": {
    "globals": [
@@ -30,9 +30,9 @@
    "globals": [
     "WIKI2"
    ],
-   "sha256": "eeb91a3f82320c9ae39ac005712e05946ac4491311351e1d5dd1291a2987c313",
-   "bytes": 3031,
-   "count": 49
+   "sha256": "13ed223e36a07e9523f9716e00bb09df96b50d350effb9b1077028f20aa29052",
+   "bytes": 3580,
+   "count": 54
   },
   "real": {
    "globals": [
@@ -64,18 +64,18 @@
    "globals": [
     "MISSIONS"
    ],
-   "sha256": "6c043168679a88ecf03812b330334a6542c16d62bf8f940b180a880e0150ecb6",
-   "bytes": 23671,
-   "count": 177
+   "sha256": "7d111922c4e578ca95bca3680883a1106ccb2ad91293a943b44ed068b51443e6",
+   "bytes": 23820,
+   "count": 176
   },
   "wiki3": {
    "globals": [
     "GVD",
     "WIKI3"
    ],
-   "sha256": "9419bc9e391f1106aabbbebc233d1cad082e63614fb6df4ce46c433a1f4273a6",
-   "bytes": 27893,
-   "count": 131
+   "sha256": "f96aca6c6eeb31f93390da341da6cbdbc4373d7ddd27d4d0b21eabea577040d5",
+   "bytes": 29946,
+   "count": 157
   },
   "ref": {
    "globals": [
@@ -97,9 +97,9 @@
    "globals": [
     "IGP"
    ],
-   "sha256": "0c3c5b2289e539bfa3378eb3ddef7f8f3086a31c7ceb3be2cb211c3d63d2809e",
-   "bytes": 11937,
-   "count": 328
+   "sha256": "872e9fe72aa4ea0c6650e2f20c923d9e68d0df708f243f401dcbddafe5178bbc",
+   "bytes": 11015,
+   "count": 305
   },
   "official": {
    "globals": [
