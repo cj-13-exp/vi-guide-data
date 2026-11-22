@@ -1,0 +1,41 @@
+{
+ "_note": "Registro de TODAS as categorias da gta.wiki sobre GTA VI. status: covered = vira seção do app e é conferida contra a wiki; partial = parte vira seção ou dado guardado; stored = guardado como dado, não desenhado; reference = fatos de contexto (lugares, prédios), sem coordenadas, o mapa vem do GTADB; ignored = fora do produto (motivo no campo why). Categoria que NÃO está aqui = SEÇÃO NOVA: avisar o dono e decidir. Regras do projeto valem para tudo: só fatos e texto nosso (CC BY-NC-SA), nunca item 'Unnamed', só foto de dentro do jogo e sem repetição, nada novo no mapa sem aprovação do dono.",
+ "categories": {
+  "Vehicles in GTA VI": {"status": "covered", "app": "wiki.vehicles"},
+  "Weapons in GTA VI": {"status": "covered", "app": "wiki.weapons"},
+  "Characters in GTA VI": {"status": "covered", "app": "wiki.characters"},
+  "Animals in GTA VI": {"status": "covered", "app": "wiki2.animals"},
+  "Organizations in GTA VI": {"status": "partial", "app": "wiki2.gangs", "note": "Gangues = infobox type gang ou mc; policiais, times e bandas não são gangues. Revisar se surgir outro tipo que mereça seção (ex.: esportes, polícia)."},
+  "Businesses in GTA VI": {"status": "partial", "note": "Lojas do app vêm dos pontos do GTADB (mapa); a wiki não tem coordenadas."},
+  "Media in GTA VI": {"status": "partial", "app": "k_media", "note": "Seção Mídia (11 itens) é lista própria; conferir páginas novas."},
+  "Gameplay in GTA VI": {"status": "partial", "note": "Missões, assaltos, cheats, atividades. Página nova aqui pode ser uma seção nova (colecionáveis, saltos, etc.)."},
+  "Items in GTA VI": {"status": "partial", "note": "Itens do jogo; checar se viram seção ou metas do 100%."},
+  "Clothing in GTA VI": {"status": "partial"},
+  "Properties in GTA VI": {"status": "partial", "app": "k_props"},
+  "Features in GTA VI": {"status": "partial"},
+  "Downloadable content in GTA VI": {"status": "partial", "note": "Edições e pacotes; ver seção Edições."},
+  "Mission Transcripts in GTA VI": {"status": "partial", "note": "Só fatos; nunca copiar diálogo."},
+  "Locations in GTA VI": {"status": "reference"},
+  "Buildings in GTA VI": {"status": "reference"},
+  "Structures in GTA VI": {"status": "reference"},
+  "Beta content in GTA VI": {"status": "ignored", "why": "conteúdo cortado, fora do produto"},
+  "Beta changes in GTA VI": {"status": "ignored", "why": "conteúdo cortado, fora do produto"},
+  "Upcoming content in GTA VI": {"status": "ignored", "why": "pré-lançamento"},
+  "Spoilers pertaining to GTA VI": {"status": "ignored", "why": "marcador de spoiler"},
+  "Navigation templates for GTA VI": {"status": "ignored", "why": "modelos internos da wiki"},
+  "Real-world people credited on GTA VI": {"status": "ignored", "why": "créditos de pessoas reais"},
+  "New content in GTA VI": {"status": "ignored", "why": "categoria de manutenção (1000+ páginas)"},
+  "Returning content in GTA VI": {"status": "ignored", "why": "categoria de manutenção"},
+  "New pages on GTA VI": {"status": "ignored", "why": "manutenção"},
+  "Images of GTA VI": {"status": "ignored", "why": "imagens vêm pelo passo de fotos"},
+  "Maps of GTA VI": {"status": "ignored", "why": "mapa vem do GTADB"},
+  "GTA VI": {"status": "ignored", "why": "categoria raiz"}
+ },
+ "prefix_status": {
+  "Locations in GTA VI in ": "reference",
+  "Buildings in GTA VI in ": "reference",
+  "Structures in GTA VI in ": "reference"
+ },
+ "watch_categories": ["Gameplay in GTA VI", "Items in GTA VI", "Media in GTA VI", "Features in GTA VI", "Downloadable content in GTA VI", "Clothing in GTA VI", "Properties in GTA VI", "Organizations in GTA VI", "Animals in GTA VI", "Mission Transcripts in GTA VI"],
+ "watch_pages": ["Secrets and Easter Eggs in GTA VI", "Smash 'n' Grabs", "Payday Loans", "Fences", "Gang Operations", "Bank Jobs", "Stick-Ups", "Vaults", "Collectibles", "Stunt Jumps", "Strangers and Freaks", "Hidden Packages", "Side Missions", "Optional Tasks", "Cheats in GTA VI", "Trophies and Achievements in GTA VI", "Radio stations in GTA VI", "Missions in GTA VI", "Chapters in GTA VI", "Challenges in GTA VI", "Races in GTA VI", "Activities in GTA VI", "Hobbies in GTA VI"]
+}

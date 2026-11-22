@@ -2,7 +2,7 @@ name: Atualizar dados
 on:
   schedule: [{ cron: '0 6 * * *' }]      # todo dia, 03:00 em Brasília
   workflow_dispatch: {}
-permissions: { contents: write, pages: write }
+permissions: { contents: write, pages: write, issues: write }
 concurrency: atualizar
 jobs:
   atualizar:
@@ -20,10 +20,16 @@ jobs:
           cp ../*.json data-dist/                                   # pacote publicado: base do portão "não encolher"
           python3 tools/gtawiki_sync.py app/www work                # itens
           python3 tools/heists_build.py app/www work                # assaltos: tipos, locais e receptadores (gta.wiki)
+          python3 tools/eggs_build.py app/www work                  # easter eggs: dados guardados (sem desenhar no mapa); avisa o que a gta.wiki tem a mais
           python3 tools/missions_build.py app/www work              # missões (só gta.wiki)
           python3 tools/missions_crosscheck.py work                 # 2ª fonte: guias que concordam entre si
           python3 tools/factdb.py work work/gtavi.db                # status por fato
           python3 tools/missions_build.py app/www work              # missões finais
+      - name: Revisão diária de todas as seções (gta.wiki)
+        working-directory: pipeline
+        run: |
+          python3 tools/sections_watch.py app/www work state        # seções novas, lacunas, páginas novas e páginas vigiadas
+          cp work/revisao-diaria.md ../revisao-diaria.md
       - name: Mapa e fotos de lugares (GTADB, CC BY 4.0)
         working-directory: pipeline
         run: |
@@ -56,8 +62,14 @@ jobs:
           cp -R pipeline/app/www/ig/. ig/ 2>/dev/null || true
           date -u +%FT%TZ > ultima-execucao.txt                     # um commit por dia mantém o agendamento ativo (o GitHub o desliga após 60 dias sem atividade)
           git config user.name "VI Guide bot"; git config user.email "actions@users.noreply.github.com"
-          git add -A -- '*.json' ultima-execucao.txt pipeline/app/www pipeline/state pipeline/tools/gtadb_rev.txt ph ig
+          git add -A -- '*.json' ultima-execucao.txt revisao-diaria.md pipeline/app/www pipeline/state pipeline/tools/gtadb_rev.txt ph ig
           if git diff --cached --quiet; then echo "sem mudanças"; exit 0; fi
           git commit -m "Dados de $(date -u +%F)"
           git push
           gh api -X POST repos/${{ github.repository }}/pages/builds >/dev/null   # pushes do bot não disparam o build do Pages sozinhos
+          n=$(python3 -c "import json;print(len(json.load(open('pipeline/work/sections_report.json'))['alerts']))")
+          if [ "$n" != "0" ]; then                                   # novidade nas fontes: avisar o dono por uma issue (uma só, com comentários)
+            gh label create revisao-diaria --force >/dev/null 2>&1 || true
+            ex=$(gh issue list --state open --label revisao-diaria --json number --jq '.[0].number')
+            if [ -z "$ex" ]; then gh issue create --title "Revisão diária: novidades nas fontes" --label revisao-diaria --body-file revisao-diaria.md; else gh issue comment "$ex" --body-file revisao-diaria.md; fi
+          fi

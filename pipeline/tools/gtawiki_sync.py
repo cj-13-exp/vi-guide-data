@@ -4,7 +4,7 @@ usage: gtawiki_sync.py <app/www> <work dir>
 - Reads the GTA VI categories through the MediaWiki API (1 request per 0.6 s, generic client name; robots.txt allows it).
 - Keeps only facts (names, class, maker, capacity, games it appears in); descriptions in the app are our own words.
 - Never imports an item whose name starts with 'Unnamed'.
-- Writes app/www/wiki.js (vehicles, weapons, characters) and replaces the animals list in app/www/wiki2.js (radios and gangs are left alone).
+- Writes app/www/wiki.js (vehicles, weapons, characters) and replaces the animals and gangs lists in app/www/wiki2.js (radios are left alone). Gangs = pages of 'Organizations in GTA VI' whose infobox type is gang or mc (motorcycle club).
 - Writes <work>/images.json: lead image (file, url, original size) of every kept item, for the photo pass.
 gta.wiki text is CC BY-NC-SA 3.0: no prose is copied, only item facts."""
 import sys, os, re, json, time, urllib.request, urllib.parse
@@ -21,7 +21,7 @@ def get(**p):
         try: return json.load(urllib.request.urlopen(urllib.request.Request('https://gta.wiki/api.php?' + urllib.parse.urlencode(p), headers=UA), timeout=60))
         except Exception: time.sleep(3)
     raise SystemExit('gta.wiki not reachable')
-CATS = {'vehicles': 'Vehicles in GTA VI', 'weapons': 'Weapons in GTA VI', 'characters': 'Characters in GTA VI', 'animals': 'Animals in GTA VI'}
+CATS = {'vehicles': 'Vehicles in GTA VI', 'weapons': 'Weapons in GTA VI', 'characters': 'Characters in GTA VI', 'animals': 'Animals in GTA VI', 'orgs': 'Organizations in GTA VI'}
 raw, images = {}, {}
 for kind, cat in CATS.items():
     titles, cont = [], {}
@@ -82,6 +82,20 @@ for t, p in sorted(raw['animals'].items()):
     g = lambda *ks: next((clean(f[k])[:90] for k in ks if f.get(k)), '')
     animals.append([t, 'Animais', g('type', 'class', 'species'), g('habitat', 'location', 'locations'), '', []])
 w2, pre2, post2 = jsvar(APP + '/wiki2.js', 'window.WIKI2'); w2['animals'] = animals
+old_g = {r[0]: r for r in w2.get('gangs', [])}
+gangs = []
+for t, p in sorted(raw['orgs'].items()):
+    n, f = infobox(p['text'])
+    ty = clean(f.get('type', '')).lower()
+    if ty not in ('gang', 'mc') or re.match(r'\s*Unnamed\b', t): continue
+    g = lambda *ks: next((clean(f[k])[:90] for k in ks if f.get(k)), '')
+    kind = g('gang_type') or ('Motorcycle club' if ty == 'mc' else 'gang')
+    loc = g('locations')
+    if not loc or '{{' in loc or 'Location|' in loc: loc = (old_g.get(t) or ['', '', '', '', '', []])[4]
+    loc = re.sub(r'\s*\*\s*', ' ', loc).strip(' ·'); loc = re.sub(r'\s+·\s+·', ' ·', loc)   # list markup from the wiki
+    ld = ' · '.join(x for x in g('leader').split(' · ') if x and not re.search(r'\?|unknown|none|n/a', x, re.I))   # only known leaders
+    gangs.append([t.replace(' (The Families set)', ''), 'Gangues', kind[:60], ld, loc, []])
+if len(gangs) >= len(old_g): w2['gangs'] = gangs   # never shrink the list if the wiki changed shape
 open(APP + '/wiki2.js', 'w', encoding='utf-8').write(pre2 + json.dumps(w2, ensure_ascii=False, separators=(',', ':')) + post2)
-print('wiki.js:', {k: len(v) for k, v in out.items() if k != 'ts'}, '| animals:', len(animals), '| images found for', len(images), 'items | newest revision', out['ts'])
+print('wiki.js:', {k: len(v) for k, v in out.items() if k != 'ts'}, '| animals:', len(animals), '| gangs:', len(gangs), '| images found for', len(images), 'items | newest revision', out['ts'])
 for k in ('vehicles', 'weapons', 'characters'): print(' app had', len(old.get(k, [])), '->', len(out[k]), k)
