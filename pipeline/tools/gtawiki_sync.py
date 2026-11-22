@@ -96,6 +96,34 @@ for t, p in sorted(raw['orgs'].items()):
     ld = ' · '.join(x for x in g('leader').split(' · ') if x and not re.search(r'\?|unknown|none|n/a', x, re.I))   # only known leaders
     gangs.append([t.replace(' (The Families set)', ''), 'Gangues', kind[:60], ld, loc, []])
 if len(gangs) >= len(old_g): w2['gangs'] = gangs   # never shrink the list if the wiki changed shape
+# Organizações (polícia, governo, esportes, outros) = o resto de "Organizations in GTA VI": tudo que não é gangue nem banda; antes era lista manual
+OT = {'police': ('Polícia', 'Police force'), 'government': ('Governo', 'Government agency'), 'prisonauthority': ('Governo', 'Prison authority'), 'coastguard': ('Governo', 'Coast guard'),
+      'fire': ('Governo', 'Fire department'), 'medical': ('Governo', 'Medical service'), 'military': ('Governo', 'Military'), 'tactical': ('Governo', 'Tactical unit'),
+      'animalprotection': ('Governo', 'Animal protection agency'), 'private': ('Outros', 'Private organization'), 'sportsleague': ('Esportes', 'Sports league'),
+      'baseball': ('Esportes', 'Professional baseball team'), 'basketball': ('Esportes', 'Professional basketball team'), 'football': ('Esportes', 'Professional football team')}
+SKIP_T = {'band', 'artist', 'b', 'd', 'gang', 'mc'}   # bandas e artistas não são organizações; gangues têm seção própria
+LOCN = {'capri': 'Capri', 'hamlet': 'Hamlet', 'keylento': 'Key Lento', 'marianacounty': 'Mariana County', 'portgellhorn': 'Port Gellhorn', 'ambrosia': 'Ambrosia', 'vicedale': 'Vice-Dale County',
+        'waningsands': 'Waning Sands', 'vc': 'Vice City', 'le': 'Leonida', 'vcia': 'Vice City International Airport', 'stockyard': 'Stockyard', 'southside': 'Southside Vice City'}
+w3, pre3, post3 = jsvar(APP + '/wiki3.js', 'window.WIKI3')
+nk = lambda x: re.sub(r'[^a-z0-9]+', '', re.sub(r'\([^)]*\)', '', x.lower()))
+old_o = {nk(r[0]): r for r in w3.get('orgs', [])}
+orgs, seen = [], set()
+for t, p in sorted(raw['orgs'].items()):
+    n, f = infobox(p['text'])
+    ty = clean(f.get('type', '')).lower()
+    if re.match(r'\s*Unnamed\b', t) or ty in SKIP_T: continue
+    grp, kind = OT.get(ty, ('Outros', 'Organization'))
+    if re.search(r'sheriff|police', t, re.I): grp, kind = 'Polícia', 'Police force'
+    prev = old_o.get(nk(t)) or ['', '', '', '', '', []]
+    loc = clean(f.get('locations', ''))[:90]
+    m = re.search(r'Location\|vi-([a-z]+)', f.get('locations', ''))
+    if (not loc or '{{' in loc or 'Location|' in loc) and m: loc = LOCN.get(m.group(1), m.group(1).title())
+    if not loc or '{{' in loc or 'Location|' in loc or 'Section|' in loc: loc = prev[3]
+    loc = re.sub(r'\s*\*\s*', ' ', loc).strip(' ·'); loc = ' · '.join([x for x in re.split(r'\s*·\s*', loc) if x][:3])
+    orgs.append([t, prev[1] or grp, prev[2] or kind, loc, prev[4], []]); seen.add(nk(t))
+keep_old = [r for k, r in old_o.items() if k not in seen and r[1] != 'Gangues' and not r[0].startswith('Unnamed')]   # linhas manuais que a categoria não traz (ex.: Oceanarium)
+if len(orgs) + len(keep_old) >= len(old_o) - 1: w3['orgs'] = orgs + keep_old
+open(APP + '/wiki3.js', 'w', encoding='utf-8').write(pre3 + json.dumps(w3, ensure_ascii=False, separators=(',', ':')) + post3)
 open(APP + '/wiki2.js', 'w', encoding='utf-8').write(pre2 + json.dumps(w2, ensure_ascii=False, separators=(',', ':')) + post2)
-print('wiki.js:', {k: len(v) for k, v in out.items() if k != 'ts'}, '| animals:', len(animals), '| gangs:', len(gangs), '| images found for', len(images), 'items | newest revision', out['ts'])
+print('wiki.js:', {k: len(v) for k, v in out.items() if k != 'ts'}, '| animals:', len(animals), '| gangs:', len(gangs), '| orgs:', len(w3['orgs']), '| images found for', len(images), 'items | newest revision', out['ts'])
 for k in ('vehicles', 'weapons', 'characters'): print(' app had', len(old.get(k, [])), '->', len(out[k]), k)

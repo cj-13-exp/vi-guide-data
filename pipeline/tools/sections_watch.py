@@ -26,9 +26,9 @@ dec = json.JSONDecoder()
 def jsvar(f, var):
     t = open(APP + '/' + f, encoding='utf-8').read(); i = t.index(var + '=') + len(var) + 1
     return dec.raw_decode(t, i)[0]
-W, W2 = jsvar('wiki.js', 'window.WIKI'), jsvar('wiki2.js', 'window.WIKI2')
+W, W2, W3 = jsvar('wiki.js', 'window.WIKI'), jsvar('wiki2.js', 'window.WIKI2'), jsvar('wiki3.js', 'window.WIKI3')
 APPNAMES = {'wiki.vehicles': [r[0] for r in W['vehicles']], 'wiki.weapons': [r[0] for r in W['weapons']], 'wiki.characters': [r[0] for r in W['characters']],
-            'wiki2.animals': [r[0] for r in W2['animals']], 'wiki2.gangs': [r[0] for r in W2['gangs']]}
+            'wiki2.animals': [r[0] for r in W2['animals']], 'wiki2.gangs': [r[0] for r in W2['gangs']], 'wiki3.orgs': [r[0] for r in W3['orgs']]}
 norm = lambda s: re.sub(r'[^a-z0-9]+', '', re.sub(r'\([^)]*\)', '', s.lower()))
 today = datetime.date.today().isoformat()
 try: prev = json.load(open(STATE + '/sections_prev.json', encoding='utf-8'))
@@ -76,16 +76,21 @@ for cat, info in reg.items():
     if miss: gaps[cat] = miss
 # gangues: organizações com infobox type gang ou mc
 orgs = mem.get('Organizations in GTA VI', [])
-gang_titles = []
+gang_titles, org_titles = [], []
 for i in range(0, len(orgs), 40):
     d = get(action='query', prop='revisions', rvprop='content', rvslots='main', titles='|'.join(orgs[i:i + 40]), redirects='1')
     for p in d['query']['pages'].values():
         tx = ((p.get('revisions') or [{}])[0].get('slots', {}).get('main', {}) or {}).get('*', '')
         ty = re.search(r'\|\s*type\s*=\s*([^\n|]*)', tx)
-        if ty and ty.group(1).strip().lower() in ('gang', 'mc'): gang_titles.append(p['title'].replace(' (The Families set)', ''))
+        tt = ty.group(1).strip().lower() if ty else ''
+        if tt in ('gang', 'mc'): gang_titles.append(p['title'].replace(' (The Families set)', ''))
+        elif tt not in ('band', 'artist', 'b', 'd') and not re.match(r'\s*Unnamed\b', p['title']): org_titles.append(p['title'])
 have = {norm(x) for x in APPNAMES['wiki2.gangs']}
 gmiss = sorted(t for t in gang_titles if norm(t) not in have)
 if gmiss: gaps['Gangues (organizações type gang/mc)'] = gmiss
+have_o = {norm(x) for x in APPNAMES['wiki3.orgs']}
+omiss = sorted(t for t in org_titles if norm(t) not in have_o)
+if omiss: gaps['Organizações (tudo que não é gangue nem banda)'] = omiss
 for k, v in gaps.items(): alerts.append('LACUNA em "%s": a wiki tem e o app não: %s' % (k, ', '.join(v[:12]) + (' …(+%d)' % (len(v) - 12) if len(v) > 12 else '')))
 # 3. páginas novas nas categorias vigiadas
 seen_prev = prev.get('members', {}); newpages = {}
