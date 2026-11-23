@@ -62,7 +62,8 @@ def main():
     have = app_blob()
     out = []
     for i in range(0, len(titles), 20):
-        r = get(action='query', prop='categories|revisions|info', cllimit=500, rvprop='content', rvslots='main', titles='|'.join(titles[i:i + 20]), redirects=1)
+        r = get(action='query', prop='categories|revisions|info|pageimages', cllimit=500, rvprop='content', rvslots='main',
+                piprop='thumbnail|name', pithumbsize=320, pilimit=20, titles='|'.join(titles[i:i + 20]), redirects=1)
         for p in r['query']['pages'].values():
             if 'missing' in p or 'redirect' in p: continue
             cats = [c['title'].split(':', 1)[1] for c in p.get('categories', [])]
@@ -70,7 +71,9 @@ def main():
             tx = ((p.get('revisions') or [{}])[0].get('slots', {}).get('main', {}) or {}).get('*', '')
             pts = re.findall(r'x\s*:\s*(-?\d+(?:\.\d+)?)\s*,\s*y\s*:\s*(-?\d+(?:\.\d+)?)', ''.join(re.findall(r'\{\{\s*LeonidaDayMap[^}]*\}\}', tx)))
             t = p['title']
-            out.append({'title': t, 'created': created.get(t, '')[:10], 'group': group_of(cats),
+            pi = p.get('pageimage', ''); th = (p.get('thumbnail') or {}).get('source', '')
+            if not (re.search(r'GTAVI|GTA6', pi, re.I) and not re.search(r'logo|icon|badge|map|poster|cover|artwork|fanart|concept|real|stock', pi, re.I)): th = ''   # só tela do jogo
+            out.append({'title': t, 'thumb': th, 'image': pi if th else '', 'created': created.get(t, '')[:10], 'group': group_of(cats),
                         'cats': [c for c in cats if re.search(r'GTA VI', c) and not c.startswith('New content')][:4],
                         'new_content': any(c.startswith('New content') for c in cats), 'returning': any(c.startswith('Returning content') for c in cats),
                         'map_points': len(pts), 'xy': [float(pts[0][0]), float(pts[0][1])] if pts else None,

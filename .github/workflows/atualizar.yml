@@ -61,6 +61,7 @@ jobs:
           python3 tools/wiki_points.py app/www state ../radar/map_candidates.json  # pontos {{LeonidaDayMap}} da gta.wiki (guardados, não desenhados)
           python3 tools/radar.py app/www state ../radar/radar.json                 # notícias (~50 sites) e canais do YouTube
           python3 tools/videos_match.py app/www state ../radar/item_videos.json 40 # um vídeo de guia por item (missões, veículos, armas...)
+          python3 tools/photo_suggest.py app/www state ../radar/photo_suggest.json 40 # fotos de dentro do jogo para itens sem foto ou com uma só
       - name: Portão de release e empacotamento (com o que o dono tirou do app)
         working-directory: pipeline
         run: |
