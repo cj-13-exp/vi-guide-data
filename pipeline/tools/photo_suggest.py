@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Fotos sugeridas, todo dia, para o dono aprovar na página Aprovações (pedido de 23/11/2026: "sempre sugestões de mais fotos").
-usage: photo_suggest.py <app/www> <state dir> <out photo_suggest.json> [itens_por_dia]
+usage: photo_suggest.py <app/www> <state dir> <out photo_suggest.json> [itens_por_dia] [pedidos.json]
+Com pedidos.json (botão "Achar mais fotos" na aba Dados do app): só os itens pedidos, mesmo os que já têm foto, até 6 candidatas,
+procurando também os arquivos da gta.wiki que começam com o nome do item (ex.: JasonDuval-GTAVI-...).
 
 A coleta antiga (gtawiki_images.py + gtawiki_fetch.py) põe UMA foto por item sozinha. Aqui vêm as que faltam:
   1) itens SEM foto (veículos, armas, personagens, animais, rádios, gangues, organizações, mídia, missões, lugares do assalto);
@@ -12,6 +14,7 @@ import sys, os, re, json, time, datetime, urllib.request, urllib.parse
 
 WWW, STATE, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
 PER_DAY = int(sys.argv[4]) if len(sys.argv) > 4 else 40
+REQ = sys.argv[5] if len(sys.argv) > 5 else ''      # pedidos "Achar mais fotos" da aba Dados: [{"pk": "c:Jason Duval", "name": ...}]
 TODAY = datetime.date.today().isoformat()
 UA = {'User-Agent': 'LeonidaCompanionPrototype/0.1 (fan app prototype; generic-client)'}
 BAD = re.compile(r'logo|icon|badge|map|poster|cover|box|art\b|artwork|fanart|concept|texture|sprite|signature|-GTAV[^I]|-GTAIV|-GTAO|-GTAOee|-GTAVee|real|stock', re.I)
@@ -67,13 +70,25 @@ def main():
     seen = json.load(open(sf)) if os.path.exists(sf) else {}
     IT, HAVE = items(), photos_now()
     order = {'missions': 0, 'vehicles': 1, 'characters': 2, 'weapons': 3, 'animals': 4, 'heists': 5, 'orgs': 6, 'gangs': 7, 'radios': 8, 'media': 9, 'editions': 10}
-    IT = [x for x in IT if HAVE.get(x[1], 0) < 2]
+    asked = {}
+    if REQ and os.path.exists(REQ):
+        for r in json.load(open(REQ)): asked[r.get('pk')] = r
+    if asked:
+        IT = [x for x in IT if x[1] in asked]
+    else:
+        IT = [x for x in IT if HAVE.get(x[1], 0) < 2]
+    used = set()
+    try: used = {v.get('file', '').replace(' ', '_') for v in json.load(open(os.path.join(STATE, 'images.json'))).values()}   # fotos que o app já usa
+    except Exception: pass
+    MAXC = 6 if asked else 3
     rank = {}
     for x in sorted(IT, key=lambda x: order.get(x[0], 9)):                      # alterna os tipos: 1 missão, 1 veículo, 1 personagem...
         rank[x[1]] = sum(1 for y in rank if y.split(':')[0] == x[1].split(':')[0])
     IT.sort(key=lambda x: (min(HAVE.get(x[1], 0), 2), rank[x[1]], order.get(x[0], 9)))   # sem foto primeiro; depois quem tem só uma
     out, i = [], 0
-    while len(out) < PER_DAY and i < len(IT):
+    if asked: PER = len(IT)
+    else: PER = PER_DAY
+    while len(out) < PER and i < len(IT):
         chunk = IT[i:i + 25]; i += 25
         names = {}
         cont = {}
@@ -84,6 +99,12 @@ def main():
                 for im in p.get('images', []): names.setdefault(red.get(p['title'], p['title']), []).append(im['title'][5:])
             if 'continue' in d: cont = {'imcontinue': d['continue']['imcontinue']}
             else: break
+        if asked:                                                      # pedido: também os arquivos que começam com o nome do item
+            for kind, key, title, name in chunk:
+                pre = re.sub(r'[^A-Za-z0-9]', '', re.sub(r'\s*\([^)]*\)', '', title))
+                if len(pre) < 4: continue
+                d = get(action='query', list='allimages', aiprefix=pre, ailimit='100')
+                names.setdefault(title, []).extend(x['name'] for x in d['query'].get('allimages', []))
         files = sorted({n for v in names.values() for n in v if GOOD.search(n) and not BAD.search(n) and re.search(r'\.(png|jpe?g)$', n, re.I)
                         and n.replace(' ', '_') not in seen})
         info = {}
@@ -95,7 +116,8 @@ def main():
         for kind, key, title, name in chunk:
             cl = []
             for n in names.get(title, []):
-                if n.replace(' ', '_') in seen: continue                        # a mesma foto não vai para dois itens
+                if n.replace(' ', '_') in seen or n.replace(' ', '_') in used: continue   # nem repetida, nem a que o app já usa
+                if not (GOOD.search(n) and not BAD.search(n)): continue
                 u = info.get(n.replace(' ', '_'))
                 if not u or u.get('width', 0) < 640: continue
                 sc = min(u['width'], 2000) / 20 + sum(b for kk, b in KIND_BONUS if kk.lower() in n.lower())
@@ -103,12 +125,16 @@ def main():
                            'page': 'https://gta.wiki/wiki/File:' + urllib.parse.quote(n.replace(' ', '_')), 'score': round(sc, 1)})
             cl.sort(key=lambda x: -x['score'])
             if not cl: continue
-            out.append({'kind': kind, 'key': key, 'title': title, 'name': name, 'has': HAVE.get(key, 0), 'cands': cl[:3]})
-            for c in cl[:3]: seen[c['file']] = TODAY
-            if len(out) >= PER_DAY: break
+            uniq, fs = [], set()
+            for c in cl:
+                if c['file'] not in fs: fs.add(c['file']); uniq.append(c)
+            out.append({'kind': kind, 'key': key, 'title': title, 'name': name, 'has': HAVE.get(key, 0), 'cands': uniq[:MAXC], 'asked': key in asked})
+            for c in uniq[:MAXC]: seen[c['file']] = TODAY
+            if len(out) >= PER: break
     json.dump(seen, open(sf, 'w'), indent=0)
     json.dump({'ts': TODAY, 'items': out}, open(OUT, 'w'), ensure_ascii=False, indent=1)
     from collections import Counter
+    if asked: print('pedidos: %d itens, %d com fotos novas, %d sem nada novo' % (len(asked), len(out), len(asked) - len(out)))
     print('fotos sugeridas: %d itens (%d sem foto, %d com uma)' % (len(out), sum(1 for x in out if not x['has']), sum(1 for x in out if x['has'])),
           dict(Counter(x['kind'] for x in out)))
 
