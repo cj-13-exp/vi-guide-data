@@ -86,10 +86,14 @@ def read_hidden(path):
     return {k: (v if isinstance(v, dict) else {x: [x, ''] for x in v}) for k, v in H.items() if v}
 
 def photo_map(www):
+    """chave -> todas as fotos do item, na ordem em que o app escolhe a principal (personagens, gta.wiki, outras, extras da galeria)"""
     P = {}
-    for f in ('ig.js', 'hq.js', 'chars.js'):
-        for g, v in globals_of(www, f).items():
-            if isinstance(v, dict): P.update(v)
+    for f, g in (('chars.js', 'CHAR_PHOTOS'), ('ig.js', 'IGP'), ('hq.js', 'HQP')):
+        for k, p in (globals_of(www, f).get(g) or {}).items():
+            if p not in P.setdefault(k, []): P[k].append(p)
+    for k, ps in (globals_of(www, 'ig_more.js').get('IGPX') or {}).items():
+        for p in ps:
+            if p not in P.setdefault(k, []): P[k].append(p)
     return P, set(globals_of(www, 'photos.js').get('PLACE_PHOTOS', []))
 
 def build_sprites(www, out, paths):
@@ -126,11 +130,14 @@ def catalog(www, out, hidden_path='', videos_path='', cand_path=''):
             if not n or re.match(r'\s*Unnamed\b', str(n)): continue
             try: d = [[a, str(b)[:300]] for a, b in det(r) if b not in ('', None)]
             except Exception: d = []
-            ph = ''
-            if phx == 'P': ph = ('ph/%s.jpg' % k) if k in PLACEPH else ''
-            elif phx: ph = PH.get('%s:%s' % (phx, n), '')
+            phs = []
+            if phx == 'P': phs = ['ph/%s.jpg' % k] if k in PLACEPH else []
+            elif phx: phs = PH.get('%s:%s' % (phx, n), [])
+            elif kind == 'missions': phs = PH.get('ms:' + k, [])
+            ph = phs[0] if phs else ''
             vid = VID.get(('m:' + k) if vx == 'm' else ('%s:%s' % (vx, nk(n))) if vx else '', None)
-            rows.append({'k': str(k), 'n': str(n), 's': str(sub or '')[:60], 'id': doc_id(kind, k), 'st': 'app', 'd': d, 'ph': ph,
+            rows.append({'k': str(k), 'n': str(n), 's': str(sub or '')[:60], 'id': doc_id(kind, k), 'st': 'app', 'd': d, 'ph': ph, 'phs': phs,
+                         'pk': ('%s:%s' % (phx, n)) if phx and phx != 'P' else ('ms:' + k if kind == 'missions' else ''),
                          'v': {'t': vid['title'], 'c': vid['channel'], 'u': vid['url']} if vid else None})
         have = {r['k'] for r in rows}
         for k, (n, sub) in HID.get(kind, {}).items():          # já fora do app: some dos .js, continua aqui para poder voltar
@@ -150,11 +157,19 @@ def catalog(www, out, hidden_path='', videos_path='', cand_path=''):
         kinds['mappoints'] = ('Pontos da gta.wiki (não desenhados)', [{'k': p['id'], 'n': p['label'], 's': GN.get(p['group'], p['group']), 'id': doc_id('mappoints', p['id']), 'st': 'stored',
             'd': [['Camada', GN.get(p['group'], p['group'])], ['Seção da página', p['section']], ['Posição no mapa', '%s, %s' % (round(p['x']), round(p['y']))],
                   ['Fonte', 'gta.wiki: ' + p['page']], ['Visto pela primeira vez', p['first_seen']]], 'ph': '', 'v': None, 'url': p['url']} for p in pts])
-    # fotos em folhas de miniaturas
-    paths = sorted({r['ph'] for _, rows in kinds.values() for r in rows if r['ph']})
+    # fotos em folhas de miniaturas (todas as fotos de cada item, não só a principal)
+    paths = sorted({p for _, rows in kinds.values() for r in rows for p in (r.get('phs') or ([r['ph']] if r['ph'] else []))})
     ref = build_sprites(www, out, paths)
+    used = {}
     for _, rows in kinds.values():
-        for r in rows: r['ph'] = ref.get(r['ph'], '') if r['ph'] else ''
+        for r in rows:
+            for p in r.get('phs') or []: used.setdefault(p, set()).add(r['id'])
+    for _, rows in kinds.values():
+        for r in rows:
+            r['ph'] = ref.get(r['ph'], '') if r['ph'] else ''
+            if len(r.get('phs') or []) > 1: r['phx'] = [[ref.get(p, ''), p] for p in r['phs']]     # várias fotos: o dono escolhe a principal
+            if any(len(used.get(p, ())) > 1 for p in r.get('phs') or []): r['dup'] = 1               # a mesma foto em outro item
+            r.pop('phs', None)
     for kind, (label, rows) in kinds.items():
         parts = [rows[i:i + CHUNK] for i in range(0, len(rows), CHUNK)] or [[]]
         for i, part in enumerate(parts):

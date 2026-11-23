@@ -69,6 +69,7 @@ jobs:
           rm -rf work/pub && mkdir -p work/pub/app/www work/pub/data-dist
           cp app/www/*.js work/pub/app/www/ && cp data-dist/*.json work/pub/data-dist/ 2>/dev/null || true
           python3 tools/data_admin.py apply work/pub/app/www ../admin/hidden.json
+          python3 tools/photo_main.py work/pub/app/www ../admin/photomain.json  # foto principal escolhida pelo dono na aba Dados do app
           python3 tools/publish_data.py --root work/pub --base-url "https://${{ github.repository_owner }}.github.io/vi-guide-data/"
           cp work/pub/data-dist/*.json data-dist/ && cp work/pub/app/www/dataver.js app/www/dataver.js
       - name: Publicar se mudou
