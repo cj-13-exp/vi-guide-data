@@ -52,9 +52,24 @@ jobs:
           done
           cp work/gw/fetch_state.json work/gw/known_hashes.json state/ 2>/dev/null || true
           cp work/gw/images.json state/ 2>/dev/null || true
-      - name: Portão de release e empacotamento
+      - name: Radar, gta.wiki nova, pontos do mapa e vídeos (para a página Aprovações; nada entra no app daqui)
         working-directory: pipeline
-        run: python3 tools/publish_data.py --base-url "https://${{ github.repository_owner }}.github.io/vi-guide-data/"
+        continue-on-error: true                                     # site fora do ar não pode travar a publicação dos dados
+        run: |
+          mkdir -p ../radar
+          python3 tools/wiki_new.py app/www state ../radar/wiki_new.json           # toda página nova de GTA VI na gta.wiki
+          python3 tools/wiki_points.py app/www state ../radar/map_candidates.json  # pontos {{LeonidaDayMap}} da gta.wiki (guardados, não desenhados)
+          python3 tools/radar.py app/www state ../radar/radar.json                 # notícias (~50 sites) e canais do YouTube
+          python3 tools/videos_match.py app/www state ../radar/item_videos.json 40 # um vídeo de guia por item (missões, veículos, armas...)
+      - name: Portão de release e empacotamento (com o que o dono tirou do app)
+        working-directory: pipeline
+        run: |
+          # "Fora do app" vale só para o pacote: a cópia em work/pub perde o item, a origem fica inteira (assim "Voltar ao app" funciona)
+          rm -rf work/pub && mkdir -p work/pub/app/www work/pub/data-dist
+          cp app/www/*.js work/pub/app/www/ && cp data-dist/*.json work/pub/data-dist/ 2>/dev/null || true
+          python3 tools/data_admin.py apply work/pub/app/www ../admin/hidden.json
+          python3 tools/publish_data.py --root work/pub --base-url "https://${{ github.repository_owner }}.github.io/vi-guide-data/"
+          cp work/pub/data-dist/*.json data-dist/ && cp work/pub/app/www/dataver.js app/www/dataver.js
       - name: Publicar se mudou
         run: |
           cp pipeline/data-dist/*.json .
@@ -62,7 +77,7 @@ jobs:
           cp -R pipeline/app/www/ig/. ig/ 2>/dev/null || true
           date -u +%FT%TZ > ultima-execucao.txt                     # um commit por dia mantém o agendamento ativo (o GitHub o desliga após 60 dias sem atividade)
           git config user.name "VI Guide bot"; git config user.email "actions@users.noreply.github.com"
-          git add -A -- '*.json' ultima-execucao.txt revisao-diaria.md pipeline/app/www pipeline/state pipeline/tools/gtadb_rev.txt ph ig
+          git add -A -- '*.json' ultima-execucao.txt revisao-diaria.md pipeline/app/www pipeline/state pipeline/tools/gtadb_rev.txt ph ig radar
           if git diff --cached --quiet; then echo "sem mudanças"; exit 0; fi
           git commit -m "Dados de $(date -u +%F)"
           git push
