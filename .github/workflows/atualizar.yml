@@ -20,6 +20,7 @@ jobs:
           cp ../*.json data-dist/                                   # pacote publicado: base do portão "não encolher"
           python3 tools/gtawiki_sync.py app/www work                # itens
           python3 tools/heists_build.py app/www work                # assaltos: tipos, locais e receptadores (gta.wiki)
+          python3 tools/layers_build.py app/www state work || echo "camadas: falhou, o pacote segue sem mudar as camadas"   # camadas que o dono aprovou (tools/layers_approved.json): gta.wiki → GTADB → Open GTA 6 Map
           python3 tools/eggs_build.py app/www work                  # easter eggs: dados guardados (sem desenhar no mapa); avisa o que a gta.wiki tem a mais
           python3 tools/missions_build.py app/www work              # missões (só gta.wiki)
           python3 tools/missions_crosscheck.py work                 # 2ª fonte: guias que concordam entre si

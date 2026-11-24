@@ -1,0 +1,17 @@
+{
+ "_leia": "Camadas do mapa que o dono aprovou na página de aprovações (localhost:4410). Só o que está aqui é desenhado no app. Ao aprovar um cartão de camada novo, acrescentar a chave aqui (tools/layers_build.py lê).",
+ "aprovado_em": {
+  "gangops": "2026-11-23",
+  "strangers": "2026-11-23",
+  "guns": "2026-11-23",
+  "drones": "2026-11-23"
+ },
+ "heists": [
+  "gangops"
+ ],
+ "layers": [
+  "strangers",
+  "guns",
+  "drones"
+ ]
+}

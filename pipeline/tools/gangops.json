@@ -1,0 +1,247 @@
+{
+ "_leia": "Operações de gangue (39) e desempates do Open GTA 6 Map. Cópia de tools/referencia_oficial.json → \"gangues\" do projeto; atualizar as duas juntas.",
+ "operacoes": [
+  [
+   "Kingfishers",
+   "Manatee Motel",
+   "Hamlet (sudoeste, perto das Shoeless Keys)"
+  ],
+  [
+   "Kingfishers",
+   "Sunrise RV Park",
+   "Mariana County (Pelican Valley)"
+  ],
+  [
+   "Kingfishers",
+   "Fishing Shacks",
+   "Gullet Marsh (lado oeste)"
+  ],
+  [
+   "Kolts & Associates",
+   "Kingpin Bowling",
+   "?"
+  ],
+  [
+   "Kolts & Associates",
+   "June Warehouse",
+   "Port Gellhorn"
+  ],
+  [
+   "Kolts & Associates",
+   "La Cascara Motel",
+   "Port Gellhorn"
+  ],
+  [
+   "Kolts & Associates",
+   "Brooks Boatworks",
+   "Port Gellhorn"
+  ],
+  [
+   "Kolts & Associates",
+   "Stash House",
+   "Port Gellhorn"
+  ],
+  [
+   "M7",
+   "M7 Compound",
+   "Hamlet"
+  ],
+  [
+   "M7",
+   "Weed Grow",
+   "Lummox County (Lake Tallaloko)"
+  ],
+  [
+   "La Polilla Negra",
+   "Palmer Fishing Warehouse",
+   "Bobcat Key"
+  ],
+  [
+   "La Polilla Negra",
+   "Watson Bay Safehouse",
+   "Watson Bay"
+  ],
+  [
+   "Final Chapter",
+   "Irons Building Supply",
+   "Ambrosia"
+  ],
+  [
+   "Final Chapter",
+   "Hog Stars Garage",
+   "Ambrosia"
+  ],
+  [
+   "Final Chapter",
+   "Biker Hideout",
+   "sul do Lake Leonida"
+  ],
+  [
+   "Final Chapter",
+   "Farm Fix Meth Lab",
+   "perto de Belville"
+  ],
+  [
+   "San4San",
+   "Parlor Apartments",
+   "Rockridge, Vice City"
+  ],
+  [
+   "San4San",
+   "Illegal Sneaker Trade",
+   "La Perle, Vice City"
+  ],
+  [
+   "San4San",
+   "La Perle Trap House",
+   "La Perle, Vice City"
+  ],
+  [
+   "San4San",
+   "Sound4Sond Studio",
+   "Stockyard, Vice City"
+  ],
+  [
+   "San4San",
+   "JanJak's Garage",
+   "?"
+  ],
+  [
+   "PTT Youngin$",
+   "Southside Trap House",
+   "Southside, Vice City"
+  ],
+  [
+   "PTT Youngin$",
+   "Kamar Devon Community Center",
+   "Southside, Vice City"
+  ],
+  [
+   "Guardia Brothers",
+   "Casa Guardia",
+   "Little Cuba, Vice City"
+  ],
+  [
+   "Guardia Brothers",
+   "Saber Shipping Yard",
+   "Little Cuba, Vice City"
+  ],
+  [
+   "Guardia Brothers",
+   "Saber Shipping Facility",
+   "Balsero, Vice City"
+  ],
+  [
+   "Other Criminals",
+   "Exotic Animals Front",
+   "Key Lento"
+  ],
+  [
+   "Other Criminals",
+   "Mill Station Radar Base",
+   "?"
+  ],
+  [
+   "Other Criminals",
+   "Industrial Weed Grow",
+   "Mariana County (Tola Bay)"
+  ],
+  [
+   "Other Criminals",
+   "Slator Towing Inc",
+   "Salton"
+  ],
+  [
+   "Other Criminals",
+   "Leonida Carrier Warehouse",
+   "?"
+  ],
+  [
+   "Other Criminals",
+   "Cigar Import Front",
+   "?"
+  ],
+  [
+   "Other Criminals",
+   "Chatfield Storage & Logistics",
+   "Waxman Island"
+  ],
+  [
+   "Other Criminals",
+   "Ocean Beach Lab",
+   "?"
+  ],
+  [
+   "Other Criminals",
+   "Vespucci Mansion",
+   "Vespucci Island"
+  ],
+  [
+   "Other Criminals",
+   "Gas Station Meth Front",
+   "?"
+  ],
+  [
+   "Other Criminals",
+   "Walker Farm",
+   "?"
+  ],
+  [
+   "Other Criminals",
+   "Backroom Weed Front",
+   "Port Gellhorn (sul)"
+  ],
+  [
+   "Other Criminals",
+   "Carter Mining Boathouse",
+   "?"
+  ]
+ ],
+ "ogm_alias": {
+  "gang-operation-008": [
+   "Stash House",
+   "média",
+   "Kolts em Port Gellhorn; a Vicki fala do tráfico ali, como os guias dizem da Stash House"
+  ],
+  "gang-operation-009": [
+   "M7 Compound",
+   "média",
+   "M7 em Hamlet (Nova Auto Junkyard); os guias põem o M7 Compound em Hamlet"
+  ],
+  "gang-operation-010": [
+   "Weed Grow",
+   "média",
+   "M7 perto do Lake Tallaloko, Lummox County, como nos guias"
+  ],
+  "gang-operation-013": [
+   "Biker Hideout",
+   "baixa",
+   "sem gangue no Open GTA 6 Map; é a única do Final Chapter que falta e fica ao sul do Lake Leonida, como nos guias"
+  ],
+  "gang-operation-015": [
+   "Sound4Sond Studio",
+   "alta",
+   "mesmo lugar, grafia diferente (Sound4Sound)"
+  ],
+  "gang-operation-017": [
+   "Illegal Sneaker Trade",
+   "média",
+   "San4San numa loja no centro de La Perle"
+  ],
+  "gang-operation-019": [
+   "Parlor Apartments",
+   "média",
+   "San4San num prédio de apartamentos em Rockridge"
+  ],
+  "gang-operation-022": [
+   "Saber Shipping Yard",
+   "média",
+   "Guardia em Little Cuba, na margem do rio"
+  ],
+  "gang-operation-024": [
+   "Saber Shipping Facility",
+   "média",
+   "Guardia em Balsero, do outro lado do rio"
+  ]
+ }
+}
