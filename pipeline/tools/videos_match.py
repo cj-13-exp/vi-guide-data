@@ -23,8 +23,7 @@ GOOD = {'Rockstar Games', 'PowerPyx', 'GTA Series Videos', 'How to Everything', 
 def js(name, var_obj=True):
     s = open(os.path.join(WWW, name), encoding='utf-8').read()
     a = s.index('{') if var_obj else s.index('[')
-    b = s.rindex('}') if var_obj else s.rindex(']')
-    return json.loads(s[a:b + 1])
+    return json.JSONDecoder().raw_decode(s, a)[0]   # só o 1º objeto (heists.js tem HEISTS e LAYERS)
 
 def nk(s): return re.sub(r'[^a-z0-9]+', '', re.sub(r"'s\b", '', str(s).lower()))
 

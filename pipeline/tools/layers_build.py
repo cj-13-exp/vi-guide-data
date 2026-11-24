@@ -89,9 +89,26 @@ for k in APR.get('layers', []):
         seen.add(pos)
         sub = p['section'] if k == 'strangers' else ''   # side mission: quem dá a missão
         rows.append([k, p['label'], area(p['x'], p['y']), round(p['x']), round(p['y']), sub, 'gta.wiki'])
+    # 3ª fonte: Open GTA 6 Map completa só o que está a mais de 40 m de um ponto que a gta.wiki já deu (cartões aprovados em 24/11/2026)
+    kinds = set(APR.get('ogm', {}).get(k, []))
+    if kinds and ogm:
+        have = [(r[3], r[4]) for r in rows]
+        for l in sorted((l for l in ogm if l.get('kind') in kinds), key=lambda l: (l.get('name') or '', l['gx'])):
+            nm = (l.get('name') or '').strip()
+            if not nm or nm.lower().startswith('unnamed'): continue
+            x, y = round(l['gx']), round(l['gy'])
+            if any(math.hypot(x - a, y - b) <= 40 for a, b in have): continue
+            have.append((x, y)); rows.append([k, nm, area(x, y), x, y, '', 'ogm'])
     old = [p for p in OLD['places'] if p[0] == k]
     places += rows if len(rows) >= len(old) else old
     print('camada %-10s %3d pontos%s' % (k, len(rows), '' if len(rows) >= len(old) else ' (menos que ontem: mantive os %d de ontem)' % len(old)))
+# o app marca cada ponto pelo id 'Y' + 1ª letra do tipo + nome + x: mesmo nome no mesmo x (ex.: "Towable ATM") ganharia a mesma marcação,
+# então o repetido anda 1 m em x (invisível no mapa) até o id ficar único
+ids = set()
+for p in places:
+    while ('Y' + p[0][0], re.sub(r'[^a-z0-9]+', '', p[1].lower()), p[3]) in ids: p[3] += 1
+    ids.add(('Y' + p[0][0], re.sub(r'[^a-z0-9]+', '', p[1].lower()), p[3]))
+used_ogm |= any(p[6] == 'ogm' for p in places)
 LY = {'ts': datetime.date.today().isoformat(), 'types': [[k, sum(1 for p in places if p[0] == k)] for k in APR.get('layers', [])], 'places': places,
       'credit': 'ogm' if used_ogm else ''}
 open(os.path.join(WWW, 'heists.js'), 'w', encoding='utf-8').write(

@@ -97,7 +97,7 @@ def app_places():
     out = [(r[1], r[4][0], r[4][1]) for r in rows if r[4]]
     try:
         h = open(os.path.join(WWW, 'heists.js'), encoding='utf-8').read()
-        hp = json.loads(h[h.index('{'):h.rindex('}') + 1]).get('places', [])
+        hp = json.JSONDecoder().raw_decode(h, h.index('{'))[0].get('places', [])   # 1º objeto: HEISTS (o arquivo tem também LAYERS)
         out += [(p[1], p[5], p[6]) for p in hp]
     except Exception: pass
     return out
