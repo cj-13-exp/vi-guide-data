@@ -62,6 +62,7 @@ jobs:
           python3 tools/radar.py app/www state ../radar/radar.json                 # notícias (~50 sites) e canais do YouTube
           python3 tools/videos_match.py app/www state ../radar/item_videos.json 40 # um vídeo de guia por item (missões, veículos, armas...)
           python3 tools/photo_suggest.py app/www state ../radar/photo_suggest.json 40 # fotos de dentro do jogo para itens sem foto ou com uma só
+          python3 tools/ogm_sync.py ../radar/ogm_points.json                     # Open GTA 6 Map (CC BY 4.0): 3ª fonte de posição, depois de gta.wiki e GTADB
       - name: Portão de release e empacotamento (com o que o dono tirou do app)
         working-directory: pipeline
         run: |
