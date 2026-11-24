@@ -3,14 +3,14 @@
 usage: publish_data.py [--root <project root>] [--base-url https://.../]
 For every app/www/<name>.js of the form `window.<GLOBAL>=<json>;` it writes data-dist/<name>.json (an object {GLOBAL: value}) and one manifest.json:
   {format, generated, files: {name: {globals, sha256, bytes, count}}}
-Release gate (exit code 1, nothing is written): invalid JSON, a name starting with 'Unnamed', or a file that shrank below 60% of the
+Release gate (exit code 1, nothing is written): invalid JSON, a name starting with 'Unnamed', or a file that shrank below 60% of the (not counting what the owner hid on purpose: hidden_counts.json)
 previous manifest (an empty or truncated file must never reach the phones). Images are not part of this package (they ship in the app)."""
 import sys, os, re, json, hashlib, time
 args = sys.argv[1:]
 ROOT = args[args.index('--root') + 1] if '--root' in args else os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WWW, OUT = ROOT + '/app/www', ROOT + '/data-dist'
 FORMAT = 1
-FILES = ['data', 'wiki', 'photos', 'wiki2', 'real', 'gv', 'hundred', 'missions', 'wiki3', 'ref', 'hq', 'ig', 'official', 'chars', 'heists']
+FILES = ['data', 'wiki', 'photos', 'wiki2', 'real', 'gv', 'hundred', 'missions', 'wiki3', 'ref', 'hq', 'ig', 'official', 'chars', 'heists', 'gbinfo']
 NAMED = {'wiki', 'wiki2', 'wiki3', 'missions', 'gv', 'real', 'chars', 'hundred'}      # files whose items have names the app lists
 UNNAMED = re.compile(r'^\s*Unnamed\b')
 prev = {}
@@ -28,6 +28,8 @@ def count(v):   # items, one level inside dicts (so {WIKI:{vehicles:[...300 rows
     if isinstance(v, list): return len(v)
     if isinstance(v, dict): return sum(len(x) if isinstance(x, (list, dict)) else 1 for x in v.values())
     return 1
+# itens que o dono tirou do app de propósito (data_admin.py apply grava hidden_counts.json): não contam como encolhimento
+HIDDEN = json.load(open(WWW + '/hidden_counts.json')) if os.path.exists(WWW + '/hidden_counts.json') else {}
 problems, packed = [], {}
 for name in FILES:
     src = open('%s/%s.js' % (WWW, name), encoding='utf-8').read().strip()
@@ -45,7 +47,7 @@ for name in FILES:
         bad = [s for s in names(vals) if UNNAMED.match(s)]
         if bad: problems.append('%s: %d item(s) named Unnamed, e.g. %r' % (name, len(bad), bad[0]))
     n = sum(count(v) for v in vals.values())
-    if name in prev and prev[name]['count'] >= 5 and n < 0.6 * prev[name]['count']:
+    if name in prev and prev[name]['count'] >= 5 and n + HIDDEN.get(name, 0) < 0.6 * prev[name]['count']:
         problems.append('%s: shrank from %d to %d (below 60%%)' % (name, prev[name]['count'], n))
     text = json.dumps(vals, ensure_ascii=False, separators=(',', ':'))
     # the collection date (a top-level "ts") changes every run; if nothing else changed, keep the published file so phones do not download it again

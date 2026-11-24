@@ -1,1 +1,6868 @@
-{}
+{
+ "places": {
+  "L100": [
+   "(sem nome)",
+   "Vice Beach · SW 4th St"
+  ],
+  "L1009": [
+   "Pawn Shop",
+   "Vice City · Salton"
+  ],
+  "L1010": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1011": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1012": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1020": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1025": [
+   "Parking Garage",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1026": [
+   "Cabin",
+   "Mariana County"
+  ],
+  "L1027": [
+   "Cabin",
+   "Mount Kalaga National Park"
+  ],
+  "L1028": [
+   "(sem nome)",
+   "Mount Kalaga National Park"
+  ],
+  "L103": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1041": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1060": [
+   "Cospace",
+   "Vice City · Bayside"
+  ],
+  "L1066": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1067": [
+   "(sem nome)",
+   "Belpoint"
+  ],
+  "L1075": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1082": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1086": [
+   "Container Crane (2)",
+   "Port Gellhorn"
+  ],
+  "L1087": [
+   "Container Crane (3)",
+   "Port Gellhorn"
+  ],
+  "L1089": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1094": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L1097": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L11": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L111": [
+   "(sem nome)",
+   "Vice Beach · Harborside Ave, Ocean Beach"
+  ],
+  "L1112": [
+   "Guard Booth",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L1114": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1115": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L112": [
+   "(sem nome)",
+   "Vice Beach · Harborside Ave, Ocean Beach"
+  ],
+  "L1121": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1122": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1123": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1124": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1125": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1126": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L1136": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L1137": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1138": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1150": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1151": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L1153": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L1154": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1159": [
+   "Pool",
+   "Kelly County · Starlet Motel"
+  ],
+  "L1161": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L1162": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1163": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L1164": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1165": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L1166": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L1167": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L1168": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1169": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1170": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1173": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L1174": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L1175": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1176": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1177": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1178": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1179": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L118": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1180": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1181": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1185": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1187": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L119": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1191": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1192": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1194": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1197": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1198": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1199": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L12": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L1200": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1202": [
+   "(sem nome)",
+   "Southwind"
+  ],
+  "L1203": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1204": [
+   "(sem nome)",
+   "Vice Beach · Thompson Ave, Ocean Beach"
+  ],
+  "L1205": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L122": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1220": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1221": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L123": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1230": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1232": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1234": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1235": [
+   "Lake Bonner",
+   "Waning Sands"
+  ],
+  "L1237": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1238": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1239": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1241": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1242": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1244": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1247": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L1248": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L1249": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1250": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1251": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1252": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1253": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1254": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1256": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1258": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1259": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1260": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1265": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1266": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1267": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L1271": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L1275": [
+   "Autograph",
+   "Vice City International Airport"
+  ],
+  "L1276": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L128": [
+   "(sem nome)",
+   "Vice City · Tequesta Retreat"
+  ],
+  "L1284": [
+   "(sem nome)",
+   "Rialto Islands"
+  ],
+  "L1285": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L1286": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1287": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1288": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L1289": [
+   "Runway",
+   "Vice City International Airport"
+  ],
+  "L129": [
+   "(sem nome)",
+   "Vice City · Tequesta Retreat"
+  ],
+  "L1290": [
+   "Runway",
+   "Vice City International Airport"
+  ],
+  "L1292": [
+   "(sem nome)",
+   "Vice City · Catalan Blvd, Downtown"
+  ],
+  "L1294": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1295": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1297": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1298": [
+   "(sem nome)",
+   "Abismo Key"
+  ],
+  "L1299": [
+   "(sem nome)",
+   "Abismo Key"
+  ],
+  "L1301": [
+   "(sem nome)",
+   "Abismo Key"
+  ],
+  "L1304": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1305": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1306": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1307": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1308": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1309": [
+   "Golf Carts",
+   "Port Gellhorn"
+  ],
+  "L1314": [
+   "Leonida Marine Center",
+   "Leonida"
+  ],
+  "L1317": [
+   "Haitian-American Cultural Center",
+   "Vice City · La Perle"
+  ],
+  "L1318": [
+   "La Perle Caribbean Market",
+   "Vice City · La Perle"
+  ],
+  "L132": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L1323": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1324": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1326": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1327": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1330": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1331": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1332": [
+   "(sem nome)",
+   "Maroon Key"
+  ],
+  "L1333": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1335": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1337": [
+   "Intersection",
+   "Key Lento"
+  ],
+  "L134": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L1342": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1343": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1349": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1352": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1354": [
+   "Parking Garage",
+   "Vice City · Crosstown"
+  ],
+  "L1357": [
+   "Fuzzard Drain Canal",
+   "Vice-Dale County"
+  ],
+  "L1364": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1365": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1366": [
+   "Parking Lot",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1368": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Salton"
+  ],
+  "L1371": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L1378": [
+   "162°S",
+   "Vice City · Stockyard"
+  ],
+  "L1380": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1381": [
+   "Chip's Body Shop",
+   "Key Lento"
+  ],
+  "L1384": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1386": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1387": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1388": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1393": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1398": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L14": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L1400": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1402": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1403": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1404": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1405": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L1410": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1421": [
+   "Brian's Marina Workshop",
+   "Key Lento"
+  ],
+  "L1422": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1423": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1424": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1425": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1427": [
+   "Boat Ramp",
+   "Abismo Key"
+  ],
+  "L1428": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1431": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1438": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1439": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1443": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L1450": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1452": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L1453": [
+   "VYB",
+   "Vice Beach"
+  ],
+  "L1455": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1456": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L1462": [
+   "(sem nome)",
+   "Leonida"
+  ],
+  "L1465": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L1466": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L1467": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L1468": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L1473": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L1474": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L1477": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L1478": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1479": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L1480": [
+   "Tunnel Entrance",
+   "Port Vice City"
+  ],
+  "L1481": [
+   "(sem nome)",
+   "Vice City · Catalan Blvd, Downtown"
+  ],
+  "L1483": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1484": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1487": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L1491": [
+   "PTT YOUNGIN$ Illegal Goods Store",
+   "Vice City · Southside"
+  ],
+  "L1492": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1495": [
+   "Paradise Garage",
+   "Watson Bay"
+  ],
+  "L1496": [
+   "(sem nome)",
+   "Starfish Island"
+  ],
+  "L1499": [
+   "(sem nome)",
+   "Rialto Islands"
+  ],
+  "L1501": [
+   "(sem nome)",
+   "Rialto Islands"
+  ],
+  "L1509": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1511": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1513": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1514": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1515": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1517": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1519": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1520": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L1521": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L1524": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L1525": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L1526": [
+   "Warehouse",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L1527": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L1530": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1531": [
+   "Train Tunnel",
+   "Lummox County"
+  ],
+  "L1532": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1533": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L1534": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L1535": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1536": [
+   "Arrow Gas Station",
+   "Key Lento · Route 1"
+  ],
+  "L1537": [
+   "(sem nome)",
+   "Key Largo"
+  ],
+  "L1538": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L1539": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1540": [
+   "Big House",
+   "Vice City · Crosstown"
+  ],
+  "L1544": [
+   "Turn 16",
+   "Gellhorn International Raceway"
+  ],
+  "L1545": [
+   "Turn 18",
+   "Gellhorn International Raceway"
+  ],
+  "L1546": [
+   "Turn 20",
+   "Gellhorn International Raceway"
+  ],
+  "L1547": [
+   "Turn 32",
+   "Gellhorn International Raceway"
+  ],
+  "L1559": [
+   "\"Dudz Island\"",
+   "Mariana County"
+  ],
+  "L1563": [
+   "Dawson Dam",
+   "Lummox County"
+  ],
+  "L1564": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L1567": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L1571": [
+   "Church",
+   "Hamlet"
+  ],
+  "L1572": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1573": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1575": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1576": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1577": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1578": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1579": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L158": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L1581": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1584": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1585": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1586": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L1588": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L1591": [
+   "(sem nome)",
+   "Vice City · El Joven Blvd, Southside"
+  ],
+  "L1592": [
+   "(sem nome)",
+   "Vice City · El Joven Blvd, Southside"
+  ],
+  "L1594": [
+   "Baller Dealership",
+   "Vice City · El Joven Blvd, Southside"
+  ],
+  "L1596": [
+   "Juicy Joes",
+   "Vice City · Southside"
+  ],
+  "L1599": [
+   "Marlin Motors",
+   "Vice City · El Joven Blvd, Southside"
+  ],
+  "L1601": [
+   "WLC Community Centre",
+   "Vice City · Southside"
+  ],
+  "L1604": [
+   "Vice City Casino Racetrack",
+   "Vice-Dale County"
+  ],
+  "L1605": [
+   "Schlott Construction",
+   "Vice City · Calderone Ave, Southside"
+  ],
+  "L1607": [
+   "(sem nome)",
+   "Vice City · Calderone Ave, Southside"
+  ],
+  "L1609": [
+   "Mattress Madness",
+   "Vice City · Calderone Ave, Southside"
+  ],
+  "L1610": [
+   "Vapid Dealership",
+   "Vice City · Southside"
+  ],
+  "L1620": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1621": [
+   "(sem nome)",
+   "Vice City · SW 4th St, Tequesta"
+  ],
+  "L1622": [
+   "Spender's",
+   "Vice City · Southside"
+  ],
+  "L1624": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L1628": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L1632": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1633": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1634": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1635": [
+   "(sem nome)",
+   "Vice City · SW 9th Ave, Peacock Bay"
+  ],
+  "L1636": [
+   "(sem nome)",
+   "Vice City · SW 9th Ave, Peacock Bay"
+  ],
+  "L1637": [
+   "(sem nome)",
+   "Vice City · SW 9th Ave, Peacock Bay"
+  ],
+  "L1641": [
+   "(sem nome)",
+   "Vice City · SW 9th Ave, Peacock Bay"
+  ],
+  "L1642": [
+   "(sem nome)",
+   "Vice City · SW 9th Ave, Peacock Bay"
+  ],
+  "L1643": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1648": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1651": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1653": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L167": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1674": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L1675": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L1678": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L1686": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L1690": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L1695": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L1697": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1704": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1706": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1707": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1708": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1714": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1720": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1721": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1728": [
+   "Pier",
+   "Capri"
+  ],
+  "L1729": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1730": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1731": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1732": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1733": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1737": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1738": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1739": [
+   "(sem nome)",
+   "Vice City · SW 4th St, Salton"
+  ],
+  "L174": [
+   "Park",
+   "Vice City · Crosstown"
+  ],
+  "L1740": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1741": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1743": [
+   "Church",
+   "Vice City · SW 4th St, Salton"
+  ],
+  "L1749": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L1750": [
+   "Church",
+   "Vice City · Southside"
+  ],
+  "L1769": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L177": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L1770": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1771": [
+   "(sem nome)",
+   "Vice City · El Joven Blvd, Southside"
+  ],
+  "L1774": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Balsero"
+  ],
+  "L1775": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Balsero"
+  ],
+  "L1776": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1778": [
+   "(sem nome)",
+   "Emerald Springs"
+  ],
+  "L1779": [
+   "(sem nome)",
+   "Emerald Springs"
+  ],
+  "L1783": [
+   "(sem nome)",
+   "Buckskin"
+  ],
+  "L1785": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1787": [
+   "(sem nome)",
+   "Vice Beach · SW 4th St"
+  ],
+  "L1788": [
+   "(sem nome)",
+   "Vice Beach · SW 4th St"
+  ],
+  "L1791": [
+   "(sem nome)",
+   "Vice Beach · SW 4th St"
+  ],
+  "L1792": [
+   "(sem nome)",
+   "Vice Beach · SW 4th St"
+  ],
+  "L1794": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1799": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1803": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1804": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1805": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1812": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1818": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1819": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L182": [
+   "Gemini Tower",
+   "Vice City · Delphino Cir, Bayside"
+  ],
+  "L1820": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1824": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L1825": [
+   "Corsair Key",
+   "Mariana County"
+  ],
+  "L1826": [
+   "Train Tunnel",
+   "Kelly County"
+  ],
+  "L1828": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1831": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L1832": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1833": [
+   "(sem nome)",
+   "Vice Beach · Leaf Links"
+  ],
+  "L1834": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L1837": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1840": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L1841": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L1844": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L1845": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L1846": [
+   "Turn 34",
+   "Gellhorn International Raceway"
+  ],
+  "L1847": [
+   "Turn 2",
+   "Gellhorn International Raceway"
+  ],
+  "L1848": [
+   "\"Ambrosia Hill\"",
+   "Kelly County"
+  ],
+  "L1850": [
+   "\"Bridge Ridge\"",
+   "Kelly County"
+  ],
+  "L1856": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1857": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1858": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1859": [
+   "Turn 27",
+   "Gellhorn International Raceway"
+  ],
+  "L1871": [
+   "Bridge",
+   "Vice-Dale County"
+  ],
+  "L1873": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L1874": [
+   "Public Restrooms",
+   "Gloriana Key"
+  ],
+  "L1875": [
+   "Bridge",
+   "Rialto Islands"
+  ],
+  "L1876": [
+   "Bridge",
+   "Rialto Islands"
+  ],
+  "L1877": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1879": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1880": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1882": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1883": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1884": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1885": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1889": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L1890": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1891": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1892": [
+   "Breakwater",
+   "Capri"
+  ],
+  "L1893": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1894": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1895": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1896": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1897": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1898": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1899": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1901": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1902": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L1906": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1907": [
+   "(sem nome)",
+   "Vice City · SW 9th Ave, Peacock Bay"
+  ],
+  "L1908": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1918": [
+   "Car Wash",
+   "Leonida"
+  ],
+  "L1919": [
+   "Turn 31",
+   "Gellhorn International Raceway"
+  ],
+  "L1926": [
+   "\"Kelly Hill\"",
+   "Kelly County"
+  ],
+  "L1928": [
+   "River",
+   "Kelly County"
+  ],
+  "L1929": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L1930": [
+   "Stage",
+   "Hamlet"
+  ],
+  "L1937": [
+   "(sem nome)",
+   "Vice City · NE 4th Ave, Crosstown"
+  ],
+  "L1941": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1942": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1943": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L1944": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1949": [
+   "(sem nome)",
+   "Vice City · NW 16th St, Balsero"
+  ],
+  "L1950": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Balsero"
+  ],
+  "L1951": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Balsero"
+  ],
+  "L1952": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Balsero"
+  ],
+  "L1955": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1956": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1958": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1960": [
+   "(sem nome)",
+   "Vice City · SW 4th St, Tequesta"
+  ],
+  "L1961": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L1963": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1964": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1965": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1966": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1967": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1975": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1976": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L1978": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L1985": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L1992": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L1993": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L1994": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1997": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1998": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L1999": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L2000": [
+   "\"Mount Lummox\"",
+   "Moreau"
+  ],
+  "L2001": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L2002": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2003": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2004": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2005": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2006": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2007": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2008": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2009": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2010": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2013": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2017": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2018": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2020": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2022": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2023": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2024": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2025": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2026": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L203": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2032": [
+   "Crys",
+   "Leonard County"
+  ],
+  "L2034": [
+   "(sem nome)",
+   "Vice Beach · SW 4th St"
+  ],
+  "L2035": [
+   "The Anderson",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2040": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2041": [
+   "(sem nome)",
+   "Vice City · SW 3rd Ave, Southside"
+  ],
+  "L2042": [
+   "(sem nome)",
+   "Vice City · SW 3rd Ave, Southside"
+  ],
+  "L2043": [
+   "(sem nome)",
+   "Vice City · SW 3rd Ave, Southside"
+  ],
+  "L2044": [
+   "(sem nome)",
+   "Vice City · SW 3rd Ave, Southside"
+  ],
+  "L2046": [
+   "(sem nome)",
+   "Vice City · SW 3rd Ave, Southside"
+  ],
+  "L2049": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2050": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2051": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2052": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2053": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2054": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2055": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2056": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2057": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2058": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2059": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2060": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2063": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2064": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2065": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2066": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2067": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2068": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2069": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2090": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2091": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2092": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2094": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2095": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2097": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L210": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2103": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2105": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2106": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2107": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2108": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2109": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2110": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2111": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2112": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2113": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2114": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2115": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2116": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2117": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2118": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2119": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2124": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2125": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2126": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2127": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2128": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2129": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2130": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2131": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2132": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2136": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2137": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2138": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2139": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2140": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2141": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2142": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2143": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2144": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2145": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2147": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2157": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2158": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2159": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2160": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2163": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2164": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2166": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2168": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2169": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2170": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2171": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2175": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2176": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2177": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2179": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2180": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2182": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2184": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2185": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2186": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2187": [
+   "Train Tunnel",
+   "Kelly County"
+  ],
+  "L219": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Salton"
+  ],
+  "L2190": [
+   "(sem nome)",
+   "Starfish Island"
+  ],
+  "L2191": [
+   "(sem nome)",
+   "Starfish Island"
+  ],
+  "L2192": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2194": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2197": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2199": [
+   "(sem nome)",
+   "Tequesta Retreat"
+  ],
+  "L2201": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2202": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L2203": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2204": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2205": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2207": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2208": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2209": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2210": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2211": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2212": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2213": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2215": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2217": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2218": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2219": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2220": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2221": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2222": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2223": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L2224": [
+   "Vice City Oceanarium",
+   "Catalan Key"
+  ],
+  "L2225": [
+   "(sem nome)",
+   "Catalan Key"
+  ],
+  "L2227": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2232": [
+   "Electrotoke",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2238": [
+   "(sem nome)",
+   "Vice City · Stockyard"
+  ],
+  "L2239": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2240": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L2241": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2242": [
+   "(sem nome)",
+   "Vice City · SW 4th Ave, Tequesta"
+  ],
+  "L2243": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L2244": [
+   "Train Tunnel",
+   "Lummox County"
+  ],
+  "L2247": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2248": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2249": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2250": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2251": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2252": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2253": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2255": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2256": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2257": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2258": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L226": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2260": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2261": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2262": [
+   "Lifeguard Tower",
+   "Vice Beach · Washington Beach"
+  ],
+  "L2266": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L227": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2270": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2271": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2272": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2273": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2274": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2275": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2276": [
+   "Car Park",
+   "Vice City · SW 7th Ave, Salton"
+  ],
+  "L2277": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2278": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2279": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2280": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2283": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2288": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2289": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L229": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2290": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2291": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2292": [
+   "Excavator Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2294": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2295": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2296": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2297": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L230": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2303": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2304": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2305": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2306": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2308": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Salton"
+  ],
+  "L2309": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Salton"
+  ],
+  "L2310": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Salton"
+  ],
+  "L2311": [
+   "DJB Shipyard",
+   "Vice City · Westbrook Dr, Salton"
+  ],
+  "L2316": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2318": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L232": [
+   "Sahara HQ",
+   "Vice City · Tequesta"
+  ],
+  "L2320": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2321": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2322": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2324": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2326": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2330": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2335": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L234": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2340": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2343": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2344": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2346": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2347": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2349": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2350": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2351": [
+   "Partytown USA",
+   "Vice City · Salton"
+  ],
+  "L2352": [
+   "Perfecto Boatyard & Marina",
+   "Vice City · Little Cuba"
+  ],
+  "L2354": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2356": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2357": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2358": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L2362": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2363": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2364": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2365": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2369": [
+   "(sem nome)",
+   "Buckskin"
+  ],
+  "L237": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2370": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2372": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2377": [
+   "Carnicero",
+   "Vice City · Crosstown"
+  ],
+  "L2384": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2414": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2416": [
+   "(sem nome)",
+   "Vice Beach · Cabeça St, Ocean Beach"
+  ],
+  "L2417": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2418": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2420": [
+   "Construction Site",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2421": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2422": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2425": [
+   "Parking Lot",
+   "Vice City International Airport"
+  ],
+  "L2426": [
+   "(sem nome)",
+   "Vice City · Lot, Salton"
+  ],
+  "L2427": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2428": [
+   "G. Hanson",
+   "Vice City · Salton"
+  ],
+  "L2429": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2430": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2431": [
+   "Hangars",
+   "Vice City International Airport"
+  ],
+  "L2432": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2433": [
+   "Service Gate",
+   "Vice City International Airport"
+  ],
+  "L2434": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2435": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2436": [
+   "Electric Substation",
+   "Vice City International Airport"
+  ],
+  "L2438": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2439": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2443": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2447": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2448": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2449": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2452": [
+   "Gator Plaza Sign",
+   "Vice City · Southside"
+  ],
+  "L2453": [
+   "Apollo Aggregates",
+   "Peregrine Bay"
+  ],
+  "L2454": [
+   "Lake",
+   "Vice City · Balsero"
+  ],
+  "L2455": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2457": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2458": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L2459": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L246": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2460": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2461": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2462": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2463": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2464": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2465": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2466": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2467": [
+   "Train Bridge",
+   "Kelly County"
+  ],
+  "L2468": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2469": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L247": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2478": [
+   "Complete Tools",
+   "Port Gellhorn"
+  ],
+  "L2480": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2481": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2482": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2485": [
+   "Lake",
+   "Lummox County · Millport"
+  ],
+  "L2486": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L2488": [
+   "Lake",
+   "Lummox County"
+  ],
+  "L2489": [
+   "Kalaga Reservoir",
+   "Lummox County"
+  ],
+  "L2491": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2498": [
+   "Train Bridge",
+   "Redhill"
+  ],
+  "L2500": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2502": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2505": [
+   "Vicycle",
+   "Vice City · Rockridge"
+  ],
+  "L2506": [
+   "Go Postal",
+   "Vice City · Rockridge"
+  ],
+  "L2508": [
+   "(sem nome)",
+   "Vice City · Calderone Ave, Southside"
+  ],
+  "L2510": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2511": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2512": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2513": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2514": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L2515": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L2516": [
+   "(sem nome)",
+   "Stafish Island"
+  ],
+  "L2518": [
+   "Infinity Tower",
+   "Vice City · Vice Decor District"
+  ],
+  "L2519": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L2521": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L2530": [
+   "(sem nome)",
+   "Belpoint"
+  ],
+  "L2531": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L2532": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2533": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2534": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L2535": [
+   "(sem nome)",
+   "Mariana County · Goliath"
+  ],
+  "L2536": [
+   "(sem nome)",
+   "Mariana County · Goliath"
+  ],
+  "L2540": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2541": [
+   "Ride & Glide",
+   "Vice City · Salton"
+  ],
+  "L2542": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2543": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2546": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2547": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2549": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2551": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2552": [
+   "Electric Substation",
+   "Vice City International Airport"
+  ],
+  "L2553": [
+   "Parking Lot",
+   "Vice City · Salton"
+  ],
+  "L2554": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2557": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2562": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2563": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2564": [
+   "(sem nome)",
+   "Vice City · NW 16th St, Balsero"
+  ],
+  "L2565": [
+   "Park",
+   "Vice City"
+  ],
+  "L2570": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2571": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2572": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Salton"
+  ],
+  "L2573": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2574": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2575": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2578": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2579": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2580": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2581": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L2582": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2584": [
+   "Go Postal Office",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2586": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L2587": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2592": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2594": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2596": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2597": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2601": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2605": [
+   "(sem nome)",
+   "Millport"
+  ],
+  "L2608": [
+   "Park",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2614": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2618": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2619": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2621": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2622": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2623": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2628": [
+   "Y Vice City",
+   "Vice Beach · Washington Beach"
+  ],
+  "L2633": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2635": [
+   "(sem nome)",
+   "Vice City · Stockyard"
+  ],
+  "L2638": [
+   "(sem nome)",
+   "Rialto Islands"
+  ],
+  "L2640": [
+   "Paño Rojo",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L2642": [
+   "(sem nome)",
+   "Vice City · Southside"
+  ],
+  "L2648": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L2664": [
+   "Turn 6B",
+   "Gellhorn International Raceway"
+  ],
+  "L2665": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L2666": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L2667": [
+   "(sem nome)",
+   "Gellhorn International Raceway"
+  ],
+  "L2668": [
+   "Turn 5",
+   "Gellhorn International Raceway"
+  ],
+  "L267": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2670": [
+   "Turn 6",
+   "Gellhorn International Raceway"
+  ],
+  "L2671": [
+   "Turn 10",
+   "Gellhorn International Raceway"
+  ],
+  "L2672": [
+   "Turn 11",
+   "Gellhorn International Raceway"
+  ],
+  "L2673": [
+   "Turn 12",
+   "Gellhorn International Raceway"
+  ],
+  "L2674": [
+   "Turn 13",
+   "Gellhorn International Raceway"
+  ],
+  "L2675": [
+   "Turn 14",
+   "Gellhorn International Raceway"
+  ],
+  "L2676": [
+   "Turn 15",
+   "Gellhorn International Raceway"
+  ],
+  "L2677": [
+   "(sem nome)",
+   "Gellhorn International Raceway"
+  ],
+  "L2678": [
+   "Turn 7",
+   "Gellhorn International Raceway"
+  ],
+  "L2679": [
+   "Turn 3",
+   "Gellhorn International Raceway"
+  ],
+  "L268": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2680": [
+   "Turn 4",
+   "Gellhorn International Raceway"
+  ],
+  "L2681": [
+   "Turn 41",
+   "Gellhorn International Raceway"
+  ],
+  "L2682": [
+   "Turn 42",
+   "Gellhorn International Raceway"
+  ],
+  "L2683": [
+   "Turn 1",
+   "Gellhorn International Raceway"
+  ],
+  "L2684": [
+   "Turn 22",
+   "Gellhorn International Raceway"
+  ],
+  "L2685": [
+   "Turn 37",
+   "Gellhorn International Raceway"
+  ],
+  "L2686": [
+   "Turn 38",
+   "Gellhorn International Raceway"
+  ],
+  "L2687": [
+   "Turn 39",
+   "Gellhorn International Raceway"
+  ],
+  "L2688": [
+   "Turn 40",
+   "Gellhorn International Raceway"
+  ],
+  "L2689": [
+   "Turn 4B",
+   "Gellhorn International Raceway"
+  ],
+  "L2690": [
+   "Turn 4C",
+   "Gellhorn International Raceway"
+  ],
+  "L2691": [
+   "Turn 25",
+   "Gellhorn International Raceway"
+  ],
+  "L2692": [
+   "Turn 26",
+   "Gellhorn International Raceway"
+  ],
+  "L2693": [
+   "Turn 28",
+   "Gellhorn International Raceway"
+  ],
+  "L2694": [
+   "Turn 29",
+   "Gellhorn International Raceway"
+  ],
+  "L2695": [
+   "Turn 30",
+   "Gellhorn International Raceway"
+  ],
+  "L2696": [
+   "Turn 33",
+   "Gellhorn International Raceway"
+  ],
+  "L2697": [
+   "Turn 35",
+   "Gellhorn International Raceway"
+  ],
+  "L2698": [
+   "Turn 36",
+   "Gellhorn International Raceway"
+  ],
+  "L2699": [
+   "(sem nome)",
+   "Gellhorn International Raceway"
+  ],
+  "L2700": [
+   "(sem nome)",
+   "Gellhorn International Raceway"
+  ],
+  "L2701": [
+   "Turn 5B",
+   "Gellhorn International Raceway"
+  ],
+  "L2702": [
+   "Turn 8C",
+   "Gellhorn International Raceway"
+  ],
+  "L2703": [
+   "Turn 9C",
+   "Gellhorn International Raceway"
+  ],
+  "L2704": [
+   "Turn 10C",
+   "Gellhorn International Raceway"
+  ],
+  "L2705": [
+   "Turn 11C",
+   "Gellhorn International Raceway"
+  ],
+  "L2706": [
+   "Turn 23",
+   "Gellhorn International Raceway"
+  ],
+  "L2707": [
+   "Turn 24",
+   "Gellhorn International Raceway"
+  ],
+  "L2722": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2725": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2726": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2727": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2728": [
+   "(sem nome)",
+   "La Perle"
+  ],
+  "L2729": [
+   "(sem nome)",
+   "Starfish Island"
+  ],
+  "L2730": [
+   "(sem nome)",
+   "Starfish Island"
+  ],
+  "L2731": [
+   "Vercetti Estate",
+   "Starfish Island"
+  ],
+  "L2734": [
+   "Turn 8",
+   "Gellhorn International Raceway"
+  ],
+  "L2735": [
+   "Turn 9",
+   "Gellhorn International Raceway"
+  ],
+  "L2736": [
+   "(sem nome)",
+   "Gellhorn International Raceway"
+  ],
+  "L2738": [
+   "Guard Booth",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L2739": [
+   "Lake",
+   "Vice-Dale County"
+  ],
+  "L274": [
+   "Blimp",
+   "Maroon Key"
+  ],
+  "L2740": [
+   "Lake",
+   "Leonard County"
+  ],
+  "L2741": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L2744": [
+   "The Grain of Truth",
+   "Vice City · Downtown"
+  ],
+  "L2745": [
+   "Diangelo",
+   "Vice City · Downtown"
+  ],
+  "L2746": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L2749": [
+   "(sem nome)",
+   "Hamlet · Prison"
+  ],
+  "L2750": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2751": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L2752": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L2753": [
+   "(sem nome)",
+   "North Beaches"
+  ],
+  "L2755": [
+   "Berth",
+   "Kelly County"
+  ],
+  "L2765": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2766": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2767": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L277": [
+   "Guard Booth",
+   "Mariana County"
+  ],
+  "L2777": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2778": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L278": [
+   "Warehouse",
+   "Kelly County"
+  ],
+  "L2780": [
+   "(sem nome)",
+   "Peregrine Bay"
+  ],
+  "L2781": [
+   "Bridge",
+   "Buckskin"
+  ],
+  "L2784": [
+   "Interchange",
+   "Kelly County"
+  ],
+  "L2786": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2789": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2791": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2792": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2793": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2794": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2795": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2797": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L2804": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L2805": [
+   "Train Bridge",
+   "Kelly County"
+  ],
+  "L2807": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2809": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L2813": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L2814": [
+   "Parking Lot",
+   "Vice City · Downtown"
+  ],
+  "L2815": [
+   "(sem nome)",
+   "Vice City · Westbrook Dr, Balsero"
+  ],
+  "L2816": [
+   "Bridge",
+   "Lummox County"
+  ],
+  "L2821": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L2822": [
+   "(sem nome)",
+   "Vice Beach · Little Cuba"
+  ],
+  "L2823": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L2826": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L2827": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L2828": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2829": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2830": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2833": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2834": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2835": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2836": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2837": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2850": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2851": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L2852": [
+   "Crude Islands",
+   "Kelly County"
+  ],
+  "L2855": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2856": [
+   "(sem nome)",
+   "Vice City · SW 8th Ave, Salton"
+  ],
+  "L287": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2878": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L2879": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2880": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2881": [
+   "Train Bridge",
+   "Kelly County"
+  ],
+  "L2882": [
+   "Train Bridge",
+   "Kelly County"
+  ],
+  "L2883": [
+   "Tunnel",
+   "Kelly County"
+  ],
+  "L2885": [
+   "(sem nome)",
+   "Southwind"
+  ],
+  "L2886": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L2888": [
+   "Tunnel",
+   "Port Gellhorn International Raceway"
+  ],
+  "L2889": [
+   "(sem nome)",
+   "Emerald Springs"
+  ],
+  "L2895": [
+   "Turn 17",
+   "Gellhorn International Raceway"
+  ],
+  "L2896": [
+   "Turn 21",
+   "Gellhorn International Raceway"
+  ],
+  "L2897": [
+   "Turn 19",
+   "Gellhorn International Raceway"
+  ],
+  "L2898": [
+   "Turn 33B",
+   "Gellhorn International Raceway"
+  ],
+  "L2899": [
+   "Cave",
+   "Emerald Springs"
+  ],
+  "L2901": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2902": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2903": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L2904": [
+   "Copyshop",
+   "Vice City · Downtown"
+  ],
+  "L2905": [
+   "The Captain's Cabins",
+   "Key Lento"
+  ],
+  "L2906": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L2908": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2915": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2916": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2917": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2922": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2924": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2925": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2926": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2927": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2928": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L2929": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2934": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L2935": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L2937": [
+   "Footbridge",
+   "Lummox County"
+  ],
+  "L2938": [
+   "The Thirsty Wolf",
+   "Ambrosia"
+  ],
+  "L2939": [
+   "Footbridge",
+   "Lummox County"
+  ],
+  "L2940": [
+   "(sem nome)",
+   "Frampton Islands"
+  ],
+  "L2942": [
+   "Lighthouse",
+   "Lummox County"
+  ],
+  "L2943": [
+   "(sem nome)",
+   "Grassrivers"
+  ],
+  "L2945": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L2946": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L2947": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L2950": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2951": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L2953": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2954": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2955": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2956": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2957": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2958": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2959": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2960": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2962": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2963": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2964": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L2970": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2971": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L2972": [
+   "Nirvana Spa",
+   "Vice City · Crosstown"
+  ],
+  "L2976": [
+   "River",
+   "Leonida"
+  ],
+  "L2977": [
+   "Canal",
+   "Leonida"
+  ],
+  "L2978": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L2979": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L2980": [
+   "Shore Court Garage",
+   "Vice Beach · Shore Ct, Ocean Beach"
+  ],
+  "L2981": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2982": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2983": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2984": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2985": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2986": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2987": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2988": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2989": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2990": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2991": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2992": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2993": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L2994": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L2996": [
+   "Bridge",
+   "Mariana County"
+  ],
+  "L2997": [
+   "Bridge",
+   "Mariana County"
+  ],
+  "L2998": [
+   "Bridge",
+   "Mariana County"
+  ],
+  "L2999": [
+   "Bridge",
+   "Leonida"
+  ],
+  "L3000": [
+   "Port VC Tunnel",
+   "Vice-Dale County"
+  ],
+  "L3001": [
+   "Bridge",
+   "Leonida"
+  ],
+  "L3003": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3004": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3005": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3007": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3008": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L3009": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L3010": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L3011": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3012": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3013": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3014": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3016": [
+   "(sem nome)",
+   "Rialto Islands"
+  ],
+  "L3018": [
+   "Park",
+   "Vice City · Downtown"
+  ],
+  "L3020": [
+   "Grandstands",
+   "Gellhorn International Raceway"
+  ],
+  "L3021": [
+   "Grandstands",
+   "Gellhorn International Raceway"
+  ],
+  "L3022": [
+   "(sem nome)",
+   "Gellhorn International Raceway"
+  ],
+  "L3023": [
+   "Covered Grandstands",
+   "Gellhorn International Raceway"
+  ],
+  "L3024": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3025": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3026": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3027": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3029": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3030": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3034": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3035": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3036": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3037": [
+   "(sem nome)",
+   "Vice City · Balsero"
+  ],
+  "L3039": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L3040": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L3041": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L3043": [
+   "(sem nome)",
+   "Vice City · Tequesta Retreat"
+  ],
+  "L3044": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3045": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3046": [
+   "Parking Lot",
+   "Vice City · Southside"
+  ],
+  "L3047": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3048": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3049": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L3050": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L3051": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3052": [
+   "(sem nome)",
+   "Vice City · NW 16th St, Balsero"
+  ],
+  "L3053": [
+   "(sem nome)",
+   "Rialto Islands"
+  ],
+  "L3054": [
+   "(sem nome)",
+   "Rialto Islands"
+  ],
+  "L3055": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3057": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L3058": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3059": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3060": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3061": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3062": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3065": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3066": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3067": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3072": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3073": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3074": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3076": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3080": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3082": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3085": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3087": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3089": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3090": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3091": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3095": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3096": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3098": [
+   "Flash FM",
+   "Vice-Dale County"
+  ],
+  "L3101": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L3103": [
+   "Lake",
+   "Belville"
+  ],
+  "L3104": [
+   "Leonard County Sheriff's Office",
+   "Belville"
+  ],
+  "L3105": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3117": [
+   "Bus Stop",
+   "Vice City · Calderone Ave, Southside"
+  ],
+  "L3126": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3127": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3128": [
+   "Interchange",
+   "Vice-Dale County"
+  ],
+  "L3130": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3131": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3132": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3134": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3135": [
+   "Bridge",
+   "Vice-Dale County"
+  ],
+  "L3136": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L3137": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L3138": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L3142": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L3150": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L3160": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L3161": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L3163": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L3164": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L3165": [
+   "(sem nome)",
+   "Bluegrass"
+  ],
+  "L3167": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3168": [
+   "(sem nome)",
+   "Sundown"
+  ],
+  "L3169": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3170": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3171": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3172": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3173": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3174": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3175": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L318": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3180": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3181": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3182": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3183": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3184": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L319": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3190": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L3191": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L3193": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L3198": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3199": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L320": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3200": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3202": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3203": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3204": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3206": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3207": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L321": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3210": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L3211": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L3218": [
+   "(sem nome)",
+   "Hamlet · Prison"
+  ],
+  "L3219": [
+   "Gate Building",
+   "Hamlet · Prison"
+  ],
+  "L322": [
+   "Dry Dock",
+   "Port Gellhorn"
+  ],
+  "L3220": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L3221": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L3222": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L3223": [
+   "(sem nome)",
+   "Peregrine Bay"
+  ],
+  "L3224": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L3226": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3229": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L3230": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L3231": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L3232": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L3233": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L3234": [
+   "(sem nome)",
+   "Gloriana Key"
+  ],
+  "L3235": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3236": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3237": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3239": [
+   "Billie Bob's",
+   "Vice-Dale County"
+  ],
+  "L3240": [
+   "August Hill Farm",
+   "Leonard County"
+  ],
+  "L3241": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3242": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3243": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L3247": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3248": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3249": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3250": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3260": [
+   "(sem nome)",
+   "Yorktown"
+  ],
+  "L3261": [
+   "(sem nome)",
+   "Yorktown"
+  ],
+  "L3262": [
+   "(sem nome)",
+   "Yorktown"
+  ],
+  "L3263": [
+   "(sem nome)",
+   "Yorktown"
+  ],
+  "L3265": [
+   "(sem nome)",
+   "Yorktown"
+  ],
+  "L3266": [
+   "(sem nome)",
+   "Vice City · Tequesta Retreat"
+  ],
+  "L3269": [
+   "Brian's Marina Boat Racks",
+   "Key Lento"
+  ],
+  "L3271": [
+   "(sem nome)",
+   "Vice City · Washington Beach"
+  ],
+  "L3274": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L3276": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3277": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3278": [
+   "(sem nome)",
+   "Vice Beach · Shore Dr, Ocean Beach"
+  ],
+  "L3280": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3283": [
+   "Arrow Gas Station",
+   "Key Lento · Route 1"
+  ],
+  "L3304": [
+   "Xero Gas Station",
+   "Ambrosia"
+  ],
+  "L3317": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3318": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3319": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3320": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3321": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3323": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3326": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L3327": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L3328": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L3329": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L3330": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L3331": [
+   "Bridge",
+   "Lummox County"
+  ],
+  "L3332": [
+   "Train Bridge",
+   "Leonard County"
+  ],
+  "L3333": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L3334": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L3335": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L3336": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L3337": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L3338": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3342": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3344": [
+   "Lifeguard Tower",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3345": [
+   "Lifeguard Tower",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3348": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3349": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L3350": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3351": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L3352": [
+   "Beach Volleyball",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L3354": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L3355": [
+   "Turn 7B",
+   "Gellhorn International Raceway"
+  ],
+  "L3356": [
+   "Turn 8B",
+   "Gellhorn International Raceway"
+  ],
+  "L3357": [
+   "Turn 6C",
+   "Gellhorn International Raceway"
+  ],
+  "L3358": [
+   "Turn 7C",
+   "Gellhorn International Raceway"
+  ],
+  "L3359": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3360": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3363": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3364": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3366": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3367": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3368": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3369": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3370": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3371": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3372": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3373": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3374": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3375": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3376": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3378": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3379": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3380": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3381": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3382": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3383": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3384": [
+   "(sem nome)",
+   "Hyde Island"
+  ],
+  "L3389": [
+   "Bridge",
+   "Grassrivers"
+  ],
+  "L3390": [
+   "Bridge",
+   "Peregrine Bay"
+  ],
+  "L3391": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3392": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3393": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3400": [
+   "Gator Plaza Sign",
+   "Vice City · Southside"
+  ],
+  "L3401": [
+   "Bridge",
+   "Leonida"
+  ],
+  "L3403": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L3407": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L3408": [
+   "Ricardo's Tires",
+   "Vice City · La Perle"
+  ],
+  "L3409": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L3410": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L3411": [
+   "RES TRADE PAINT",
+   "Vice City · La Perle"
+  ],
+  "L3412": [
+   "(sem nome)",
+   "Vice City · Downtown"
+  ],
+  "L3413": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3414": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L3417": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L3418": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L3419": [
+   "(sem nome)",
+   "Peregrine Bay"
+  ],
+  "L3421": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L3422": [
+   "(sem nome)",
+   "Little Hardin Island"
+  ],
+  "L3423": [
+   "(sem nome)",
+   "Abismo Key"
+  ],
+  "L3424": [
+   "(sem nome)",
+   "Frampton Islands"
+  ],
+  "L3425": [
+   "(sem nome)",
+   "Frampton Islands"
+  ],
+  "L3426": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L3427": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3428": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3429": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L343": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3430": [
+   "(sem nome)",
+   "Waning Sands"
+  ],
+  "L3431": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L3432": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L3433": [
+   "(sem nome)",
+   "Kelly County"
+  ],
+  "L3434": [
+   "Wild Hog Point",
+   "Kelly County"
+  ],
+  "L3435": [
+   "Partridge Bay",
+   "Lummox County"
+  ],
+  "L3436": [
+   "Okchiloha Bay",
+   "Lummox County"
+  ],
+  "L3437": [
+   "Millport Basin",
+   "Lummox County"
+  ],
+  "L3438": [
+   "San Malo Bay",
+   "Lummox County"
+  ],
+  "L3439": [
+   "Permit Keys",
+   "Mariana County"
+  ],
+  "L3440": [
+   "Tola Bay",
+   "Mariana County"
+  ],
+  "L3441": [
+   "Big Pine",
+   "Mariana County"
+  ],
+  "L3442": [
+   "Nehrling River",
+   "Mariana County"
+  ],
+  "L3443": [
+   "Bobcat Bight",
+   "Mariana County"
+  ],
+  "L3444": [
+   "Capri Sound",
+   "Leonida"
+  ],
+  "L3445": [
+   "Borrachero Sound",
+   "Kelly County"
+  ],
+  "L3446": [
+   "Wetman Bay",
+   "Mariana County"
+  ],
+  "L3447": [
+   "Gullet Marsh",
+   "Mariana County"
+  ],
+  "L3448": [
+   "Pelican River",
+   "Mariana County"
+  ],
+  "L3449": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L3450": [
+   "Gambit Bay",
+   "Mariana County"
+  ],
+  "L3451": [
+   "Shoeless Keys",
+   "Mariana County"
+  ],
+  "L3453": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L3456": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3457": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3458": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3459": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3460": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3461": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3462": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3463": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3464": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3465": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3466": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3467": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3468": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3469": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3470": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3471": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3472": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3473": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3474": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3475": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3476": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3479": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3481": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3482": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3483": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3484": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3485": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3486": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3487": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3488": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3489": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3490": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3491": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3493": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3494": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3495": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3497": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3498": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3499": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3500": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3501": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3502": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3503": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3504": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3505": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3506": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3507": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3508": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3509": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3510": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3514": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3515": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3516": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3517": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3518": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3519": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3520": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3521": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3522": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3523": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3524": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3525": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3526": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3527": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3528": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3529": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3530": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3531": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3532": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3533": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3534": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3535": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3536": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3537": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3538": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3539": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3540": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3541": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3542": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3543": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3544": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3545": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3546": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3547": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L3548": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3549": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3550": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3551": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3552": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3553": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3554": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3555": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3556": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3557": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3558": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3559": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3560": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3561": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3562": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3563": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3564": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3565": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3566": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3567": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3568": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3569": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3570": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3571": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3572": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3573": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3574": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3575": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3576": [
+   "(sem nome)",
+   "Moreau"
+  ],
+  "L3577": [
+   "(sem nome)",
+   "Moreau"
+  ],
+  "L3578": [
+   "(sem nome)",
+   "Moreau"
+  ],
+  "L3579": [
+   "(sem nome)",
+   "Moreau"
+  ],
+  "L3580": [
+   "(sem nome)",
+   "Moreau"
+  ],
+  "L3581": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3582": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3583": [
+   "(sem nome)",
+   "Belville"
+  ],
+  "L3584": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3585": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3586": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3588": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3589": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3590": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3591": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3592": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3593": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3594": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3595": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3598": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3599": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L3600": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3601": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3602": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3603": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3604": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3605": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3606": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3607": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3608": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3609": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3610": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3611": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3612": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3613": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3615": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3616": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3617": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3618": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3619": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3620": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3621": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3622": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3624": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3625": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3626": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3627": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3628": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3629": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3630": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3631": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3632": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3633": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3634": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3635": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3636": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3637": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3638": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L3639": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L3640": [
+   "(sem nome)",
+   "Lummox County"
+  ],
+  "L3641": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3642": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3643": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3644": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3645": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3646": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3647": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3648": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3649": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3650": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3651": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3654": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3656": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3657": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L3658": [
+   "Gellhorn Drive-In Theatre",
+   "Port Gellhorn"
+  ],
+  "L3662": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3665": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3667": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3668": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3669": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3670": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3671": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3672": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3673": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3674": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3682": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3683": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3686": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3687": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3688": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3689": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3690": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3691": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3692": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3693": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3694": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3695": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3696": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3697": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3698": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3699": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3700": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3701": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3702": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3703": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3704": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3705": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3706": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3707": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3708": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3709": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3710": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3711": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3712": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3713": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3714": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3715": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3716": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3717": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3718": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3719": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3720": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3721": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3722": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3723": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3725": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3727": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3728": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3731": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3732": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3733": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3734": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3735": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3736": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3737": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3738": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3739": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3740": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3741": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3742": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L3743": [
+   "(sem nome)",
+   "Vice City · Tisha-Wocka"
+  ],
+  "L3749": [
+   "Sharktooth Island",
+   "Leonard County"
+  ],
+  "L3750": [
+   "Peregrine Bay",
+   "Leonida"
+  ],
+  "L3751": [
+   "Leith River",
+   "Leonard County"
+  ],
+  "L3752": [
+   "Moreau River",
+   "Lummox County"
+  ],
+  "L3753": [
+   "(sem nome)",
+   "Moreau"
+  ],
+  "L3754": [
+   "The Monument of Leonidan Supremacy",
+   "Leonida"
+  ],
+  "L385": [
+   "(sem nome)",
+   "Vice City · Tequesta Retreat"
+  ],
+  "L386": [
+   "(sem nome)",
+   "Vice City · Tequesta Retreat"
+  ],
+  "L403": [
+   "W. Blanco's Cuban Foods",
+   "Ambrosia"
+  ],
+  "L404": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L405": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L413": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L414": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L416": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L420": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L421": [
+   "(sem nome)",
+   "Port Vice City"
+  ],
+  "L425": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L434": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L435": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L444": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L452": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L453": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L454": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L455": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L463": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L465": [
+   "Lake",
+   "Vice-Dale County"
+  ],
+  "L473": [
+   "(sem nome)",
+   "Vice City · Bayside"
+  ],
+  "L476": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L477": [
+   "Allied Air Hangar",
+   "Vice City International Airport"
+  ],
+  "L488": [
+   "(sem nome)",
+   "Vice City · Stockyard"
+  ],
+  "L490": [
+   "Going Spare",
+   "Vice City · Crosstown"
+  ],
+  "L491": [
+   "Shunters",
+   "Vice City · Crosstown"
+  ],
+  "L492": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L493": [
+   "Kirkwood Distribution",
+   "Vice City · Crosstown"
+  ],
+  "L494": [
+   "(sem nome)",
+   "Vice City · NE 4th Ave, Crosstown"
+  ],
+  "L497": [
+   "(sem nome)",
+   "Vice City · Tequesta Retreat"
+  ],
+  "L498": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L500": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L513": [
+   "Radio Mast",
+   "Kelly County"
+  ],
+  "L514": [
+   "(sem nome)",
+   "Vice Beach · Washington Beach"
+  ],
+  "L515": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L518": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L526": [
+   "(sem nome)",
+   "Vice City · Tequesta"
+  ],
+  "L545": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L55": [
+   "(sem nome)",
+   "Vice Beach · Shore Dr, Ocean Beach"
+  ],
+  "L552": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L557": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ],
+  "L558": [
+   "(sem nome)",
+   "Vice Beach · Thompson Ave, Ocean Beach"
+  ],
+  "L559": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L56": [
+   "(sem nome)",
+   "Vice Beach · Shore Dr, Ocean Beach"
+  ],
+  "L560": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L561": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L566": [
+   "(sem nome)",
+   "Vice Beach · Harborside Ave, Ocean Beach"
+  ],
+  "L57": [
+   "(sem nome)",
+   "Vice Beach · Shore Dr, Ocean Beach"
+  ],
+  "L574": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L579": [
+   "(sem nome)",
+   "Vice City · Vice Decor District"
+  ],
+  "L583": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L588": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L592": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L595": [
+   "(sem nome)",
+   "Leonida"
+  ],
+  "L596": [
+   "Repair & Salvage",
+   "Port Gellhorn"
+  ],
+  "L598": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L599": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L60": [
+   "(sem nome)",
+   "Vice Beach · Shore Dr, Ocean Beach"
+  ],
+  "L600": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L601": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L603": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L612": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L616": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L617": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L618": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L620": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L621": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L623": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L637": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L639": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L645": [
+   "(sem nome)",
+   "Abismo Key"
+  ],
+  "L646": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L647": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L648": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L649": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L650": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L656": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L658": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L663": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L664": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L672": [
+   "Train Bridge",
+   "Capri"
+  ],
+  "L678": [
+   "(sem nome)",
+   "Vice City · Rockridge"
+  ],
+  "L682": [
+   "(sem nome)",
+   "Vice City · La Perle"
+  ],
+  "L684": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L699": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L70": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L702": [
+   "Status Auto Resort",
+   "Vice City · Crosstown"
+  ],
+  "L71": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L710": [
+   "Break Inn",
+   "Vice City · Catalan Blvd, Downtown"
+  ],
+  "L719": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L721": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L722": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L723": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L727": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L728": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L729": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L730": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L731": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L743": [
+   "(sem nome)",
+   "Vice City · Crosstown"
+  ],
+  "L745": [
+   "Calle Creativa",
+   "Vice City · Little Cuba"
+  ],
+  "L747": [
+   "Temple Park",
+   "Vice City · Tequesta"
+  ],
+  "L750": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L751": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L756": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L759": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L760": [
+   "(sem nome)",
+   "Dalton Island"
+  ],
+  "L761": [
+   "Donovan Roeder Jr. Community Center",
+   "Key Lento"
+  ],
+  "L763": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L764": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L765": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L766": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L767": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L768": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L779": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L78": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L782": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L783": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L786": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L788": [
+   "(sem nome)",
+   "Watson Bay"
+  ],
+  "L796": [
+   "(sem nome)",
+   "Vice Beach · Leaf Links"
+  ],
+  "L799": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L800": [
+   "(sem nome)",
+   "Vice City International Airport"
+  ],
+  "L808": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L809": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L811": [
+   "Repair & Salvage",
+   "Port Gellhorn"
+  ],
+  "L812": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L813": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L815": [
+   "(sem nome)",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L822": [
+   "(sem nome)",
+   "Mount Kalaga National Park"
+  ],
+  "L836": [
+   "Watson Island Sea Port",
+   "Vice-Dale County"
+  ],
+  "L837": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L839": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L840": [
+   "(sem nome)",
+   "Vice-Dale County"
+  ],
+  "L845": [
+   "(sem nome)",
+   "Kelly County · Draper Island"
+  ],
+  "L848": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L849": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L85": [
+   "Vice Museum of Art",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L850": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L851": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L852": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L853": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L854": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L855": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L856": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L857": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L858": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L865": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L866": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L867": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L868": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L869": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L87": [
+   "Firefly Plaza",
+   "Vice Beach"
+  ],
+  "L870": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L871": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L872": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L873": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L874": [
+   "(sem nome)",
+   "Key Lento"
+  ],
+  "L877": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L878": [
+   "(sem nome)",
+   "Key Lento · Route 1"
+  ],
+  "L887": [
+   "Parking Lot",
+   "Ambrosia"
+  ],
+  "L892": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L893": [
+   "Parking Lot",
+   "Vice Beach · Ocean Beach"
+  ],
+  "L90": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L909": [
+   "Empty Lot",
+   "Vice City · Crosstown"
+  ],
+  "L912": [
+   "(sem nome)",
+   "Vice City · Salton"
+  ],
+  "L913": [
+   "Limit HQ",
+   "Vice City · Downtown"
+  ],
+  "L923": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L924": [
+   "(sem nome)",
+   "Ambrosia · Allied Crystal"
+  ],
+  "L927": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L928": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L929": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L930": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L931": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L933": [
+   "(sem nome)",
+   "Ambrosia"
+  ],
+  "L934": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L936": [
+   "(sem nome)",
+   "Leonida"
+  ],
+  "L937": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L938": [
+   "(sem nome)",
+   "Vice City"
+  ],
+  "L939": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L940": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L941": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L942": [
+   "(sem nome)",
+   "Capri"
+  ],
+  "L944": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L945": [
+   "Pier",
+   "Port Gellhorn"
+  ],
+  "L946": [
+   "Pier",
+   "Port Gellhorn"
+  ],
+  "L947": [
+   "Juice Fruit Sign",
+   "Port Gellhorn"
+  ],
+  "L948": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L949": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L951": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L953": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L955": [
+   "Park",
+   "Port Gellhorn"
+  ],
+  "L956": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L957": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L958": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L961": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L963": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L967": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L968": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L969": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L972": [
+   "(sem nome)",
+   "Hamlet"
+  ],
+  "L974": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L976": [
+   "(sem nome)",
+   "Vice City · Little Cuba"
+  ],
+  "L977": [
+   "Lake",
+   "Vice City · Crosstown"
+  ],
+  "L978": [
+   "(sem nome)",
+   "Mariana County"
+  ],
+  "L980": [
+   "(sem nome)",
+   "Port Gellhorn"
+  ],
+  "L984": [
+   "(sem nome)",
+   "Leonard County"
+  ],
+  "L99": [
+   "(sem nome)",
+   "Vice Beach"
+  ],
+  "L992": [
+   "(sem nome)",
+   "Vice City · Peacock Bay"
+  ]
+ }
+}

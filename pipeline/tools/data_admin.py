@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Administração dos dados do app (aba "Dados do app" da página Aprovações VI Guide).
-  data_admin.py catalog <app/www> <out dir> [hidden.json] [item_videos.json] [map_candidates.json]
+  data_admin.py catalog <app/www> <out dir> [hidden.json] [item_videos.json] [map_candidates.json] [ogm_points.json]
         monta o catálogo: TUDO o que está na base, com a ficha completa (os mesmos campos que o app mostra), foto, vídeo e situação:
         "app" (aparece no app), "stored" (guardado na base, não sobe: easter eggs, pontos da gta.wiki ainda não desenhados) e
         "out" (o dono tirou do app; vem de hidden.json). Gera também as folhas de miniaturas (sprites) das fotos.
@@ -17,6 +17,46 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 L = {'body': 'Carroceria', 'maker': 'Fabricante', 'cap': 'Capacidade', 'fire': 'Modo de disparo', 'job': 'Ocupação', 'links': 'Ligações',
      'home': 'Onde vive', 'type': 'Tipo', 'where': 'Onde aparece', 'genre': 'Gênero', 'host': 'Apresentação', 'leader': 'Liderança',
      'aka': 'Sigla', 'also': 'Também aparece em', 'cat': 'Categoria'}
+
+# Lugares do mapa por TIPO de lugar ou atividade, como o Map Genie divide (pedido do dono, 24/11/2026: "não por áreas").
+# Grupo e tipo vêm da categoria do GTADB; quando o GTADB não tem categoria, do ponto do Open GTA 6 Map (dados abertos) a até 40 m
+# com tipo de lugar (lojas, comida, transporte, serviços). Colecionáveis e atividades perto não contam: não são tipo de lugar.
+GTADB_TYPE = {'hotel': ('Hospedagem e moradia', 'Hotel'), 'residential': ('Hospedagem e moradia', 'Residencial'),
+    'safehouse': ('Hospedagem e moradia', 'Esconderijo'), 'restaurant': ('Comer e beber', 'Restaurante'), 'retail': ('Lojas', 'Loja'),
+    'leisure': ('Lazer e diversão', 'Lazer'), 'events': ('Lazer e diversão', 'Eventos'), 'natural': ('Natureza', 'Natureza'),
+    'agriculture': ('Natureza', 'Agricultura'), 'landmark': ('Pontos turísticos', 'Ponto turístico'),
+    'government': ('Serviços públicos', 'Governo'), 'public': ('Serviços públicos', 'Prédio público'), 'office': ('Serviços públicos', 'Escritório'),
+    'utilities': ('Serviços públicos', 'Utilidades'), 'service': ('Serviços públicos', 'Serviço'), 'transportation': ('Transporte', 'Transporte'),
+    'industrial': ('Indústria e obras', 'Indústria'), 'construction': ('Indústria e obras', 'Obra')}
+OGM_TYPE = {'Bus stop': ('Transporte', 'Ponto de ônibus'), 'Station': ('Transporte', 'Estação'), 'Airport': ('Transporte', 'Aeroporto'),
+    'Ferry': ('Transporte', 'Balsa'), 'Marina': ('Transporte', 'Marina'), 'Helipad': ('Transporte', 'Heliponto'), 'helipad': ('Transporte', 'Heliponto'),
+    'Gas station': ('Veículos', 'Posto de gasolina'), 'EV charger': ('Veículos', 'Carregador elétrico'), "Pay 'n' Spray": ('Veículos', "Pay 'n' Spray"),
+    'Mod shop': ('Veículos', 'Oficina'), 'Car wash': ('Veículos', 'Lava-rápido'), 'Vehicle rental': ('Veículos', 'Aluguel de veículo'), 'Garage': ('Veículos', 'Garagem'),
+    'ATM': ('Serviços', 'Caixa eletrônico'), 'Bank': ('Serviços', 'Banco'), 'Hospital': ('Serviços públicos', 'Hospital'),
+    'Police station': ('Serviços públicos', 'Delegacia'), 'Fire station': ('Serviços públicos', 'Bombeiros'),
+    'Bar': ('Comer e beber', 'Bar'), 'Café and takeout': ('Comer e beber', 'Café e lanchonete'), 'Cafe Takeout': ('Comer e beber', 'Café e lanchonete'),
+    'Street food': ('Comer e beber', 'Comida de rua'), 'Food and drink': ('Comer e beber', 'Restaurante'), 'Nightclub': ('Lazer e diversão', 'Boate'),
+    'Clothes shop': ('Lojas', 'Roupas'), 'Shoe shop': ('Lojas', 'Calçados'), 'Hair salon': ('Lojas', 'Cabeleireiro'), 'Tattoo parlour': ('Lojas', 'Tatuagem'),
+    'Electronics': ('Lojas', 'Eletrônicos'), 'Comics': ('Lojas', 'Quadrinhos'), 'Convenience store': ('Lojas', 'Conveniência'),
+    'Liquor store': ('Lojas', 'Bebidas'), 'Ammu-Nation': ('Lojas', 'Loja de armas'), 'Gym': ('Lazer e diversão', 'Academia'),
+    'Cinema': ('Lazer e diversão', 'Cinema'), 'Golf': ('Lazer e diversão', 'Golfe'), 'Arcade': ('Lazer e diversão', 'Fliperama'),
+    'Pool': ('Lazer e diversão', 'Sinuca'), 'Mini golf': ('Lazer e diversão', 'Minigolfe'), 'Landmark': ('Pontos turísticos', 'Ponto turístico'),
+    'City / Town': ('Pontos turísticos', 'Cidade')}
+OGM_GRID = None
+
+def place_type(r):
+    """(grupo, tipo) de um lugar do GTADB: categoria do GTADB, senão o ponto do Open GTA 6 Map a até 40 m, senão 'Sem tipo'"""
+    for c in (r[5] or []):
+        if c in GTADB_TYPE: return GTADB_TYPE[c]
+    if OGM_GRID and r[4]:
+        x, y = r[4][0], r[4][1]; best = None
+        for i in (-1, 0, 1):
+            for j in (-1, 0, 1):
+                for px, py, t in OGM_GRID.get((int(x // 50) + i, int(y // 50) + j), ()):
+                    d = ((px - x) ** 2 + (py - y) ** 2) ** .5
+                    if d < 40 and (best is None or d < best[0]): best = (d, t)
+        if best: return OGM_TYPE[best[1]]
+    return ('Sem tipo', 'Sem tipo')
 
 def wiki_detail(f3):
     """linha da wiki: [nome, categoria, campo1, campo2, campo3, outros jogos]; f3 = rótulos dos 3 campos (como o WK do app)"""
@@ -54,7 +94,7 @@ KINDS = [  # tipo, rótulo, arquivo, global, caminho, (linha -> chave, nome, res
     ('hundred', 'Metas do 100%', 'hundred.js', 'HUNDRED', None, lambda r: (r[0] + '|' + r[1], r[3] or r[2], r[1]),
         lambda r: [['Meta', r[3] or r[2]], ['Peso no 100%', r[4]], ['Total', r[11] if len(r) > 11 else ''], ['Situação do dado', r[9]], ['Fontes', ', '.join(r[10] or [])]], None, None),
     ('places', 'Lugares do mapa', 'data.js', 'ATLAS_PLACES', None, lambda r: (r[0], r[1] or '(sem nome)', ' · '.join(x for x in (r[3], r[2]) if x)),
-        lambda r: [['Rua', r[2]], ['Região', r[3]], ['Categorias', ', '.join(r[5] or [])], ['Na vida real', r[6]], ['Posição no mapa', '%s, %s' % tuple(r[4]) if r[4] else '']], 'P', None),
+        lambda r: [['Tipo de lugar', ' · '.join(place_type(r))], ['Rua', r[2]], ['Região', r[3]], ['Categorias', ', '.join(r[5] or [])], ['Na vida real', r[6]], ['Posição no mapa', '%s, %s' % tuple(r[4]) if r[4] else '']], 'P', None),
 ]
 CHUNK = 450
 
@@ -119,6 +159,8 @@ def catalog(www, out, hidden_path='', videos_path='', cand_path=''):
     try: chapters = load(www, 'missions.js')[1].get('chapters', {})
     except Exception: pass
     kinds, index = {}, []
+    glf = os.environ.get('GB_LINKS') or os.path.join(HERE, 'coleta', 'gb_links.json')
+    GBL = json.load(open(glf)) if os.path.exists(glf) else {}
     for kind, label, f, g, path, fn, det, phx, vx in KINDS:
         try: _, v, _ = load(www, f)
         except Exception as e: print('  sem', f, e); continue
@@ -139,6 +181,21 @@ def catalog(www, out, hidden_path='', videos_path='', cand_path=''):
             rows.append({'k': str(k), 'n': str(n), 's': str(sub or '')[:60], 'id': doc_id(kind, k), 'st': 'app', 'd': d, 'ph': ph, 'phs': phs,
                          'pk': ('%s:%s' % (phx, n)) if phx and phx != 'P' else ('ms:' + k if kind == 'missions' else ''),
                          'v': {'t': vid['title'], 'c': vid['channel'], 'u': vid['url']} if vid else None})
+        if phx in ('v', 'w'):   # itens da lista secundária do GTABase (real.js → GB_EXTRA): também estão no app
+            main = {re.sub(r'[^a-z0-9]', '', r['n'].lower()) for r in rows}   # como no app: extra com o nome de um item principal some
+            for gid, gx in (globals_of(www, 'real.js').get('GB_EXTRA') or {}).items():
+                if gx[1] != kind or re.match(r'\s*Unnamed\b', gx[0]) or re.sub(r'[^a-z0-9]', '', gx[0].lower()) in main: continue
+                phs = PH.get(gid, [])
+                rows.append({'k': gid, 'n': gx[0], 's': gx[2], 'id': doc_id(kind, gid), 'st': 'app', 'd': [['Categoria', gx[2]], ['Página no GTABase', gx[3]]],
+                             'ph': phs[0] if phs else '', 'phs': phs, 'pk': gid, 'v': None})
+            for r in rows:   # ficha do GTABase (tools/gb_photos.py → tools/coleta/gb_links.json): classe oficial, conjunto, era...
+                g = GBL.get(r['pk'])
+                if not g: continue
+                f = g['fields']
+                for lab, key in (('Classe oficial', 'Vehicle Class'), ('Conjunto Standout', 'Standout Set'), ('Era', 'Era'), ('Lugares', 'Seats'),
+                                 ('Tração', 'Drive Train'), ('Marchas', 'Gears'), ('Modelo base', 'Base Model'), ('Classe da arma', 'Weapon Class')):
+                    if f.get(key) and not any(x[0] == lab for x in r['d']): r['d'].append([lab, str(f[key])[:120]])
+                if not any(x[0] == 'Página no GTABase' for x in r['d']): r['d'].append(['Página no GTABase', g['url']])
         have = {r['k'] for r in rows}
         for k, (n, sub) in HID.get(kind, {}).items():          # já fora do app: some dos .js, continua aqui para poder voltar
             if k not in have: rows.append({'k': k, 'n': n, 's': (sub or '')[:60], 'id': doc_id(kind, k), 'st': 'app', 'd': [], 'ph': '', 'v': None})
@@ -183,7 +240,7 @@ def catalog(www, out, hidden_path='', videos_path='', cand_path=''):
 def apply(www, hidden_path):
     H = {k: set(v) for k, v in read_hidden(hidden_path).items()}
     if not H: print('nada fora do app'); return
-    by_file = {}
+    by_file, gone = {}, {}
     for kind, label, f, g, path, fn, det, phx, vx in KINDS:
         if kind in H: by_file.setdefault(f, []).append((kind, path, fn))
     for f, specs in by_file.items():
@@ -192,12 +249,21 @@ def apply(www, hidden_path):
             rows = rows_of(v, path)
             keep = [r for r in rows if str(fn(r)[0]) not in H[kind]]
             print('  %-11s %d fora do app' % (kind, len(rows) - len(keep)))
+            gone[f[:-3]] = gone.get(f[:-3], 0) + len(rows) - len(keep)
             if path is None: v = keep
             else: v[path] = keep
         save(www, f, g, v, rest)
+    # o portão "não encolher" do publish_data.py desconta o que o dono tirou de propósito (só isso; corte acidental continua barrado)
+    json.dump(gone, open(os.path.join(www, 'hidden_counts.json'), 'w'))
 
 if __name__ == '__main__':
     a = sys.argv
-    if a[1] == 'catalog': catalog(a[2], a[3], *(a[4:7] + [''] * (3 - len(a[4:7]))))
+    if a[1] == 'catalog':
+        og = a[7] if len(a) > 7 else os.environ.get('OGM_POINTS', '')
+        if og and os.path.exists(og):
+            OGM_GRID = {}
+            for p in json.load(open(og))['points']:
+                if p['type'] in OGM_TYPE: OGM_GRID.setdefault((int(p['x'] // 50), int(p['y'] // 50)), []).append((p['x'], p['y'], p['type']))
+        catalog(a[2], a[3], *(a[4:7] + [''] * (3 - len(a[4:7]))))
     elif a[1] == 'apply': apply(a[2], a[3])
     else: raise SystemExit(__doc__)
