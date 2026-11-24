@@ -240,7 +240,7 @@ def catalog(www, out, hidden_path='', videos_path='', cand_path=''):
 def apply(www, hidden_path):
     H = {k: set(v) for k, v in read_hidden(hidden_path).items()}
     if not H: print('nada fora do app'); return
-    by_file, gone = {}, {}
+    by_file, off = {}, {}
     for kind, label, f, g, path, fn, det, phx, vx in KINDS:
         if kind in H: by_file.setdefault(f, []).append((kind, path, fn))
     for f, specs in by_file.items():
@@ -249,12 +249,14 @@ def apply(www, hidden_path):
             rows = rows_of(v, path)
             keep = [r for r in rows if str(fn(r)[0]) not in H[kind]]
             print('  %-11s %d fora do app' % (kind, len(rows) - len(keep)))
-            gone[f[:-3]] = gone.get(f[:-3], 0) + len(rows) - len(keep)
+            off.setdefault(f, []).extend(str(fn(r)[0]) for r in rows if str(fn(r)[0]) in H[kind])
             if path is None: v = keep
             else: v[path] = keep
+        # o pacote leva a lista do que o dono tirou (window.OFF_<ARQUIVO>, só ids): a trava "não encolher" do publish_data.py e a do
+        # próprio celular (datasync.js, igual em todas as versões da loja) contam o arquivo inteiro, então tirar muita coisa de propósito
+        # passa e um corte acidental continua barrado. O app ignora essa lista.
+        if off.get(f): rest = rest.rstrip().rstrip(';') + ';window.OFF_%s=%s;' % (re.sub(r'\W', '_', f[:-3]).upper(), json.dumps(sorted(off[f]), separators=(',', ':')))
         save(www, f, g, v, rest)
-    # o portão "não encolher" do publish_data.py desconta o que o dono tirou de propósito (só isso; corte acidental continua barrado)
-    json.dump(gone, open(os.path.join(www, 'hidden_counts.json'), 'w'))
 
 if __name__ == '__main__':
     a = sys.argv
