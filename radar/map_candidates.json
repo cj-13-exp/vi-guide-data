@@ -1,0 +1,4717 @@
+{
+ "ts": "2026-11-24T07:01:03Z",
+ "source": "gta.wiki {{LeonidaDayMap}}",
+ "n_pages": 67,
+ "groups": [
+  {
+   "group": "smash",
+   "n": 35,
+   "n_new_today": 35,
+   "n_on_map": 35,
+   "pages": [
+    "Smash 'n' Grabs"
+   ]
+  },
+  {
+   "group": "vehicles",
+   "n": 31,
+   "n_new_today": 31,
+   "n_on_map": 0,
+   "pages": [
+    "Bison 900",
+    "Bison 900 (police)",
+    "Blast (police)",
+    "CR5013",
+    "Delmar",
+    "Hauler",
+    "Ilayda",
+    "L35P (police)",
+    "Pumper",
+    "Reef Clipper II",
+    "Stanier G2 (police)"
+   ]
+  },
+  {
+   "group": "strangers",
+   "n": 30,
+   "n_new_today": 30,
+   "n_on_map": 0,
+   "pages": [
+    "Strangers & Freaks"
+   ]
+  },
+  {
+   "group": "guns",
+   "n": 26,
+   "n_new_today": 26,
+   "n_on_map": 3,
+   "pages": [
+    "Barrage Gun Supply",
+    "Biff's Gun Supply",
+    "Big Shots",
+    "Black Eagle",
+    "Black Eagle (manufacturer)",
+    "Chuck's Tackle & Shot",
+    "Gellhorn Outfitters",
+    "Guns Aplenty!",
+    "Hamlet Traders",
+    "Iron & Oak",
+    "Jackson Firearms",
+    "Martez Empeños",
+    "Port Gellhorn Pawn & Gun",
+    "Weapon Stores in GTA VI"
+   ]
+  },
+  {
+   "group": "places",
+   "n": 20,
+   "n_new_today": 20,
+   "n_on_map": 0,
+   "pages": [
+    "3D Universe Portal",
+    "Kensinger Tower",
+    "La Cascara Motel",
+    "Port Gellhorn Station Garage",
+    "St. Lucia Lighthouse",
+    "Still Waters",
+    "Wild Hog Airfield",
+    "Wilma White Center"
+   ]
+  },
+  {
+   "group": "areas",
+   "n": 15,
+   "n_new_today": 15,
+   "n_on_map": 0,
+   "pages": [
+    "Abismo Key",
+    "Ambrosia",
+    "Bonanza",
+    "Capri",
+    "Deep Roots Memorial Sanctuary",
+    "Draper Bay",
+    "Gambit Bay",
+    "Grayson",
+    "Hamlet",
+    "Millport",
+    "Port Gellhorn",
+    "Tortoise Lake",
+    "Vice Beach",
+    "Vice City",
+    "Wild Hog Point"
+   ]
+  },
+  {
+   "group": "drones",
+   "n": 14,
+   "n_new_today": 14,
+   "n_on_map": 0,
+   "pages": [
+    "Top Fun Drone Races"
+   ]
+  },
+  {
+   "group": "payday",
+   "n": 7,
+   "n_new_today": 7,
+   "n_on_map": 7,
+   "pages": [
+    "Payday Loans"
+   ]
+  },
+  {
+   "group": "playlists",
+   "n": 5,
+   "n_new_today": 5,
+   "n_on_map": 2,
+   "pages": [
+    "Unique Playlists"
+   ]
+  },
+  {
+   "group": "cards",
+   "n": 2,
+   "n_new_today": 2,
+   "n_on_map": 0,
+   "pages": [
+    "Collectible Card Sets/locations"
+   ]
+  }
+ ],
+ "points": [
+  {
+   "id": "d0df4e83e883",
+   "group": "areas",
+   "label": "Abismo Key",
+   "page": "Abismo Key",
+   "section": "",
+   "x": -4710,
+   "y": -7314,
+   "shape": "polygon",
+   "poly": [
+    [
+     -3938.0,
+     -7216.0
+    ],
+    [
+     -4010.0,
+     -7146.0
+    ],
+    [
+     -4157.0,
+     -7106.0
+    ],
+    [
+     -4330.0,
+     -7106.0
+    ],
+    [
+     -4522.0,
+     -7145.0
+    ],
+    [
+     -4681.0,
+     -7216.0
+    ],
+    [
+     -4866.0,
+     -7185.0
+    ],
+    [
+     -4980.0,
+     -7134.0
+    ],
+    [
+     -5076.0,
+     -7134.0
+    ],
+    [
+     -5108.0,
+     -7214.0
+    ],
+    [
+     -5335.0,
+     -7265.0
+    ],
+    [
+     -5413.0,
+     -7223.0
+    ],
+    [
+     -5466.0,
+     -7264.0
+    ],
+    [
+     -5462.0,
+     -7332.0
+    ],
+    [
+     -5401.0,
+     -7363.0
+    ],
+    [
+     -5369.0,
+     -7400.0
+    ],
+    [
+     -5283.0,
+     -7435.0
+    ],
+    [
+     -5034.0,
+     -7338.0
+    ],
+    [
+     -4936.0,
+     -7335.0
+    ],
+    [
+     -4851.0,
+     -7357.0
+    ],
+    [
+     -4794.0,
+     -7388.0
+    ],
+    [
+     -4741.0,
+     -7409.0
+    ],
+    [
+     -4714.0,
+     -7460.0
+    ],
+    [
+     -4687.0,
+     -7457.0
+    ],
+    [
+     -4655.0,
+     -7469.0
+    ],
+    [
+     -4498.0,
+     -7473.0
+    ],
+    [
+     -4400.0,
+     -7448.0
+    ],
+    [
+     -4336.0,
+     -7432.0
+    ],
+    [
+     -4293.0,
+     -7454.0
+    ],
+    [
+     -4203.0,
+     -7449.0
+    ],
+    [
+     -4002.0,
+     -7394.0
+    ],
+    [
+     -3958.0,
+     -7347.0
+    ],
+    [
+     -3935.0,
+     -7280.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-19",
+   "url": "https://gta.wiki/wiki/Abismo_Key"
+  },
+  {
+   "id": "bb3c279a5453",
+   "group": "areas",
+   "label": "Ambrosia",
+   "page": "Ambrosia",
+   "section": "",
+   "x": -2901,
+   "y": 3997,
+   "shape": "polygon",
+   "poly": [
+    [
+     -3115.0,
+     2969.0
+    ],
+    [
+     -2796.0,
+     2911.0
+    ],
+    [
+     -2546.0,
+     3731.0
+    ],
+    [
+     -2488.0,
+     3788.0
+    ],
+    [
+     -2420.0,
+     4005.0
+    ],
+    [
+     -2562.0,
+     4143.0
+    ],
+    [
+     -2716.0,
+     4475.0
+    ],
+    [
+     -2652.0,
+     4769.0
+    ],
+    [
+     -2757.0,
+     4833.0
+    ],
+    [
+     -2851.0,
+     4462.0
+    ],
+    [
+     -3181.0,
+     4295.0
+    ],
+    [
+     -3395.0,
+     4275.0
+    ],
+    [
+     -3377.0,
+     4002.0
+    ],
+    [
+     -3403.0,
+     3920.0
+    ],
+    [
+     -3042.0,
+     3803.0
+    ],
+    [
+     -3112.0,
+     3567.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Ambrosia"
+  },
+  {
+   "id": "933087a4eca7",
+   "group": "areas",
+   "label": "Bonanza",
+   "page": "Bonanza",
+   "section": "",
+   "x": -3891,
+   "y": 8121,
+   "shape": "polygon",
+   "poly": [
+    [
+     -4218.0,
+     8520.0
+    ],
+    [
+     -3956.0,
+     8646.0
+    ],
+    [
+     -3627.0,
+     8539.0
+    ],
+    [
+     -3488.0,
+     8128.0
+    ],
+    [
+     -3542.0,
+     7712.0
+    ],
+    [
+     -3847.0,
+     7586.0
+    ],
+    [
+     -4170.0,
+     7646.0
+    ],
+    [
+     -4282.0,
+     8194.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-19",
+   "url": "https://gta.wiki/wiki/Bonanza"
+  },
+  {
+   "id": "a5558a551bb6",
+   "group": "areas",
+   "label": "Capri",
+   "page": "Capri",
+   "section": "",
+   "x": -6808,
+   "y": 231,
+   "shape": "polygon",
+   "poly": [
+    [
+     -6497.0,
+     -526.0
+    ],
+    [
+     -6579.0,
+     -594.0
+    ],
+    [
+     -7314.0,
+     -268.0
+    ],
+    [
+     -7566.0,
+     390.0
+    ],
+    [
+     -7488.0,
+     852.0
+    ],
+    [
+     -7281.0,
+     867.0
+    ],
+    [
+     -6849.0,
+     749.0
+    ],
+    [
+     -6458.0,
+     678.0
+    ],
+    [
+     -6293.0,
+     593.0
+    ],
+    [
+     -6277.0,
+     185.0
+    ],
+    [
+     -6282.0,
+     -387.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Capri"
+  },
+  {
+   "id": "decafe525a6f",
+   "group": "areas",
+   "label": "Deep Roots Memorial Sanctuary",
+   "page": "Deep Roots Memorial Sanctuary",
+   "section": "",
+   "x": -2285,
+   "y": -2134,
+   "shape": "polygon",
+   "poly": [
+    [
+     -2298.0,
+     -2062.0
+    ],
+    [
+     -2316.0,
+     -2069.0
+    ],
+    [
+     -2336.0,
+     -2085.0
+    ],
+    [
+     -2343.0,
+     -2095.0
+    ],
+    [
+     -2351.0,
+     -2112.0
+    ],
+    [
+     -2353.0,
+     -2126.0
+    ],
+    [
+     -2350.0,
+     -2145.0
+    ],
+    [
+     -2346.0,
+     -2154.0
+    ],
+    [
+     -2339.0,
+     -2169.0
+    ],
+    [
+     -2331.0,
+     -2176.0
+    ],
+    [
+     -2317.0,
+     -2186.0
+    ],
+    [
+     -2302.0,
+     -2193.0
+    ],
+    [
+     -2288.0,
+     -2195.0
+    ],
+    [
+     -2274.0,
+     -2195.0
+    ],
+    [
+     -2262.0,
+     -2192.0
+    ],
+    [
+     -2243.0,
+     -2185.0
+    ],
+    [
+     -2232.0,
+     -2176.0
+    ],
+    [
+     -2221.0,
+     -2163.0
+    ],
+    [
+     -2214.0,
+     -2148.0
+    ],
+    [
+     -2210.0,
+     -2126.0
+    ],
+    [
+     -2212.0,
+     -2112.0
+    ],
+    [
+     -2222.0,
+     -2092.0
+    ],
+    [
+     -2239.0,
+     -2074.0
+    ],
+    [
+     -2259.0,
+     -2063.0
+    ],
+    [
+     -2278.0,
+     -2061.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Deep_Roots_Memorial_Sanctuary"
+  },
+  {
+   "id": "6ac9d28ee8f6",
+   "group": "areas",
+   "label": "Draper Bay",
+   "page": "Draper Bay",
+   "section": "",
+   "x": -7038,
+   "y": 4622,
+   "shape": "polygon",
+   "poly": [
+    [
+     -8586.0,
+     4580.0
+    ],
+    [
+     -7806.0,
+     3224.0
+    ],
+    [
+     -7790.0,
+     3332.0
+    ],
+    [
+     -7758.0,
+     3452.0
+    ],
+    [
+     -7682.0,
+     3584.0
+    ],
+    [
+     -7486.0,
+     3662.0
+    ],
+    [
+     -7318.0,
+     3684.0
+    ],
+    [
+     -7206.0,
+     3736.0
+    ],
+    [
+     -7146.0,
+     3732.0
+    ],
+    [
+     -7008.0,
+     3860.0
+    ],
+    [
+     -6992.0,
+     3952.0
+    ],
+    [
+     -6930.0,
+     3966.0
+    ],
+    [
+     -6778.0,
+     4180.0
+    ],
+    [
+     -6638.0,
+     4278.0
+    ],
+    [
+     -6606.0,
+     4348.0
+    ],
+    [
+     -6540.0,
+     4398.0
+    ],
+    [
+     -6492.0,
+     4444.0
+    ],
+    [
+     -6420.0,
+     4604.0
+    ],
+    [
+     -6453.0,
+     4653.0
+    ],
+    [
+     -6393.0,
+     4656.0
+    ],
+    [
+     -6364.0,
+     4644.0
+    ],
+    [
+     -6350.0,
+     4679.0
+    ],
+    [
+     -6371.0,
+     4702.0
+    ],
+    [
+     -6351.0,
+     4767.0
+    ],
+    [
+     -6270.0,
+     4841.0
+    ],
+    [
+     -6217.0,
+     4871.0
+    ],
+    [
+     -6198.0,
+     4931.0
+    ],
+    [
+     -6257.0,
+     4974.0
+    ],
+    [
+     -6359.0,
+     5017.0
+    ],
+    [
+     -6400.0,
+     5079.0
+    ],
+    [
+     -6410.0,
+     5179.0
+    ],
+    [
+     -6388.0,
+     5269.0
+    ],
+    [
+     -6351.0,
+     5344.0
+    ],
+    [
+     -6322.0,
+     5416.0
+    ],
+    [
+     -6710.0,
+     5376.0
+    ],
+    [
+     -6718.0,
+     5284.0
+    ],
+    [
+     -6762.0,
+     5208.0
+    ],
+    [
+     -6777.0,
+     5166.0
+    ],
+    [
+     -6784.0,
+     5100.0
+    ],
+    [
+     -6774.0,
+     5040.0
+    ],
+    [
+     -6844.0,
+     5019.0
+    ],
+    [
+     -6868.0,
+     5012.0
+    ],
+    [
+     -6850.0,
+     4940.0
+    ],
+    [
+     -6884.0,
+     4826.0
+    ],
+    [
+     -6977.0,
+     4764.0
+    ],
+    [
+     -7039.0,
+     4741.0
+    ],
+    [
+     -7066.0,
+     4783.0
+    ],
+    [
+     -7019.0,
+     4815.0
+    ],
+    [
+     -6997.0,
+     4855.0
+    ],
+    [
+     -7040.0,
+     4883.0
+    ],
+    [
+     -7092.0,
+     4854.0
+    ],
+    [
+     -7139.0,
+     4822.0
+    ],
+    [
+     -7183.0,
+     4773.0
+    ],
+    [
+     -7255.0,
+     4717.0
+    ],
+    [
+     -7313.0,
+     4706.0
+    ],
+    [
+     -7343.0,
+     4740.0
+    ],
+    [
+     -7366.0,
+     4728.0
+    ],
+    [
+     -7350.0,
+     4686.0
+    ],
+    [
+     -7369.0,
+     4643.0
+    ],
+    [
+     -7416.0,
+     4580.0
+    ],
+    [
+     -7469.0,
+     4579.0
+    ],
+    [
+     -7514.0,
+     4559.0
+    ],
+    [
+     -7730.0,
+     4557.0
+    ],
+    [
+     -7779.0,
+     4564.0
+    ],
+    [
+     -8072.0,
+     4764.0
+    ],
+    [
+     -8215.0,
+     4751.0
+    ],
+    [
+     -8348.0,
+     4733.0
+    ],
+    [
+     -8423.0,
+     4687.0
+    ],
+    [
+     -8509.0,
+     4624.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Draper_Bay"
+  },
+  {
+   "id": "23094a6648b2",
+   "group": "areas",
+   "label": "Gambit Bay",
+   "page": "Gambit Bay",
+   "section": "",
+   "x": -2543,
+   "y": -5167,
+   "shape": "polygon",
+   "poly": [
+    [
+     -2444.0,
+     -4494.0
+    ],
+    [
+     -2176.0,
+     -5068.0
+    ],
+    [
+     -2308.0,
+     -5256.0
+    ],
+    [
+     -2360.0,
+     -5484.0
+    ],
+    [
+     -2584.0,
+     -5724.0
+    ],
+    [
+     -2808.0,
+     -5558.0
+    ],
+    [
+     -3012.0,
+     -5272.0
+    ],
+    [
+     -2704.0,
+     -4872.0
+    ],
+    [
+     -2494.0,
+     -4778.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-19",
+   "url": "https://gta.wiki/wiki/Gambit_Bay"
+  },
+  {
+   "id": "b33af9b8bd1b",
+   "group": "areas",
+   "label": "Grayson",
+   "page": "Grayson",
+   "section": "",
+   "x": -5477,
+   "y": 6844,
+   "shape": "polygon",
+   "poly": [
+    [
+     -5226.0,
+     7290.0
+    ],
+    [
+     -4962.0,
+     7054.0
+    ],
+    [
+     -5750.0,
+     6410.0
+    ],
+    [
+     -5970.0,
+     6620.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Grayson"
+  },
+  {
+   "id": "da7de349a196",
+   "group": "areas",
+   "label": "Hamlet",
+   "page": "Hamlet",
+   "section": "",
+   "x": -2702,
+   "y": -3307,
+   "shape": "polygon",
+   "poly": [
+    [
+     -3076.0,
+     -2476.0
+    ],
+    [
+     -3320.0,
+     -2844.0
+    ],
+    [
+     -3337.0,
+     -3413.0
+    ],
+    [
+     -3204.0,
+     -3627.0
+    ],
+    [
+     -2829.0,
+     -3695.0
+    ],
+    [
+     -2660.0,
+     -3944.0
+    ],
+    [
+     -2433.0,
+     -3943.0
+    ],
+    [
+     -2132.0,
+     -3550.0
+    ],
+    [
+     -2094.0,
+     -3078.0
+    ],
+    [
+     -2202.0,
+     -2953.0
+    ],
+    [
+     -2434.0,
+     -2852.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Hamlet"
+  },
+  {
+   "id": "c594ece1186b",
+   "group": "areas",
+   "label": "Millport",
+   "page": "Millport",
+   "section": "",
+   "x": -960,
+   "y": 6649,
+   "shape": "polygon",
+   "poly": [
+    [
+     -1542.0,
+     6246.0
+    ],
+    [
+     -528.0,
+     6030.0
+    ],
+    [
+     -404.0,
+     6288.0
+    ],
+    [
+     -690.0,
+     6792.0
+    ],
+    [
+     -698.0,
+     7220.0
+    ],
+    [
+     -1342.0,
+     7256.0
+    ],
+    [
+     -1514.0,
+     6714.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Millport"
+  },
+  {
+   "id": "881b786f2130",
+   "group": "areas",
+   "label": "Port Gellhorn",
+   "page": "Port Gellhorn",
+   "section": "",
+   "x": -6566,
+   "y": 3712,
+   "shape": "polygon",
+   "poly": [
+    [
+     -6280.0,
+     2710.0
+    ],
+    [
+     -6267.0,
+     3155.0
+    ],
+    [
+     -6308.0,
+     3640.0
+    ],
+    [
+     -6306.0,
+     3948.0
+    ],
+    [
+     -6143.0,
+     4473.0
+    ],
+    [
+     -6209.0,
+     4510.0
+    ],
+    [
+     -6200.0,
+     4560.0
+    ],
+    [
+     -6263.0,
+     4589.0
+    ],
+    [
+     -6243.0,
+     4662.0
+    ],
+    [
+     -6354.0,
+     4726.0
+    ],
+    [
+     -6449.0,
+     4645.0
+    ],
+    [
+     -6555.0,
+     4378.0
+    ],
+    [
+     -6738.0,
+     4265.0
+    ],
+    [
+     -6705.0,
+     4209.0
+    ],
+    [
+     -6716.0,
+     4167.0
+    ],
+    [
+     -6681.0,
+     4113.0
+    ],
+    [
+     -6737.0,
+     4081.0
+    ],
+    [
+     -6798.0,
+     4012.0
+    ],
+    [
+     -6916.0,
+     3855.0
+    ],
+    [
+     -7006.0,
+     3747.0
+    ],
+    [
+     -6923.0,
+     3688.0
+    ],
+    [
+     -6738.0,
+     3721.0
+    ],
+    [
+     -6736.0,
+     3690.0
+    ],
+    [
+     -6638.0,
+     3636.0
+    ],
+    [
+     -6564.0,
+     3435.0
+    ],
+    [
+     -6650.0,
+     3432.0
+    ],
+    [
+     -6799.0,
+     3395.0
+    ],
+    [
+     -6801.0,
+     3298.0
+    ],
+    [
+     -6686.0,
+     3250.0
+    ],
+    [
+     -6662.0,
+     3102.0
+    ],
+    [
+     -6700.0,
+     3022.0
+    ],
+    [
+     -6692.0,
+     2988.0
+    ],
+    [
+     -6533.0,
+     2985.0
+    ],
+    [
+     -6548.0,
+     2905.0
+    ],
+    [
+     -6525.0,
+     2845.0
+    ],
+    [
+     -6435.0,
+     2804.0
+    ],
+    [
+     -6434.0,
+     2711.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Port_Gellhorn"
+  },
+  {
+   "id": "6457dc8cae53",
+   "group": "areas",
+   "label": "Tortoise Lake",
+   "page": "Tortoise Lake",
+   "section": "",
+   "x": -6503,
+   "y": 379,
+   "shape": "polygon",
+   "poly": [
+    [
+     -6576.0,
+     281.0
+    ],
+    [
+     -6545.0,
+     236.0
+    ],
+    [
+     -6530.0,
+     224.0
+    ],
+    [
+     -6507.0,
+     218.0
+    ],
+    [
+     -6487.0,
+     221.0
+    ],
+    [
+     -6472.0,
+     231.0
+    ],
+    [
+     -6460.0,
+     245.0
+    ],
+    [
+     -6452.0,
+     260.0
+    ],
+    [
+     -6449.0,
+     274.0
+    ],
+    [
+     -6443.0,
+     298.0
+    ],
+    [
+     -6436.0,
+     309.0
+    ],
+    [
+     -6431.0,
+     320.0
+    ],
+    [
+     -6423.0,
+     345.0
+    ],
+    [
+     -6427.0,
+     349.0
+    ],
+    [
+     -6432.0,
+     354.0
+    ],
+    [
+     -6433.0,
+     363.0
+    ],
+    [
+     -6430.0,
+     371.0
+    ],
+    [
+     -6424.0,
+     376.0
+    ],
+    [
+     -6417.0,
+     379.0
+    ],
+    [
+     -6413.0,
+     381.0
+    ],
+    [
+     -6411.0,
+     389.0
+    ],
+    [
+     -6411.0,
+     402.0
+    ],
+    [
+     -6413.0,
+     412.0
+    ],
+    [
+     -6410.0,
+     419.0
+    ],
+    [
+     -6412.0,
+     426.0
+    ],
+    [
+     -6415.0,
+     424.0
+    ],
+    [
+     -6418.0,
+     425.0
+    ],
+    [
+     -6421.0,
+     428.0
+    ],
+    [
+     -6425.0,
+     430.0
+    ],
+    [
+     -6439.0,
+     446.0
+    ],
+    [
+     -6448.0,
+     449.0
+    ],
+    [
+     -6453.0,
+     453.0
+    ],
+    [
+     -6460.0,
+     454.0
+    ],
+    [
+     -6473.0,
+     456.0
+    ],
+    [
+     -6484.0,
+     457.0
+    ],
+    [
+     -6491.0,
+     457.0
+    ],
+    [
+     -6502.0,
+     459.0
+    ],
+    [
+     -6506.0,
+     460.0
+    ],
+    [
+     -6517.0,
+     457.0
+    ],
+    [
+     -6520.0,
+     454.0
+    ],
+    [
+     -6523.0,
+     452.0
+    ],
+    [
+     -6526.0,
+     451.0
+    ],
+    [
+     -6531.0,
+     451.0
+    ],
+    [
+     -6534.0,
+     452.0
+    ],
+    [
+     -6534.0,
+     455.0
+    ],
+    [
+     -6538.0,
+     455.0
+    ],
+    [
+     -6545.0,
+     454.0
+    ],
+    [
+     -6553.0,
+     453.0
+    ],
+    [
+     -6562.0,
+     449.0
+    ],
+    [
+     -6567.0,
+     445.0
+    ],
+    [
+     -6573.0,
+     440.0
+    ],
+    [
+     -6577.0,
+     435.0
+    ],
+    [
+     -6581.0,
+     429.0
+    ],
+    [
+     -6584.0,
+     422.0
+    ],
+    [
+     -6587.0,
+     414.0
+    ],
+    [
+     -6583.0,
+     412.0
+    ],
+    [
+     -6592.0,
+     364.0
+    ],
+    [
+     -6596.0,
+     364.0
+    ],
+    [
+     -6598.0,
+     357.0
+    ],
+    [
+     -6601.0,
+     345.0
+    ],
+    [
+     -6601.0,
+     336.0
+    ],
+    [
+     -6599.0,
+     328.0
+    ],
+    [
+     -6596.0,
+     321.0
+    ],
+    [
+     -6594.0,
+     319.0
+    ],
+    [
+     -6590.0,
+     314.0
+    ],
+    [
+     -6585.0,
+     307.0
+    ],
+    [
+     -6580.0,
+     299.0
+    ],
+    [
+     -6577.0,
+     290.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Tortoise_Lake"
+  },
+  {
+   "id": "dd32704f9ea3",
+   "group": "areas",
+   "label": "Vice Beach",
+   "page": "Vice Beach",
+   "section": "",
+   "x": 1535,
+   "y": 916,
+   "shape": "polygon",
+   "poly": [
+    [
+     2346.0,
+     -1020.0
+    ],
+    [
+     2198.0,
+     -784.0
+    ],
+    [
+     2244.0,
+     -472.0
+    ],
+    [
+     2296.0,
+     958.0
+    ],
+    [
+     2216.0,
+     2168.0
+    ],
+    [
+     1586.0,
+     3044.0
+    ],
+    [
+     1150.0,
+     2718.0
+    ],
+    [
+     1008.0,
+     2362.0
+    ],
+    [
+     576.0,
+     2018.0
+    ],
+    [
+     792.0,
+     1748.0
+    ],
+    [
+     1192.0,
+     1474.0
+    ],
+    [
+     1034.0,
+     1056.0
+    ],
+    [
+     1064.0,
+     582.0
+    ],
+    [
+     1180.0,
+     146.0
+    ],
+    [
+     1380.0,
+     -330.0
+    ],
+    [
+     2294.0,
+     -1016.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Vice_Beach"
+  },
+  {
+   "id": "14d73071d87f",
+   "group": "areas",
+   "label": "Vice City",
+   "page": "Vice City",
+   "section": "",
+   "x": -1739,
+   "y": -127,
+   "shape": "polygon",
+   "poly": [
+    [
+     -1972.0,
+     -2632.0
+    ],
+    [
+     -1432.0,
+     -2568.0
+    ],
+    [
+     -1092.0,
+     -2892.0
+    ],
+    [
+     -884.0,
+     -2780.0
+    ],
+    [
+     -1144.0,
+     -2352.0
+    ],
+    [
+     -724.0,
+     -2076.0
+    ],
+    [
+     -552.0,
+     -1404.0
+    ],
+    [
+     -332.0,
+     -696.0
+    ],
+    [
+     112.0,
+     156.0
+    ],
+    [
+     -64.0,
+     816.0
+    ],
+    [
+     -212.0,
+     1448.0
+    ],
+    [
+     168.0,
+     2036.0
+    ],
+    [
+     72.0,
+     2456.0
+    ],
+    [
+     -596.0,
+     2332.0
+    ],
+    [
+     -864.0,
+     1880.0
+    ],
+    [
+     -1228.0,
+     1628.0
+    ],
+    [
+     -1944.0,
+     1128.0
+    ],
+    [
+     -2404.0,
+     1004.0
+    ],
+    [
+     -2544.0,
+     1104.0
+    ],
+    [
+     -2772.0,
+     1028.0
+    ],
+    [
+     -2740.0,
+     880.0
+    ],
+    [
+     -2920.0,
+     852.0
+    ],
+    [
+     -2828.0,
+     456.0
+    ],
+    [
+     -2484.0,
+     252.0
+    ],
+    [
+     -2556.0,
+     14.0
+    ],
+    [
+     -3140.0,
+     176.0
+    ],
+    [
+     -3712.0,
+     88.0
+    ],
+    [
+     -3724.0,
+     -660.0
+    ],
+    [
+     -3547.0,
+     -971.0
+    ],
+    [
+     -2794.0,
+     -1512.0
+    ],
+    [
+     -2556.0,
+     -1517.0
+    ],
+    [
+     -2237.0,
+     -1729.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Vice_City"
+  },
+  {
+   "id": "199e07a36f70",
+   "group": "areas",
+   "label": "Wild Hog Point",
+   "page": "Wild Hog Point",
+   "section": "",
+   "x": -7285,
+   "y": 3373,
+   "shape": "polygon",
+   "poly": [
+    [
+     -7599.0,
+     2869.0
+    ],
+    [
+     -7649.0,
+     2986.0
+    ],
+    [
+     -7795.0,
+     3211.0
+    ],
+    [
+     -7770.0,
+     3417.0
+    ],
+    [
+     -7717.0,
+     3451.0
+    ],
+    [
+     -7701.0,
+     3557.0
+    ],
+    [
+     -7305.0,
+     3827.0
+    ],
+    [
+     -7194.0,
+     3842.0
+    ],
+    [
+     -7095.0,
+     3723.0
+    ],
+    [
+     -7060.0,
+     3645.0
+    ],
+    [
+     -7014.0,
+     3600.0
+    ],
+    [
+     -6953.0,
+     3584.0
+    ],
+    [
+     -6831.0,
+     3600.0
+    ],
+    [
+     -6785.0,
+     3610.0
+    ],
+    [
+     -6682.0,
+     3565.0
+    ],
+    [
+     -6726.0,
+     3518.0
+    ],
+    [
+     -6768.0,
+     3503.0
+    ],
+    [
+     -6816.0,
+     3439.0
+    ],
+    [
+     -6882.0,
+     3399.0
+    ],
+    [
+     -6931.0,
+     3409.0
+    ],
+    [
+     -7052.0,
+     3386.0
+    ],
+    [
+     -7099.0,
+     3346.0
+    ],
+    [
+     -7051.0,
+     3289.0
+    ],
+    [
+     -7048.0,
+     3221.0
+    ],
+    [
+     -7148.0,
+     3093.0
+    ],
+    [
+     -7275.0,
+     2982.0
+    ],
+    [
+     -7344.0,
+     2881.0
+    ],
+    [
+     -7417.0,
+     2838.0
+    ],
+    [
+     -7540.0,
+     2827.0
+    ],
+    [
+     -8038.0,
+     2357.0
+    ],
+    [
+     -8314.0,
+     3084.0
+    ],
+    [
+     -8316.0,
+     3342.0
+    ],
+    [
+     -8038.0,
+     3708.0
+    ],
+    [
+     -7792.0,
+     3824.0
+    ],
+    [
+     -7552.0,
+     3852.0
+    ],
+    [
+     -7286.0,
+     4028.0
+    ],
+    [
+     -7065.0,
+     3630.0
+    ],
+    [
+     -6954.0,
+     3519.0
+    ],
+    [
+     -6953.0,
+     3395.0
+    ],
+    [
+     -6836.0,
+     3289.0
+    ],
+    [
+     -7314.0,
+     2635.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Wild_Hog_Point"
+  },
+  {
+   "id": "7fb9f7ed308d",
+   "group": "cards",
+   "label": "Julia (Bronze)",
+   "page": "Collectible Card Sets/locations",
+   "section": "Nine1Nine Dancers",
+   "x": -7245.0,
+   "y": 3421.0,
+   "fact": "In a small building below the Wild Hog Airfield air traffic control tower. On the ground next to a folding chair, on the right side of the room when entering.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Collectible_Card_Sets/locations"
+  },
+  {
+   "id": "b171f892148a",
+   "group": "cards",
+   "label": "Lionel Taber",
+   "page": "Collectible Card Sets/locations",
+   "section": "Los Santos Pounders",
+   "x": -1869.0,
+   "y": -5343.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Collectible_Card_Sets/locations"
+  },
+  {
+   "id": "f725e3dabc50",
+   "group": "drones",
+   "label": "Top Fun Drones #1 – Hamlet",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -2234.0,
+   "y": -3318.0,
+   "fact": "Deep Roots – Par Time: 1:31Power Station South – Par Time: 1:26Power Station North – Par Time: 2:04",
+   "on_map": false,
+   "near": [
+    "Binco"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "55b213b46e4a",
+   "group": "drones",
+   "label": "Top Fun Drones #10 – Ambrosia",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -5604.0,
+   "y": 5053.0,
+   "fact": "Captain O'Malley Marina – Par Time: 2:03Allied Crystal – Par Time: 2:02Waste Transfer Services – Par Time: 1:55",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "62230f36293b",
+   "group": "drones",
+   "label": "Top Fun Drones #11 – Port Gellhorn",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -7412.0,
+   "y": 5072.0,
+   "fact": "Manifest Canyon – Par Time: 1:28Red Apple Orchard – Par Time: 1:12Port Gellhorn – Par Time: 1:39",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "c7a8ab1a6525",
+   "group": "drones",
+   "label": "Top Fun Drones #12 – Draper Island",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -3526.0,
+   "y": 7567.0,
+   "fact": "Draper Island Terminal – Par Time: 1:49Draper Refinery East – Par Time: 1:44Draper Refinery West – Par Time: 1:51",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "d78b6a9b77f0",
+   "group": "drones",
+   "label": "Top Fun Drones #13 – Moreau Sawmill",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -739.0,
+   "y": 6171.0,
+   "fact": "Abandoned Mining Pit – Par Time: 1:03Adler Creek – Par Time: 1:21Macalister Gold Mine – Par Time: 0:59",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "92895fefea41",
+   "group": "drones",
+   "label": "Top Fun Drones #14 – Millport",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": 1774.0,
+   "y": -883.0,
+   "fact": "Millport – Par Time: 1:31Rushwood Logging – Par Time: 2:08Tallaloko Lakeside Resort – Par Time: 2:05",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "b1bbc1c76a2f",
+   "group": "drones",
+   "label": "Top Fun Drones #2 – Watson Bay",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -4052.0,
+   "y": -2914.0,
+   "fact": "Leonida RC Raceway – Par Time: 1:27Watson Bay – Par Time: 1:34Marshland Animal Park – Par Time: 1:17",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "59a22b31acdc",
+   "group": "drones",
+   "label": "Top Fun Drones #3 – Capri",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -6478.0,
+   "y": 497.0,
+   "fact": "Capri Train Station – Par Time: 1:50Ravella Drive – Par Time: 1:51Capri Lake – Par Time: 2:01",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "b8532fd62f52",
+   "group": "drones",
+   "label": "Top Fun Drones #4 – Buckskin Swamp",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -4219.0,
+   "y": 926.0,
+   "fact": "Kowaachobee Village – Par Time: 1:24Swampy Sal's Safari Park – Par Time: 1:40Camp Moonflower – Par Time: 1:48",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "91327a1487ac",
+   "group": "drones",
+   "label": "Top Fun Drones #5 – Balsero",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -2864.0,
+   "y": 784.0,
+   "fact": "Navitrak – Par Time: 1:29Apollo Aggregates – Par Time: 1:27Tisha-Wocka Flea Market – Par Time: 1:08",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "fa8c923dc9d6",
+   "group": "drones",
+   "label": "Top Fun Drones #6 – Downtown",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": 33.0,
+   "y": 136.0,
+   "fact": "Future Leonida Art Museum – Par Time: 1:47Shoreline Market – Par Time: 2:01Wildland Zoo – Par Time: 1:30",
+   "on_map": false,
+   "near": [
+    "Dock Ring"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "288fffbab321",
+   "group": "drones",
+   "label": "Top Fun Drones #7 – Dalton Island",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": 1350.0,
+   "y": 2250.0,
+   "fact": "Avarice Petroleum – Par Time: 1:53The Jamaica – Par Time: 1:16Ivory Towers – Par Time: 1:42",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "b6592fa62e1e",
+   "group": "drones",
+   "label": "Top Fun Drones #8 – Vice Beach",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -291.0,
+   "y": 3652.0,
+   "fact": "Leaf Links – Par Time: 1:30Vice Regal Hotel – Par Time: 1:41St. Vitus Medical Center – Par Time: 2:00",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "31ac79c9f1bc",
+   "group": "drones",
+   "label": "Top Fun Drones #9 – Waning Sands",
+   "page": "Top Fun Drone Races",
+   "section": "Locations",
+   "x": -2679.0,
+   "y": 3257.0,
+   "fact": "Hot Skidz – Par Time: 1:39Thundergolf – Par Time: 1:57Evergreen Mall – Par Time: 1:52",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Top_Fun_Drone_Races"
+  },
+  {
+   "id": "2250355a0215",
+   "group": "guns",
+   "label": "Barrage Gun Supply",
+   "page": "Barrage Gun Supply",
+   "section": "",
+   "x": -6419.0,
+   "y": -6340.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Barrage_Gun_Supply"
+  },
+  {
+   "id": "534bb9469883",
+   "group": "guns",
+   "label": "Biff's Gun Supply",
+   "page": "Biff's Gun Supply",
+   "section": "",
+   "x": -3299.0,
+   "y": 4245.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Biff%27s_Gun_Supply"
+  },
+  {
+   "id": "f63bc1eaf7b9",
+   "group": "guns",
+   "label": "Big Shots",
+   "page": "Big Shots",
+   "section": "",
+   "x": -2325.0,
+   "y": -3396.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Big_Shots"
+  },
+  {
+   "id": "563b28fa4920",
+   "group": "guns",
+   "label": "Black Eagle",
+   "page": "Black Eagle",
+   "section": "",
+   "x": -2579.0,
+   "y": 1375.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Black_Eagle"
+  },
+  {
+   "id": "e31b93084319",
+   "group": "guns",
+   "label": "Black Eagle (manufacturer)",
+   "page": "Black Eagle (manufacturer)",
+   "section": "",
+   "x": -2579.0,
+   "y": 1375.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Black_Eagle_%28manufacturer%29"
+  },
+  {
+   "id": "def7891a48f9",
+   "group": "guns",
+   "label": "Chuck's Tackle & Shot",
+   "page": "Chuck's Tackle & Shot",
+   "section": "",
+   "x": -2150.0,
+   "y": -5539.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Chuck%27s_Tackle_%26_Shot"
+  },
+  {
+   "id": "f7b9f11c4b74",
+   "group": "guns",
+   "label": "Gellhorn Outfitters",
+   "page": "Gellhorn Outfitters",
+   "section": "",
+   "x": -6750.0,
+   "y": 4031.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Gellhorn_Outfitters"
+  },
+  {
+   "id": "1b8478f9e5a9",
+   "group": "guns",
+   "label": "Guns Aplenty!",
+   "page": "Guns Aplenty!",
+   "section": "",
+   "x": -4837.0,
+   "y": -3369.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Guns_Aplenty%21"
+  },
+  {
+   "id": "cbdf9ced882a",
+   "group": "guns",
+   "label": "Hamlet Traders",
+   "page": "Hamlet Traders",
+   "section": "",
+   "x": -2577.0,
+   "y": -3051.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Hamlet_Traders"
+  },
+  {
+   "id": "ab3a0002a92d",
+   "group": "guns",
+   "label": "Iron & Oak",
+   "page": "Iron & Oak",
+   "section": "",
+   "x": -266.0,
+   "y": 1839.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Iron_%26_Oak"
+  },
+  {
+   "id": "98794c4bc23f",
+   "group": "guns",
+   "label": "Jackson Firearms",
+   "page": "Jackson Firearms",
+   "section": "",
+   "x": -1721.0,
+   "y": 427.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Jackson_Firearms"
+  },
+  {
+   "id": "3e91eb5dbc7b",
+   "group": "guns",
+   "label": "Martez Empeños",
+   "page": "Martez Empeños",
+   "section": "",
+   "x": -1218.0,
+   "y": 144.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Martez_Empe%C3%B1os"
+  },
+  {
+   "id": "fb2bf85bcf02",
+   "group": "guns",
+   "label": "Pawn & Gun - Crosstown",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -759.0,
+   "y": 656.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "6bc40d4faae6",
+   "group": "guns",
+   "label": "Pawn & Gun - Port Gellhorn",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -6343.0,
+   "y": 3368.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Pawn & Gun"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "47ef052a2fa3",
+   "group": "guns",
+   "label": "Phil's Ammu-Nation",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -1791.0,
+   "y": -2469.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Phil's Ammu-Nation"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "bdb8b038e62f",
+   "group": "guns",
+   "label": "Port Gellhorn Pawn & Gun",
+   "page": "Port Gellhorn Pawn & Gun",
+   "section": "",
+   "x": -6343.0,
+   "y": 3368.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Pawn & Gun"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Port_Gellhorn_Pawn_%26_Gun"
+  },
+  {
+   "id": "deb398131fad",
+   "group": "guns",
+   "label": "Prestige Firearms",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": 1674.0,
+   "y": 1375.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "604ddb80b28b",
+   "group": "guns",
+   "label": "Quickscope",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -655.0,
+   "y": 218.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "0b03c10989b3",
+   "group": "guns",
+   "label": "Richardson Hunting Supplies",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -5564.0,
+   "y": -1451.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "191479ee9414",
+   "group": "guns",
+   "label": "Rusty Willis Jr. Hunting Supplies",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -3160.0,
+   "y": 6967.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "5ae34c62b27a",
+   "group": "guns",
+   "label": "Tactical Outlet Guns",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -2015.0,
+   "y": 2821.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "4e554b11d598",
+   "group": "guns",
+   "label": "Tequesta Guns & Ammo",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -1192.0,
+   "y": -1195.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "40aacb25fe53",
+   "group": "guns",
+   "label": "Vice City Firearms",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -1363.0,
+   "y": -597.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "a0dbbbf16a90",
+   "group": "guns",
+   "label": "Vice City Gun & Pawn",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -1256.0,
+   "y": 644.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "65a7d98b452d",
+   "group": "guns",
+   "label": "Woodhatch",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -6761.0,
+   "y": -99.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "f0ba4dd1be3a",
+   "group": "guns",
+   "label": "Zenon's Pawn Shop",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
+   "x": -1124.0,
+   "y": 1322.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
+  },
+  {
+   "id": "c4d0dfe4c667",
+   "group": "payday",
+   "label": "Cash Flow - Port Gellhorn($2,000$10,000)",
+   "page": "Payday Loans",
+   "section": "Locations",
+   "x": -6404.0,
+   "y": 3914.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Payday_Loans"
+  },
+  {
+   "id": "0d5314644425",
+   "group": "payday",
+   "label": "Payday Loans Store - Little Cuba($15,000$25,000)",
+   "page": "Payday Loans",
+   "section": "Locations",
+   "x": -1295.0,
+   "y": 442.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Payday_Loans"
+  },
+  {
+   "id": "4b4e1e6523b4",
+   "group": "payday",
+   "label": "Payday Loans Store - Rockridge($5,000$15,000)",
+   "page": "Payday Loans",
+   "section": "Locations",
+   "x": -1154.0,
+   "y": 1020.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Payday_Loans"
+  },
+  {
+   "id": "4a2dd64e6665",
+   "group": "payday",
+   "label": "Payday Loans Store - Southside($5,000$15,000)",
+   "page": "Payday Loans",
+   "section": "Locations",
+   "x": -1653.0,
+   "y": -2046.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Payday_Loans"
+  },
+  {
+   "id": "c8aa30581c71",
+   "group": "payday",
+   "label": "Payline Loans 247($5,000$15,000)",
+   "page": "Payday Loans",
+   "section": "Locations",
+   "x": -2225.0,
+   "y": -3170.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Payday_Loans"
+  },
+  {
+   "id": "61d385b4d9df",
+   "group": "payday",
+   "label": "Quick Buck - Hamlet($5,000$15,000)",
+   "page": "Payday Loans",
+   "section": "Locations",
+   "x": -2550.0,
+   "y": -3632.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "LTD Gas Station"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Payday_Loans"
+  },
+  {
+   "id": "4a81bfeb2b49",
+   "group": "payday",
+   "label": "Quick Buck - La Perle($5,000$15,000)",
+   "page": "Payday Loans",
+   "section": "Locations",
+   "x": -627.0,
+   "y": 1649.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Payday_Loans"
+  },
+  {
+   "id": "68d3e6eb2c85",
+   "group": "places",
+   "label": "3D Universe Portal",
+   "page": "3D Universe Portal",
+   "section": "Travelling to the 3D Universe",
+   "x": -1587.0,
+   "y": -3593.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "5937ed40b801",
+   "group": "places",
+   "label": "A",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -6495.0,
+   "y": 3470.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "7e20025e3c0b",
+   "group": "places",
+   "label": "B",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -2828.0,
+   "y": -3589.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "269804166173",
+   "group": "places",
+   "label": "Ei",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -2061.0,
+   "y": -5630.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "Cell Tower"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "9a3e13ff823e",
+   "group": "places",
+   "label": "G",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -2995.0,
+   "y": -3168.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "4f09d989fbad",
+   "group": "places",
+   "label": "Kensinger Tower",
+   "page": "Kensinger Tower",
+   "section": "",
+   "x": -743.0,
+   "y": 268.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Kensinger_Tower"
+  },
+  {
+   "id": "601b8e3c7ace",
+   "group": "places",
+   "label": "L",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -944.0,
+   "y": -655.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "e88363f216fc",
+   "group": "places",
+   "label": "La Cascara Motel",
+   "page": "La Cascara Motel",
+   "section": "",
+   "x": -6873.0,
+   "y": 3959.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-19",
+   "url": "https://gta.wiki/wiki/La_Cascara_Motel"
+  },
+  {
+   "id": "852aec42098f",
+   "group": "places",
+   "label": "Me",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -6490.0,
+   "y": 2727.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "f7ad8293b169",
+   "group": "places",
+   "label": "P",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -607.0,
+   "y": 1537.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "433fc249da12",
+   "group": "places",
+   "label": "Port Gellhorn Station Garage",
+   "page": "Port Gellhorn Station Garage",
+   "section": "",
+   "x": -6629.0,
+   "y": 3663.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "Water Tower"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Port_Gellhorn_Station_Garage"
+  },
+  {
+   "id": "e100f267dd0f",
+   "group": "places",
+   "label": "S",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": 1049.0,
+   "y": 2245.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "910d89605d25",
+   "group": "places",
+   "label": "Ss",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -2191.0,
+   "y": -3390.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "02d8ca78db35",
+   "group": "places",
+   "label": "St. Lucia Lighthouse",
+   "page": "St. Lucia Lighthouse",
+   "section": "",
+   "x": 664.0,
+   "y": 6331.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/St._Lucia_Lighthouse"
+  },
+  {
+   "id": "80b4d3b10059",
+   "group": "places",
+   "label": "Still Waters",
+   "page": "Still Waters",
+   "section": "",
+   "x": -6617.0,
+   "y": 249.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Still_Waters"
+  },
+  {
+   "id": "8bd22aae5fcd",
+   "group": "places",
+   "label": "Wild Hog Airfield",
+   "page": "Wild Hog Airfield",
+   "section": "",
+   "x": -7321.0,
+   "y": 3280.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Wild_Hog_Airfield"
+  },
+  {
+   "id": "0f98b4f13bc5",
+   "group": "places",
+   "label": "Wilma White Center",
+   "page": "Wilma White Center",
+   "section": "",
+   "x": -6452.0,
+   "y": 220.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Wilma_White_Center"
+  },
+  {
+   "id": "6bda0526794c",
+   "group": "places",
+   "label": "Y",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -3764.0,
+   "y": -1706.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "1ca5345ca5f7",
+   "group": "places",
+   "label": "iF",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": -2714.0,
+   "y": 972.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "4f0d662ea78a",
+   "group": "places",
+   "label": "iN",
+   "page": "3D Universe Portal",
+   "section": "Substation Locations",
+   "x": 729.0,
+   "y": -1359.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "864ec315f89f",
+   "group": "playlists",
+   "label": "Aunt Zola’s Soul Food - La Perle",
+   "page": "Unique Playlists",
+   "section": "Locations",
+   "x": -940.0,
+   "y": 1312.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Unique_Playlists"
+  },
+  {
+   "id": "32312f772f25",
+   "group": "playlists",
+   "label": "Drip Drops - La Perle",
+   "page": "Unique Playlists",
+   "section": "Locations",
+   "x": -1004.0,
+   "y": 1484.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Unique_Playlists"
+  },
+  {
+   "id": "c48e0398f882",
+   "group": "playlists",
+   "label": "Jack of Hearts - Crosstown",
+   "page": "Unique Playlists",
+   "section": "Locations",
+   "x": -682.0,
+   "y": 1204.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Jack of Hearts"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Unique_Playlists"
+  },
+  {
+   "id": "2edb74074c9a",
+   "group": "playlists",
+   "label": "TWA Ponya Tattoo - La Perle",
+   "page": "Unique Playlists",
+   "section": "Locations",
+   "x": -1059.0,
+   "y": 1396.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Unique_Playlists"
+  },
+  {
+   "id": "2c78ef0d673d",
+   "group": "playlists",
+   "label": "The Vault - Downtown",
+   "page": "Unique Playlists",
+   "section": "The Vault Radio",
+   "x": -793.0,
+   "y": 467.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "The Vault"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Unique_Playlists"
+  },
+  {
+   "id": "8f409db091d7",
+   "group": "smash",
+   "label": "Akoya Jewelers",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": 1660.0,
+   "y": 1344.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "a6f50a5f557e",
+   "group": "smash",
+   "label": "All That Glitters",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -305.0,
+   "y": 101.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "a71845e3d21b",
+   "group": "smash",
+   "label": "Avery Pawn",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -6366.0,
+   "y": 3844.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Uncle Jack's Liquor"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "877ac25b9476",
+   "group": "smash",
+   "label": "Blanc & Giroux",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -289.0,
+   "y": 2236.0,
+   "fact": "",
+   "on_map": true,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "d578feb0bbb5",
+   "group": "smash",
+   "label": "Brilliant Cuts",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1223.0,
+   "y": 2899.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "4d0d85f854eb",
+   "group": "smash",
+   "label": "Buck's Jewelry & Pawn",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -6430.0,
+   "y": 3055.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "4fd87e11c2cc",
+   "group": "smash",
+   "label": "Casa De Empeno",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": 1774.0,
+   "y": 1011.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "3159c466fd4d",
+   "group": "smash",
+   "label": "Covgari",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -311.0,
+   "y": 2308.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "5946d962330d",
+   "group": "smash",
+   "label": "Crown Jewels",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -2818.0,
+   "y": 726.0,
+   "fact": "",
+   "on_map": true,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "8bf63d316c55",
+   "group": "smash",
+   "label": "Donovan Banks & Co.",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1218.0,
+   "y": -1708.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "35b70784fe92",
+   "group": "smash",
+   "label": "Dorado Pawn Shop",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1194.0,
+   "y": 707.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "773cfa899f2b",
+   "group": "smash",
+   "label": "Down Town Pawn",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -769.0,
+   "y": 900.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "8a7fe81b8d32",
+   "group": "smash",
+   "label": "Ernesto's Pawn",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1667.0,
+   "y": -2082.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Strip Mall"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "99dcbeeff08e",
+   "group": "smash",
+   "label": "Fast Cash",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1193.0,
+   "y": 225.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "1bc50a5398da",
+   "group": "smash",
+   "label": "Florence & Co.",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -2791.0,
+   "y": 4568.0,
+   "fact": "",
+   "on_map": true,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "758cdd3ba06e",
+   "group": "smash",
+   "label": "Hamlet Pawn",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -2549.0,
+   "y": -3614.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "LTD Gas Station"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "c3218136f1ab",
+   "group": "smash",
+   "label": "Icegem Diamonds & Watches",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -622.0,
+   "y": -177.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "a6d9ca5ab3e0",
+   "group": "smash",
+   "label": "Joyeria Empenos",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1766.0,
+   "y": -2203.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "9ea98f6e4d74",
+   "group": "smash",
+   "label": "Kowalski",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -196.0,
+   "y": 4070.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "e6abd638c52a",
+   "group": "smash",
+   "label": "Legendary Custom Jewelry",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": 1562.0,
+   "y": 243.0,
+   "fact": "",
+   "on_map": true,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "49aa267c9790",
+   "group": "smash",
+   "label": "Marshal's",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": 1957.0,
+   "y": 1342.0,
+   "fact": "",
+   "on_map": true,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "abae66f510d4",
+   "group": "smash",
+   "label": "Pawn City",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1453.0,
+   "y": -587.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Pawn Shop"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "891208cb8d15",
+   "group": "smash",
+   "label": "Pawn Stash",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -627.0,
+   "y": 1659.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "c0ae96ad1097",
+   "group": "smash",
+   "label": "Peacock",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -306.0,
+   "y": 174.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Shoreline Market"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "ad7db89df1b3",
+   "group": "smash",
+   "label": "Plush",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -925.0,
+   "y": -1035.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "52f762b460b9",
+   "group": "smash",
+   "label": "Richardson Jewelry & Diamonds",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -680.0,
+   "y": -109.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "d394b5e6e6bd",
+   "group": "smash",
+   "label": "Rococo Rich",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": 1765.0,
+   "y": 661.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "3833a15f4875",
+   "group": "smash",
+   "label": "Roval Jewelry",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -333.0,
+   "y": 2260.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "f95cc7c35186",
+   "group": "smash",
+   "label": "Skala",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -124.0,
+   "y": 3970.0,
+   "fact": "",
+   "on_map": true,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "44abce27c010",
+   "group": "smash",
+   "label": "The Jewelry Place",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -2788.0,
+   "y": 759.0,
+   "fact": "",
+   "on_map": true,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "ec887fe57ced",
+   "group": "smash",
+   "label": "The Siren's Chest",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -3169.0,
+   "y": -6657.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "36afec96b72a",
+   "group": "smash",
+   "label": "Timeless Peculiars",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -4881.0,
+   "y": -3408.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "66f3fd65c222",
+   "group": "smash",
+   "label": "Vice City Pawn",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -674.0,
+   "y": 1173.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    "Vice City Pawn"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "f255a1952e87",
+   "group": "smash",
+   "label": "Victoria Lee Jeweler",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -6858.0,
+   "y": 230.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "f57cb971160d",
+   "group": "smash",
+   "label": "White Sands Jewelry Pawn",
+   "page": "Smash 'n' Grabs",
+   "section": "Locations",
+   "x": -1160.0,
+   "y": 1109.0,
+   "fact": "",
+   "on_map": true,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-20",
+   "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
+  },
+  {
+   "id": "21eb7a426053",
+   "group": "strangers",
+   "label": "Advanced Skunk Apeonomics",
+   "page": "Strangers & Freaks",
+   "section": "Kirk (Part 2)",
+   "x": -3186.0,
+   "y": -5207.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "bdc4df60f545",
+   "group": "strangers",
+   "label": "Aerial Application",
+   "page": "Strangers & Freaks",
+   "section": "Kyle McKittrick",
+   "x": -4042.0,
+   "y": 4071.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "b4d59966bc9e",
+   "group": "strangers",
+   "label": "Attend Eddie Acosta's Party",
+   "page": "Strangers & Freaks",
+   "section": "Chapter 4",
+   "x": 2054.0,
+   "y": 1610.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "e4d8a1d01a63",
+   "group": "strangers",
+   "label": "Brother To Brother",
+   "page": "Strangers & Freaks",
+   "section": "Yago Jiménez",
+   "x": -1153.0,
+   "y": 15.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "El Rincón Notorio"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "193f230ca9a7",
+   "group": "strangers",
+   "label": "Buddy?",
+   "page": "Strangers & Freaks",
+   "section": "Kyle McKittrick",
+   "x": -3989.0,
+   "y": 4046.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "22bd8d00d42c",
+   "group": "strangers",
+   "label": "Bumper to Bumper",
+   "page": "Strangers & Freaks",
+   "section": "Yago Jiménez",
+   "x": -1180.0,
+   "y": 15.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "El Rincón Notorio"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "da689f3fa8e0",
+   "group": "strangers",
+   "label": "Catch a Bigger Fish",
+   "page": "Strangers & Freaks",
+   "section": "Chapter 1",
+   "x": -3848.0,
+   "y": -5802.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "51e9631c71e9",
+   "group": "strangers",
+   "label": "Climbing the Cellerichain",
+   "page": "Strangers & Freaks",
+   "section": "Chapter 3",
+   "x": -1417.0,
+   "y": 2988.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "8e107d23ef98",
+   "group": "strangers",
+   "label": "Collect Moses' Gift",
+   "page": "Strangers & Freaks",
+   "section": "Moses Watkins",
+   "x": -6454.0,
+   "y": 3260.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "7008c7743cc1",
+   "group": "strangers",
+   "label": "Get Shirley's Rum",
+   "page": "Strangers & Freaks",
+   "section": "Shirley Baker",
+   "x": -2299.0,
+   "y": -5537.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "\"House B\""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "1207357535fb",
+   "group": "strangers",
+   "label": "Hazardous Materials",
+   "page": "Strangers & Freaks",
+   "section": "Kyle McKittrick",
+   "x": -1280.0,
+   "y": 3718.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "af95f307acf9",
+   "group": "strangers",
+   "label": "Hometown Heroes",
+   "page": "Strangers & Freaks",
+   "section": "Billy",
+   "x": -3780.0,
+   "y": 4921.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "4abb3dc55ea7",
+   "group": "strangers",
+   "label": "Join a Street Race",
+   "page": "Strangers & Freaks",
+   "section": "Yago Jiménez",
+   "x": -1325.0,
+   "y": -419.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "96445073cfa3",
+   "group": "strangers",
+   "label": "Mall Rats",
+   "page": "Strangers & Freaks",
+   "section": "Billy",
+   "x": 1831.0,
+   "y": -91.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "54f0fba47732",
+   "group": "strangers",
+   "label": "Peach!",
+   "page": "Strangers & Freaks",
+   "section": "Chapter 3",
+   "x": -1190.0,
+   "y": 2712.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "de95c1cf56ea",
+   "group": "strangers",
+   "label": "Puff Puff Pass",
+   "page": "Strangers & Freaks",
+   "section": "Chapter 3",
+   "x": -993.0,
+   "y": 2933.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "0599ff4d0839",
+   "group": "strangers",
+   "label": "Race Against Yago (missable)",
+   "page": "Strangers & Freaks",
+   "section": "Yago Jiménez",
+   "x": -1325.0,
+   "y": -419.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "c86aa57bf2f5",
+   "group": "strangers",
+   "label": "Read the Label",
+   "page": "Strangers & Freaks",
+   "section": "Chapter 3",
+   "x": -491.0,
+   "y": 2293.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "e848fa2d1e8f",
+   "group": "strangers",
+   "label": "Search for Tree Effigies",
+   "page": "Strangers & Freaks",
+   "section": "Kirk (Part 1)",
+   "x": -3611.0,
+   "y": -3710.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "6bb98d35f685",
+   "group": "strangers",
+   "label": "Search for Tree Effigies",
+   "page": "Strangers & Freaks",
+   "section": "Kirk (Part 1)",
+   "x": -3814.0,
+   "y": -3834.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "334a9df10b0d",
+   "group": "strangers",
+   "label": "Search for Tree Effigies",
+   "page": "Strangers & Freaks",
+   "section": "Kirk (Part 1)",
+   "x": -4011.0,
+   "y": -3584.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "9a580f8a7d41",
+   "group": "strangers",
+   "label": "Skunk Apeology 101",
+   "page": "Strangers & Freaks",
+   "section": "Kirk (Part 1)",
+   "x": -3824.0,
+   "y": -3409.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "c79b8787f06e",
+   "group": "strangers",
+   "label": "Spin On This",
+   "page": "Strangers & Freaks",
+   "section": "Tyrone Russo",
+   "x": -5159.0,
+   "y": 6902.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "7232df10879e",
+   "group": "strangers",
+   "label": "Steal the Scooter",
+   "page": "Strangers & Freaks",
+   "section": "Shirley Baker",
+   "x": -2299.0,
+   "y": -5537.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "\"House B\""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "53d88d4e8c3b",
+   "group": "strangers",
+   "label": "The Impaler",
+   "page": "Strangers & Freaks",
+   "section": "Billy",
+   "x": -2870.0,
+   "y": 4261.0,
+   "fact": "Jason & Lucia (after replying to Wyman's message after Billy's phone call)",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "2435573a901e",
+   "group": "strangers",
+   "label": "The Last Mile: Backseat Pilot",
+   "page": "Strangers & Freaks",
+   "section": "Pilot Pete",
+   "x": -784.0,
+   "y": 4379.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "c392fe27cec4",
+   "group": "strangers",
+   "label": "The Last Mile: Passing the Torch",
+   "page": "Strangers & Freaks",
+   "section": "Pilot Pete",
+   "x": 2059.0,
+   "y": 1605.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "6641e8147a1d",
+   "group": "strangers",
+   "label": "Thrillbillies",
+   "page": "Strangers & Freaks",
+   "section": "Billy",
+   "x": -4823.0,
+   "y": 4341.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "eb41f25073e0",
+   "group": "strangers",
+   "label": "Twist Wrist, Smash, Grab",
+   "page": "Strangers & Freaks",
+   "section": "Billy",
+   "x": -6402.0,
+   "y": 3927.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "fce7f1b604f2",
+   "group": "strangers",
+   "label": "Veteran Hunted",
+   "page": "Strangers & Freaks",
+   "section": "Bret Vogel",
+   "x": -2788.0,
+   "y": 7374.0,
+   "fact": "Jason only (after Coffee Break, while accumulating $15,000 for Prepare for Vice City)",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-24",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
+  },
+  {
+   "id": "f17f1877c2a8",
+   "group": "vehicles",
+   "label": "Bison 900",
+   "page": "Bison 900",
+   "section": "Locations",
+   "x": -2017.0,
+   "y": -5351.0,
+   "fact": "Black Bison 900 featuring a bathtub and MyWays decals.",
+   "on_map": false,
+   "near": [
+    "Marbles"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Bison_900"
+  },
+  {
+   "id": "710535addc28",
+   "group": "vehicles",
+   "label": "Bison 900 (police)",
+   "page": "Bison 900 (police)",
+   "section": "Locations",
+   "x": -5010.0,
+   "y": -3383.0,
+   "fact": "Features a Watson Bay Police Department livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Bison_900_%28police%29"
+  },
+  {
+   "id": "f12e517889c6",
+   "group": "vehicles",
+   "label": "Blast (police)",
+   "page": "Blast (police)",
+   "section": "Locations",
+   "x": -5008.0,
+   "y": -3382.0,
+   "fact": "Features a Watson Bay Police Department livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Blast_%28police%29"
+  },
+  {
+   "id": "5b20bc8668d9",
+   "group": "vehicles",
+   "label": "Blast (police)",
+   "page": "Blast (police)",
+   "section": "Locations",
+   "x": -6558.0,
+   "y": 2718.0,
+   "fact": "Features a Port Gellhorn Police Department livery.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Blast_%28police%29"
+  },
+  {
+   "id": "46cfc1f07cc1",
+   "group": "vehicles",
+   "label": "CR5013",
+   "page": "CR5013",
+   "section": "Locations",
+   "x": -677.0,
+   "y": -707.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/CR5013"
+  },
+  {
+   "id": "5ce09b87c161",
+   "group": "vehicles",
+   "label": "CR5013",
+   "page": "CR5013",
+   "section": "Locations",
+   "x": -672.0,
+   "y": -732.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/CR5013"
+  },
+  {
+   "id": "884f022cf003",
+   "group": "vehicles",
+   "label": "CR5013",
+   "page": "CR5013",
+   "section": "Locations",
+   "x": -704.0,
+   "y": -720.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/CR5013"
+  },
+  {
+   "id": "3b0a7189d847",
+   "group": "vehicles",
+   "label": "CR5013",
+   "page": "CR5013",
+   "section": "Locations",
+   "x": 78.0,
+   "y": 432.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/CR5013"
+  },
+  {
+   "id": "cda52b6cf80f",
+   "group": "vehicles",
+   "label": "Delmar",
+   "page": "Delmar",
+   "section": "Locations",
+   "x": 1273.0,
+   "y": -782.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "Container Crane #3"
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Delmar"
+  },
+  {
+   "id": "5ac709d86b4b",
+   "group": "vehicles",
+   "label": "Hauler and Tanker",
+   "page": "Hauler",
+   "section": "Grand Theft Auto VI",
+   "x": -6354.0,
+   "y": -6624.0,
+   "fact": "Features a coyote brown military paintjob, decals and bullbar.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Hauler"
+  },
+  {
+   "id": "73cfd31cc20f",
+   "group": "vehicles",
+   "label": "Ilayda",
+   "page": "Ilayda",
+   "section": "Locations",
+   "x": 1246.0,
+   "y": -349.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/Ilayda"
+  },
+  {
+   "id": "52376f39bcf9",
+   "group": "vehicles",
+   "label": "L35P (police)",
+   "page": "L35P (police)",
+   "section": "Locations",
+   "x": -5216.0,
+   "y": -3289.0,
+   "fact": "Features a Watson Bay Police Department livery. Mounted to a trailer.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-22",
+   "url": "https://gta.wiki/wiki/L35P_%28police%29"
+  },
+  {
+   "id": "91f2a901757c",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -3242.0,
+   "y": -3058.0,
+   "fact": "Features a Vice-Dale Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "7184ee554574",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -3244.0,
+   "y": -3063.0,
+   "fact": "Features a Vice-Dale Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "b5c552878ca9",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -3212.0,
+   "y": -3066.0,
+   "fact": "Features a Vice-Dale Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "c2cd638f246f",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -3213.0,
+   "y": -3069.0,
+   "fact": "Features a Vice-Dale Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "2b9234c6b74d",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -3198.0,
+   "y": -3066.0,
+   "fact": "Features a Vice-Dale Fire Rescue livery.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "457e0d4cb4b5",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -1881.0,
+   "y": -5341.0,
+   "fact": "Features a Mariana County Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "a1b744f44eab",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -1880.0,
+   "y": -5343.0,
+   "fact": "Features a Mariana County Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "bdce0b02d3cc",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -1876.0,
+   "y": -5347.0,
+   "fact": "Features a Mariana County Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "21e8de41d0dd",
+   "group": "vehicles",
+   "label": "Pumper",
+   "page": "Pumper",
+   "section": "Locations",
+   "x": -1879.0,
+   "y": -5349.0,
+   "fact": "Features a Mariana County Fire Rescue livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Pumper"
+  },
+  {
+   "id": "e66e4f382661",
+   "group": "vehicles",
+   "label": "Reef Clipper II",
+   "page": "Reef Clipper II",
+   "section": "Locations",
+   "x": 320.0,
+   "y": -285.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-21",
+   "url": "https://gta.wiki/wiki/Reef_Clipper_II"
+  },
+  {
+   "id": "39ec135528fe",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -3208.0,
+   "y": -3063.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "a2d76b89c8b3",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2687.0,
+   "y": -3545.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "ee297bf9e2f8",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2665.0,
+   "y": -3586.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "4484c0c46df9",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2666.0,
+   "y": -3593.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "ee5f2ae00e78",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2642.0,
+   "y": -3575.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "38c33f8418f1",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2649.0,
+   "y": -3564.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "9c84e687abc5",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2614.0,
+   "y": -3520.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "38fc6c2118b6",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2615.0,
+   "y": -3531.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  },
+  {
+   "id": "3959b9a91087",
+   "group": "vehicles",
+   "label": "Stanier G2 (police)",
+   "page": "Stanier G2 (police)",
+   "section": "Locations",
+   "x": -2603.0,
+   "y": -3521.0,
+   "fact": "Features a Hamlet City Police Department livery.",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-24",
+   "page_rev": "2026-11-23",
+   "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
+  }
+ ]
+}
