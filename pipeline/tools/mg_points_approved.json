@@ -1,0 +1,109 @@
+{
+ "_leia": "Pontos do Map Genie (tela pública, medidos de perto; fonte 5 da sequência, aprovada pelo dono) que o dono aprovou nos cartões L-mg-* em 24/11/2026 (\"Aprovo os 60\"), só os confiáveis. Entram na camada que já existe no app, depois da gta.wiki, do GTADB e do Open GTA 6 Map, e só quando estão a mais de 40 m de um ponto que já existe. Camada -> [[nome, x, y]].",
+ "layers": {
+  "towatm": [
+   [
+    "Towable ATM",
+    -5151,
+    -3531
+   ],
+   [
+    "Towable ATM",
+    -6852,
+    549
+   ],
+   [
+    "Towable ATM",
+    -6919,
+    38
+   ],
+   [
+    "Towable ATM",
+    -1781,
+    2724
+   ],
+   [
+    "Towable ATM",
+    -1436,
+    2797
+   ],
+   [
+    "Towable ATM",
+    -1268,
+    2892
+   ],
+   [
+    "Towable ATM",
+    -1342,
+    6363
+   ],
+   [
+    "Towable ATM",
+    -2771,
+    4378
+   ],
+   [
+    "Towable ATM",
+    333,
+    4168
+   ],
+   [
+    "Towable ATM",
+    -455,
+    4792
+   ],
+   [
+    "Towable ATM",
+    -2256,
+    3769
+   ],
+   [
+    "Towable ATM",
+    -4055,
+    7202
+   ],
+   [
+    "Towable ATM",
+    -3126,
+    4275
+   ]
+  ],
+  "safehouse": [
+   [
+    "Del Rio Boulevard Garage",
+    -983,
+    1374
+   ],
+   [
+    "Caledonia Boulevard Garage",
+    -676,
+    1379
+   ],
+   [
+    "Domestic Timbers",
+    -1837,
+    429
+   ],
+   [
+    "Diablo Roofing",
+    -1379,
+    -395
+   ],
+   [
+    "Southside Storage",
+    -1431,
+    -1301
+   ],
+   [
+    "McClane Garage",
+    -2383,
+    -3458
+   ],
+   [
+    "Scuttlebutt Drive Garage",
+    -2370,
+    -5742
+   ]
+  ]
+ }
+}

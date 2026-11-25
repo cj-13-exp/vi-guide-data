@@ -14,6 +14,8 @@ WWW, STATE, WORK = sys.argv[1], sys.argv[2], sys.argv[3]
 HERE = os.path.dirname(os.path.abspath(__file__))
 APR = json.load(open(os.path.join(HERE, 'layers_approved.json')))
 GO = json.load(open(os.path.join(HERE, 'gangops.json')))
+try: MGP = json.load(open(os.path.join(HERE, 'mg_points_approved.json')))['layers']
+except Exception: MGP = {}
 os.makedirs(WORK, exist_ok=True)
 
 def globals_of(f):
@@ -99,6 +101,12 @@ for k in APR.get('layers', []):
             x, y = round(l['gx']), round(l['gy'])
             if any(math.hypot(x - a, y - b) <= 40 for a, b in have): continue
             have.append((x, y)); rows.append([k, nm, area(x, y), x, y, '', 'ogm'])
+    # 5ª fonte: Map Genie por foto (só os pontos aprovados nos cartões L-mg-*, tools/mg_points_approved.json), também a mais de 40 m
+    if k in APR.get('mg', []) and k in MGP:
+        have = [(r[3], r[4]) for r in rows]
+        for nm, x, y in MGP[k]:
+            if any(math.hypot(x - a, y - b) <= 40 for a, b in have): continue
+            have.append((x, y)); rows.append([k, nm, area(x, y), x, y, '', 'mg'])
     old = [p for p in OLD['places'] if p[0] == k]
     places += rows if len(rows) >= len(old) else old
     print('camada %-10s %3d pontos%s' % (k, len(rows), '' if len(rows) >= len(old) else ' (menos que ontem: mantive os %d de ontem)' % len(old)))
