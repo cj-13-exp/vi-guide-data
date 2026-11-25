@@ -1,39 +1,39 @@
 {
  "format": 1,
- "generated": "2026-11-24T14:30:32Z",
+ "generated": "2026-11-25T07:09:52Z",
  "files": {
   "data": {
    "globals": [
     "ATLAS_PLACES",
     "OFF_DATA"
    ],
-   "sha256": "6555ecb3aae48c23dc01d1661c479123c9f1195ec1394222b2dbc315c4bb3ac6",
-   "bytes": 220989,
-   "count": 3754
+   "sha256": "c1f674e0bbd9561be287b08e0731a5795f0c2b47b550d9f177d563108c59417c",
+   "bytes": 245285,
+   "count": 4195
   },
   "wiki": {
    "globals": [
     "WIKI"
    ],
-   "sha256": "58e63e32cdafee695175fc38fdcfdab91e8d8540f5abd713b7e15a370feec320",
-   "bytes": 62964,
-   "count": 550
+   "sha256": "20b2a2659c116d94609f256cb4c91d0a4d167f827897ea972504aaa3403dd41d",
+   "bytes": 63557,
+   "count": 556
   },
   "photos": {
    "globals": [
     "PLACE_PHOTOS"
    ],
-   "sha256": "44d2482a41ec73bab9e7a750b8ca1021e0388cdec534e09ae37667a7180622a9",
-   "bytes": 4563,
-   "count": 601
+   "sha256": "bdd9f087ccdf65d67fee285cbef92b3ed71b94319cccbbed1dc9acaea326f6b5",
+   "bytes": 5235,
+   "count": 686
   },
   "wiki2": {
    "globals": [
     "WIKI2"
    ],
-   "sha256": "46aeca2693e6e3a0056fae108b65fa4e9611f91e4b1bc651ae481a6fc49dc91e",
-   "bytes": 3595,
-   "count": 54
+   "sha256": "bf93bac9921d8355e9aa3ae60c7a0e888932acba1a3491d8822aa88ceb74c3b3",
+   "bytes": 3828,
+   "count": 56
   },
   "real": {
    "globals": [
@@ -65,18 +65,18 @@
    "globals": [
     "MISSIONS"
    ],
-   "sha256": "2eb0e8b458222961c7d1c354f2f066d51c447594e38c6715e6357aaffc0d8a8a",
-   "bytes": 28941,
-   "count": 205
+   "sha256": "97dc525f5d7fe5aacb41e18f4160532b134f4fb9f83ebf200f753ba4d536a350",
+   "bytes": 29163,
+   "count": 204
   },
   "wiki3": {
    "globals": [
     "GVD",
     "WIKI3"
    ],
-   "sha256": "691184aa51ddad932458258bb56322cd317ab71f9d5a827682b9d5ecfde0ea20",
-   "bytes": 30949,
-   "count": 170
+   "sha256": "a1574ffe85ba75af696984bcbde4d2caf85bc8e12a6c63fa91e247141546ea72",
+   "bytes": 31020,
+   "count": 171
   },
   "ref": {
    "globals": [
@@ -98,9 +98,9 @@
    "globals": [
     "IGP"
    ],
-   "sha256": "cab5f87b4a2af9611b7621a62f6fd28ec2080b44aad281728d53c1476f4d281a",
-   "bytes": 29626,
-   "count": 700
+   "sha256": "cafc5cac5b3a01f8342d6f8e0cb281ac26f18a71611e9792f56fc5b73a78252e",
+   "bytes": 29859,
+   "count": 706
   },
   "official": {
    "globals": [
@@ -123,9 +123,9 @@
     "HEISTS",
     "LAYERS"
    ],
-   "sha256": "9ae86c0b034df3038108ad7f159f4dbf7a7c43b68234026615e1655716a9c10e",
-   "bytes": 157821,
-   "count": 2164
+   "sha256": "c30038109859d8821aabd49a54ba1b1fc04cc66cd94fc878f60d9939b752fb06",
+   "bytes": 168238,
+   "count": 2309
   },
   "gbinfo": {
    "globals": [

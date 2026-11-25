@@ -1,23 +1,25 @@
-# Revisão diária das seções (2026-11-24)
+# Revisão diária das seções (2026-11-25)
 
-**Alertas: 5.** Ver abaixo; cada item precisa de uma decisão ou de uma correção.
+**Alertas: 7.** Ver abaixo; cada item precisa de uma decisão ou de uma correção.
 
 - SEÇÃO NOVA na gta.wiki: categoria "GTA VI Title Updates" (1 páginas). Decidir: virar seção, dado guardado ou ignorar, e registrar em tools/sections_registry.json.
-- PÁGINAS NOVAS em "Gameplay in GTA VI": 3D Universe Portal, Caught Slipping, Company Property, Credit Check, Photo Studio, Safe Word, Security Expert, Sinfrontera National Bank (mission)
-- PÁGINAS NOVAS em "Media in GTA VI": Neurotic Toys, Right Wing
-- PÁGINAS NOVAS em "Organizations in GTA VI": Cellerica, Kelly County Fire Rescue, Leonard County Fire Rescue, Lummox Emergency Services
+- PÁGINAS NOVAS em "Gameplay in GTA VI": Another Life, Bricked Up, Cooties, Hidden Charges, Ocean Beach (mission), Ride or Die, South Leonida Real Estate, Target Decks, The Cartel Heist, The Missing Link
+- PÁGINAS NOVAS em "Items in GTA VI": Window Cleaning Platform
+- PÁGINAS NOVAS em "Media in GTA VI": Barnyard Blue, JSR (film), Meltdown 3: Extreme Steam, My Name is Peter, Police Balls, Police Balls 2: Back in the Sack, PÊCHE
+- PÁGINAS NOVAS em "Organizations in GTA VI": Ballas (HD Universe), Kelly County Sheriff
+- PÁGINAS NOVAS em "Animals in GTA VI": Bengal Tiger
 - PÁGINA MUDOU: "Secrets and Easter Eggs in GTA VI" (revisão 2026-11-24). Rodar o gerador correspondente e conferir.
 
 ## Seções da gta.wiki sobre GTA VI (70 categorias)
 
 | Categoria | Páginas | Situação |
 |---|---|---|
-| Animals in GTA VI | 39 | covered |
+| Animals in GTA VI | 40 | covered |
 | Beta changes in GTA VI | 10 | ignored |
-| Beta content in GTA VI | 27 | ignored |
+| Beta content in GTA VI | 29 | ignored |
 | Buildings in GTA VI | 29 | reference |
 | Buildings in GTA VI in Ambrosia | 4 | reference |
-| Buildings in GTA VI in Capri | 3 | reference |
+| Buildings in GTA VI in Capri | 6 | reference |
 | Buildings in GTA VI in Hamlet | 11 | reference |
 | Buildings in GTA VI in Kelly County | 0 | reference |
 | Buildings in GTA VI in Leonard County | 1 | reference |
@@ -33,16 +35,16 @@
 | Buildings in GTA VI in the 3D Universe | 1 | reference |
 | Buildings in GTA VI in the Grassrivers | 2 | reference |
 | Buildings in GTA VI in the Leonida Keys | 15 | reference |
-| Businesses in GTA VI | 516 | partial |
-| Characters in GTA VI | 157 | covered |
+| Businesses in GTA VI | 522 | partial |
+| Characters in GTA VI | 162 | covered |
 | Clothing in GTA VI | 1 | partial |
 | Downloadable content in GTA VI | 2 | partial |
 | Features in GTA VI | 2 | partial |
-| GTA VI | 21 | ignored |
+| GTA VI | 22 | ignored |
 | GTA VI Title Updates | 1 | **NOVA** |
-| Gameplay in GTA VI | 149 | partial |
+| Gameplay in GTA VI | 159 | partial |
 | Images of GTA VI | 0 | ignored |
-| Items in GTA VI | 19 | partial |
+| Items in GTA VI | 20 | partial |
 | Locations in GTA VI | 25 | reference |
 | Locations in GTA VI in Ambrosia | 3 | reference |
 | Locations in GTA VI in Ambrosia County | 1 | reference |
@@ -53,18 +55,18 @@
 | Locations in GTA VI in Mariana County | 22 | reference |
 | Locations in GTA VI in Vice Beach | 8 | reference |
 | Locations in GTA VI in Vice City | 29 | reference |
-| Locations in GTA VI in Vice-Dale County | 12 | reference |
+| Locations in GTA VI in Vice-Dale County | 13 | reference |
 | Locations in GTA VI in the 3D Universe | 4 | reference |
 | Maps of GTA VI | 0 | ignored |
-| Media in GTA VI | 77 | partial |
+| Media in GTA VI | 84 | partial |
 | Mission Transcripts in GTA VI | 1 | partial |
 | Navigation templates for GTA VI | 23 | ignored |
-| New content in GTA VI | 1436 | ignored |
+| New content in GTA VI | 1461 | ignored |
 | New pages on GTA VI | 0 | ignored |
-| Organizations in GTA VI | 67 | partial |
+| Organizations in GTA VI | 69 | partial |
 | Properties in GTA VI | 1 | partial |
-| Real-world people credited on GTA VI | 39 | ignored |
-| Returning content in GTA VI | 335 | ignored |
+| Real-world people credited on GTA VI | 40 | ignored |
+| Returning content in GTA VI | 337 | ignored |
 | Spoilers pertaining to GTA VI | 7 | ignored |
 | Structures in GTA VI | 0 | reference |
 | Structures in GTA VI in Ambrosia | 1 | reference |
@@ -84,13 +86,13 @@
 | Weapons in GTA VI | 73 | covered |
 
 ## Mudou de tamanho desde o último dia
-- Businesses in GTA VI: 510 → 516
-- Characters in GTA VI: 151 → 157
-- Gameplay in GTA VI: 141 → 149
-- Media in GTA VI: 75 → 77
-- Organizations in GTA VI: 63 → 67
-- Vehicles in GTA VI: 349 → 350
-- Weapons in GTA VI: 72 → 73
+- Animals in GTA VI: 39 → 40
+- Businesses in GTA VI: 516 → 522
+- Characters in GTA VI: 157 → 162
+- Gameplay in GTA VI: 149 → 159
+- Items in GTA VI: 19 → 20
+- Media in GTA VI: 77 → 84
+- Organizations in GTA VI: 67 → 69
 
 ## Páginas vigiadas
 - Activities in GTA VI: ainda não existe
@@ -98,12 +100,12 @@
 - Challenges in GTA VI: ainda não existe
 - Chapters in GTA VI: ainda não existe
 - Cheats in GTA VI: existe (revisão 2026-11-23)
-- Collectibles: existe (revisão 2026-11-19)
+- Collectibles: existe (revisão 2026-11-24)
 - Fences: existe (revisão 2026-11-22)
 - Gang Operations: ainda não existe
 - Hidden Packages: existe (revisão 2026-11-04)
 - Hobbies in GTA VI: ainda não existe
-- Missions in GTA VI: existe (revisão 2026-11-24)
+- Missions in GTA VI: existe (revisão 2026-11-25)
 - Optional Tasks: ainda não existe
 - Payday Loans: existe (revisão 2026-11-20)
 - Races in GTA VI: ainda não existe
@@ -112,8 +114,8 @@
 - Side Missions: existe (revisão 2025-06-30)
 - Smash 'n' Grabs: existe (revisão 2026-11-20)
 - Stick-Ups: ainda não existe
-- Strangers & Freaks: existe (revisão 2026-11-24)
-- Strangers and Freaks: existe (revisão 2026-11-24)
+- Strangers & Freaks: existe (revisão 2026-11-25)
+- Strangers and Freaks: existe (revisão 2026-11-25)
 - Stunt Jumps: existe (revisão 2026-06-30)
 - Trophies and Achievements in GTA VI: ainda não existe
 - Unique Stunt Jumps: existe (revisão 2026-06-30)

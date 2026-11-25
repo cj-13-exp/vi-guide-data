@@ -1,10 +1,10 @@
 {
- "ts": "2026-11-24",
+ "ts": "2026-11-25",
  "kinds": [
   {
    "kind": "missions",
-   "total": 198,
-   "with_video": 51,
+   "total": 197,
+   "with_video": 84,
    "sample": [
     {
      "item": "Prologue",
@@ -31,24 +31,30 @@
      "url": "https://www.youtube.com/watch?v=m2APlrqUlqY"
     },
     {
-     "item": "Pipework",
-     "title": "GTA 6 Mission #7 - Pipework (Chapter 1) [Full Walkthrough - PS5 4K]",
-     "channel": "GTA Series Videos",
-     "url": "https://www.youtube.com/watch?v=gyGEkYIcpYY"
-    },
-    {
      "item": "Get Shirley's Rum",
      "title": "GTA 6 - Get Shirley’s Rum - Full Walkthrough",
      "channel": "Trophy Tom",
      "url": "https://www.youtube.com/watch?v=F0WIP2jHyVs"
+    },
+    {
+     "item": "Pipework",
+     "title": "GTA 6 Mission #7 - Pipework (Chapter 1) [Full Walkthrough - PS5 4K]",
+     "channel": "GTA Series Videos",
+     "url": "https://www.youtube.com/watch?v=gyGEkYIcpYY"
     }
    ]
   },
   {
    "kind": "vehicles",
    "total": 329,
-   "with_video": 15,
+   "with_video": 18,
    "sample": [
+    {
+     "item": "Akane",
+     "title": "GTA 6 - Cousin Carlo’s Akane - Unique Standout Vehicle Location",
+     "channel": "Trophy Tom",
+     "url": "https://www.youtube.com/watch?v=iz30Exs4R94"
+    },
     {
      "item": "Alvino V1",
      "title": "How to Get Principe Alvino V1 in GTA 6! (Secret Ducati Panigale V4 Location)",
@@ -78,12 +84,6 @@
      "title": "How to Get Clarion in GTA 6! (Secret Cigarette Racing Speedboat Location)",
      "channel": "KingAlexHD",
      "url": "https://www.youtube.com/watch?v=AiSPId9oKfA"
-    },
-    {
-     "item": "Emerus",
-     "title": "GTA 6 – How to Get the BEST FREE SUPERCAR in Chapter 1 (Purple Drank Emerus)",
-     "channel": "LunarGaming",
-     "url": "https://www.youtube.com/watch?v=hmWLirRHM48"
     }
    ]
   },
@@ -114,7 +114,7 @@
   },
   {
    "kind": "animals",
-   "total": 39,
+   "total": 40,
    "with_video": 0,
    "sample": []
   },
@@ -127,7 +127,7 @@
   {
    "kind": "heists",
    "total": 78,
-   "with_video": 6,
+   "with_video": 13,
    "sample": [
     {
      "item": "Avery Pawn",
@@ -136,10 +136,22 @@
      "url": "https://www.youtube.com/watch?v=KQa_bHpEXN4"
     },
     {
+     "item": "Manatee Motel",
+     "title": "GTA 6: Manatee Motel | Illegal Operation Walkthrough & All Key Valuables",
+     "channel": "IGN Guides",
+     "url": "https://www.youtube.com/watch?v=f2T6dmwl_-I"
+    },
+    {
      "item": "Sunrise RV Park",
      "title": "GTA 6 - Sunrise RV Park All Key Valuables & Safe Code Locations Guide",
      "channel": "HarryNinetyFour",
      "url": "https://www.youtube.com/watch?v=0ahuqi5Zehw"
+    },
+    {
+     "item": "Fishing Shacks",
+     "title": "GTA 6: Fishing Shacks | Illegal Operation Walkthrough & All Key Valuables",
+     "channel": "IGN Guides",
+     "url": "https://www.youtube.com/watch?v=uhLnf1s97og"
     },
     {
      "item": "Kingpin Bowling",
@@ -152,18 +164,6 @@
      "title": "GTA 6 - La Cascara Motel All Key Valuables & Safe Code Locations Guide",
      "channel": "HarryNinetyFour",
      "url": "https://www.youtube.com/watch?v=Ew_tcjbaN_4"
-    },
-    {
-     "item": "Brooks Boatworks",
-     "title": "GTA 6 - Brooks Boatworks All Key Valuables Locations Guide",
-     "channel": "HarryNinetyFour",
-     "url": "https://www.youtube.com/watch?v=qEceBVG43lE"
-    },
-    {
-     "item": "Casa Guardia",
-     "title": "GTA 6 - Casa Guardia All Key Valuables & Safe Code Locations Guide",
-     "channel": "HarryNinetyFour",
-     "url": "https://www.youtube.com/watch?v=gP3btRn1rNU"
     }
    ]
   }
@@ -193,17 +193,17 @@
    "channel": "GTA Series Videos",
    "url": "https://www.youtube.com/watch?v=m2APlrqUlqY"
   },
-  "m:pipework": {
-   "id": "gyGEkYIcpYY",
-   "title": "GTA 6 Mission #7 - Pipework (Chapter 1) [Full Walkthrough - PS5 4K]",
-   "channel": "GTA Series Videos",
-   "url": "https://www.youtube.com/watch?v=gyGEkYIcpYY"
-  },
   "m:get-shirley-s-rum": {
    "id": "F0WIP2jHyVs",
    "title": "GTA 6 - Get Shirley’s Rum - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=F0WIP2jHyVs"
+  },
+  "m:pipework": {
+   "id": "gyGEkYIcpYY",
+   "title": "GTA 6 Mission #7 - Pipework (Chapter 1) [Full Walkthrough - PS5 4K]",
+   "channel": "GTA Series Videos",
+   "url": "https://www.youtube.com/watch?v=gyGEkYIcpYY"
   },
   "m:catch-a-bigger-fish": {
    "id": "FWJB09pYT-E",
@@ -421,6 +421,198 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=oXDkJx3bPjU"
   },
+  "m:how-do-i-look": {
+   "id": "oXDkJx3bPjU",
+   "title": "GTA 6 - New Look & How Do I Look & Behind on Payments - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=oXDkJx3bPjU"
+  },
+  "m:painkiller-supplier": {
+   "id": "LFa8U4yS2Kk",
+   "title": "GTA 6 Missions : Painkiller Supplier  - Meeting Vicki & Dunk (No Commentary)",
+   "channel": "cendurks",
+   "url": "https://www.youtube.com/watch?v=LFa8U4yS2Kk"
+  },
+  "m:mall-rats": {
+   "id": "2zIsWPwvPxs",
+   "title": "Mall Rats Mission Walkthrough | GTA 6 (Grand Theft Auto VI)",
+   "channel": "PerfectParadox",
+   "url": "https://www.youtube.com/watch?v=2zIsWPwvPxs"
+  },
+  "m:the-impaler": {
+   "id": "cy4f6_3dFxo",
+   "title": "GTA 6 Sidequest - The Impaler (Steal the Impaler) Full Walkthrough",
+   "channel": "FP Good Game",
+   "url": "https://www.youtube.com/watch?v=cy4f6_3dFxo"
+  },
+  "m:aerial-application": {
+   "id": "v_Byf9aZbOY",
+   "title": "GTA 6: Crop Dust Over Kyle (Aerial Application Walkthrough)",
+   "channel": "Gamerpillar",
+   "url": "https://www.youtube.com/watch?v=v_Byf9aZbOY"
+  },
+  "m:hazardous-materials": {
+   "id": "5leXSLMOzQk",
+   "title": "GTA 6 - Hazardous Materials - Walkthrough Part 40",
+   "channel": "Trophygamers",
+   "url": "https://www.youtube.com/watch?v=5leXSLMOzQk"
+  },
+  "m:check-out-mckittrick-farm": {
+   "id": "Z91J2bRVRGI",
+   "title": "GTA 6 - Check Out McKittrick Farm - Full Walkthrough (Kyle Quest 1)",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=Z91J2bRVRGI"
+  },
+  "m:steal-vehicles-for-moses": {
+   "id": "C95cjGk-d4E",
+   "title": "GTA 6 - Steal Vehicles For Moses - Full Quest Walkthrough",
+   "channel": "WoW Quests",
+   "url": "https://www.youtube.com/watch?v=C95cjGk-d4E"
+  },
+  "m:ambulance-chaser": {
+   "id": "rT7mEeUlagU",
+   "title": "GTA 6 Mission #24 - Ambulance Chasers (Chapter 2) [Full Walkthrough - PS5 4K]",
+   "channel": "GTA Series Videos",
+   "url": "https://www.youtube.com/watch?v=rT7mEeUlagU"
+  },
+  "m:collect-moses-gift": {
+   "id": "AM0MdQqTdG8",
+   "title": "Collect Moses' Gift Full Quest Walkthrough | GTA VI",
+   "channel": "Guslok - Guías 100%",
+   "url": "https://www.youtube.com/watch?v=AM0MdQqTdG8"
+  },
+  "m:behind-on-payments": {
+   "id": "oXDkJx3bPjU",
+   "title": "GTA 6 - New Look & How Do I Look & Behind on Payments - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=oXDkJx3bPjU"
+  },
+  "m:slam-dunk": {
+   "id": "46hMImFnTPY",
+   "title": "GTA 6 - Slam Dunk (Find Painkillers) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=46hMImFnTPY"
+  },
+  "m:collect-chemicals-for-kyle": {
+   "id": "Y5ccyz64IPo",
+   "title": "GTA 6 - Collect Chemicals for Kyle - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=Y5ccyz64IPo"
+  },
+  "m:daily-driver": {
+   "id": "rvdiXu3rG5k",
+   "title": "GTA 6 - Daily Driver (Steal the Crawler for Moses) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=rvdiXu3rG5k"
+  },
+  "m:breakfast-run": {
+   "id": "wQbWc9_X5O8",
+   "title": "GTA 6 - Breakfast Run (Check on Jason) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=wQbWc9_X5O8"
+  },
+  "m:thrillbillies": {
+   "id": "aaa6Q4b-PXg",
+   "title": "GTA 6 - Mission: Thrillbillies Walkthrough Gameplay (4K PS5 PRO)",
+   "channel": "Boss Fight Database",
+   "url": "https://www.youtube.com/watch?v=aaa6Q4b-PXg"
+  },
+  "m:twist-wrist-smash-grab": {
+   "id": "Xyj6OdIHaW4",
+   "title": "GTA 6 - Twist Wrist, Smash, Grab (Join Billy on a Job) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=Xyj6OdIHaW4"
+  },
+  "m:hit-kingpin-bowling": {
+   "id": "RAMCLPMciu4",
+   "title": "GTA 6 - Hit Kingpin Bowling - All Key Valuables - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=RAMCLPMciu4"
+  },
+  "m:impounded-vehicle": {
+   "id": "EzY97aDwr-8",
+   "title": "GTA 6 - Impounded Vehicle - Full Quest Walkthrough",
+   "channel": "WoW Quests",
+   "url": "https://www.youtube.com/watch?v=EzY97aDwr-8"
+  },
+  "m:prepare-for-vice-city": {
+   "id": "bSkDxKrunSw",
+   "title": "#39 GTA 6 - Prepare For Vice City (Full Walkthrough) All Side Missions",
+   "channel": "Game Time Live",
+   "url": "https://www.youtube.com/watch?v=bSkDxKrunSw"
+  },
+  "m:veteran-hunted": {
+   "id": "cWie-vmiDUk",
+   "title": "GTA 6 - Veteran Hunted (Meet Bret) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=cWie-vmiDUk"
+  },
+  "m:afternoon-delight": {
+   "id": "rkwmcjJmjOI",
+   "title": "GTA 6 - Afternoon Delight (Rob Vicki’s Boss) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=rkwmcjJmjOI"
+  },
+  "m:checking-out": {
+   "id": "K7lEEKKxFFw",
+   "title": "GTA 6 - Checking Out (Move to Vice City) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=K7lEEKKxFFw"
+  },
+  "m:welcome-to-vice-city": {
+   "id": "kAcSTf-Tcg8",
+   "title": "GTA 6 - Welcome to Vice City - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=kAcSTf-Tcg8"
+  },
+  "m:dealer-s-choice": {
+   "id": "NSMOq_BJbBU",
+   "title": "GTA 6 - Dealer’s Choice (Go See Dre’Quan) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=NSMOq_BJbBU"
+  },
+  "m:dubious-provenance": {
+   "id": "SixlDJBEHzs",
+   "title": "#45 GTA 6 - Dubious Provenance (Full Walkthrough) All 3 Parts",
+   "channel": "Game Time Live",
+   "url": "https://www.youtube.com/watch?v=SixlDJBEHzs"
+  },
+  "m:mami-knows-best": {
+   "id": "6xHjVgGM9sE",
+   "title": "GTA 6 - Mami Knows Best (Catch Up With Mia) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=6xHjVgGM9sE"
+  },
+  "m:get-your-wheels": {
+   "id": "n_lZP8X1Sac",
+   "title": "GTA 6 How to Finish Get your Wheels Quest Full Guide - Grand Theft Auto VI",
+   "channel": "Horizon Gaming",
+   "url": "https://www.youtube.com/watch?v=n_lZP8X1Sac"
+  },
+  "m:here-kitty-kitty": {
+   "id": "b78Xa-Jlsts",
+   "title": "GTA 6 - Here, Kitty Kitty (Speak with Tyrone) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=b78Xa-Jlsts"
+  },
+  "m:join-a-street-race": {
+   "id": "JNAC3pwfpEI",
+   "title": "GTA 6 - Join a Street Race - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=JNAC3pwfpEI"
+  },
+  "m:send-money-to-lorena": {
+   "id": "FVDBZUrlYCE",
+   "title": "GTA 6 Send Money to Lorena (Missions 51 & 53) - $10,000 Through BuckMe | Walkthrough",
+   "channel": "ZHUBA",
+   "url": "https://www.youtube.com/watch?v=FVDBZUrlYCE"
+  },
+  "m:boobie-time": {
+   "id": "-BWqzOICZqQ",
+   "title": "GTA 6 - Boobie Time (Talk to Boobie - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=-BWqzOICZqQ"
+  },
   "m:cooties": {
    "id": "cRHuRIngJsU",
    "title": "GTA 6 - Cooties (Shoot the Music Video) - Full Walkthrough",
@@ -445,12 +637,6 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=EmVhuOsaYd0"
   },
-  "m:ocean-beach": {
-   "id": "dtyMTdma2J8",
-   "title": "GTA 6 - In The Beginning… Trophy Guide / Achievement Guide - Enjoy a cocktail with Ocean Beach view",
-   "channel": "PowerPyx",
-   "url": "https://www.youtube.com/watch?v=dtyMTdma2J8"
-  },
   "m:another-life": {
    "id": "FD4dJyNYz2Y",
    "title": "GTA 6 - Another Life - Full Walkthrough",
@@ -474,6 +660,24 @@
    "title": "GTA 6 - Lawyer Up (Meet Abe Gonzalez) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=ERSiv8u1ugw"
+  },
+  "m:this-is-a-free-call-from": {
+   "id": "VFRPwMJp71k",
+   "title": "GTA 6 - This is a Free Call From… - All Key Valuables - Full Stealth Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=VFRPwMJp71k"
+  },
+  "m:gta-6": {
+   "id": "tT7aN7UpnlQ",
+   "title": "GTA 6 How to Unlock A Secret Radio Station",
+   "channel": "GameSpot",
+   "url": "https://www.youtube.com/watch?v=tT7aN7UpnlQ"
+  },
+  "v:akane": {
+   "id": "iz30Exs4R94",
+   "title": "GTA 6 - Cousin Carlo’s Akane - Unique Standout Vehicle Location",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=iz30Exs4R94"
   },
   "v:alvinov1": {
    "id": "oh75lZ0QS2A",
@@ -535,6 +739,12 @@
    "channel": "KingAlexHD",
    "url": "https://www.youtube.com/watch?v=Rcs0NTY3DMY"
   },
+  "v:rancher": {
+   "id": "RM4OQzQ0dUo",
+   "title": "GTA 6 - Red Apple Orchard Rancher - Unique Standout Vehicle Location",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=RM4OQzQ0dUo"
+  },
   "v:sfb1000": {
    "id": "tbws101uGGg",
    "title": "How to Get Nagasaki SFB 1000 in GTA 6! (Secret Kawasaki Ninja ZX-10R Location)",
@@ -558,6 +768,12 @@
    "title": "How to Get Pegassi Vitello in GTA 6! (Secret Lamborghini Supercar Location)",
    "channel": "KingAlexHD",
    "url": "https://www.youtube.com/watch?v=E4x8uo2kp4A"
+  },
+  "v:zombie": {
+   "id": "qUuU3peibfU",
+   "title": "How to Get the Original Vice City Motorcycle in GTA 6! (Malibu Zombie Bobber Location)",
+   "channel": "KingAlexHD",
+   "url": "https://www.youtube.com/watch?v=qUuU3peibfU"
   },
   "v:zorrusso": {
    "id": "m8u5eHLpzd8",
@@ -589,11 +805,23 @@
    "channel": "How to Everything",
    "url": "https://www.youtube.com/watch?v=KQa_bHpEXN4"
   },
+  "h:manateemotel": {
+   "id": "f2T6dmwl_-I",
+   "title": "GTA 6: Manatee Motel | Illegal Operation Walkthrough & All Key Valuables",
+   "channel": "IGN Guides",
+   "url": "https://www.youtube.com/watch?v=f2T6dmwl_-I"
+  },
   "h:sunriservpark": {
    "id": "0ahuqi5Zehw",
    "title": "GTA 6 - Sunrise RV Park All Key Valuables & Safe Code Locations Guide",
    "channel": "HarryNinetyFour",
    "url": "https://www.youtube.com/watch?v=0ahuqi5Zehw"
+  },
+  "h:fishingshacks": {
+   "id": "uhLnf1s97og",
+   "title": "GTA 6: Fishing Shacks | Illegal Operation Walkthrough & All Key Valuables",
+   "channel": "IGN Guides",
+   "url": "https://www.youtube.com/watch?v=uhLnf1s97og"
   },
   "h:kingpinbowling": {
    "id": "_bM4rxLlmp8",
@@ -613,11 +841,41 @@
    "channel": "HarryNinetyFour",
    "url": "https://www.youtube.com/watch?v=qEceBVG43lE"
   },
+  "h:watsonbaysafehouse": {
+   "id": "RGAZH2mNcGo",
+   "title": "GTA 6: Watson Bay Safehouse | Illegal Operation Walkthrough & All Key Valuables",
+   "channel": "IGN Guides",
+   "url": "https://www.youtube.com/watch?v=RGAZH2mNcGo"
+  },
+  "h:kamardevoncommunitycenter": {
+   "id": "e-BdBbMnvOs",
+   "title": "GTA 6 - Kamar Devon Community Center - All Key Valuables - Full Stealth Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=e-BdBbMnvOs"
+  },
   "h:casaguardia": {
    "id": "gP3btRn1rNU",
    "title": "GTA 6 - Casa Guardia All Key Valuables & Safe Code Locations Guide",
    "channel": "HarryNinetyFour",
    "url": "https://www.youtube.com/watch?v=gP3btRn1rNU"
+  },
+  "h:exoticanimalsfront": {
+   "id": "_HSpZQeaDfo",
+   "title": "GTA 6: Exotic Animals Front | Illegal Operation Walkthrough & All Key Valuables",
+   "channel": "IGN Guides",
+   "url": "https://www.youtube.com/watch?v=_HSpZQeaDfo"
+  },
+  "h:slatortowinginc": {
+   "id": "WbHjuJHwl5Y",
+   "title": "GTA 6 - Slator Towing Inc - All Key Valuables - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=WbHjuJHwl5Y"
+  },
+  "h:backroomweedfront": {
+   "id": "vhukHTikyQI",
+   "title": "GTA 6: Backroom Weed Front | Illegal Operation Walkthrough & All Key Valuables",
+   "channel": "IGN Guides",
+   "url": "https://www.youtube.com/watch?v=vhukHTikyQI"
   }
  }
 }
