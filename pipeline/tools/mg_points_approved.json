@@ -104,6 +104,213 @@
     -2370,
     -5742
    ]
+  ],
+  "atm": [
+   [
+    "ATM",
+    -4495,
+    224
+   ],
+   [
+    "ATM",
+    -6938,
+    31
+   ],
+   [
+    "ATM",
+    -6551,
+    -190
+   ],
+   [
+    "ATM",
+    -1459,
+    2835
+   ],
+   [
+    "ATM",
+    -1399,
+    2530
+   ],
+   [
+    "ATM",
+    -265,
+    3988
+   ],
+   [
+    "ATM",
+    -2714,
+    4271
+   ],
+   [
+    "ATM",
+    -1338,
+    6382
+   ],
+   [
+    "ATM",
+    -1101,
+    6508
+   ],
+   [
+    "ATM",
+    172,
+    4046
+   ],
+   [
+    "ATM",
+    -3127,
+    7001
+   ],
+   [
+    "ATM",
+    -5743,
+    6640
+   ],
+   [
+    "ATM",
+    -4017,
+    7198
+   ],
+   [
+    "ATM",
+    2015,
+    1177
+   ]
+  ],
+  "bus": [
+   [
+    "Bus stop",
+    -5127,
+    -3333
+   ],
+   [
+    "Bus stop",
+    -6510,
+    511
+   ],
+   [
+    "Bus stop",
+    -1405,
+    2857
+   ],
+   [
+    "Bus stop",
+    -445,
+    3905
+   ],
+   [
+    "Bus stop",
+    -2787,
+    4172
+   ],
+   [
+    "Bus stop",
+    -1452,
+    6382
+   ],
+   [
+    "Bus stop",
+    -4150,
+    7198
+   ],
+   [
+    "Bus stop",
+    -5441,
+    6839
+   ]
+  ],
+  "charger": [
+   [
+    "EV charger",
+    -5029,
+    -3447
+   ],
+   [
+    "EV charger",
+    -6755,
+    176
+   ],
+   [
+    "EV charger",
+    -4002,
+    712
+   ],
+   [
+    "EV charger",
+    -1774,
+    2736
+   ],
+   [
+    "EV charger",
+    -6574,
+    -174
+   ],
+   [
+    "EV charger",
+    -1291,
+    2896
+   ],
+   [
+    "EV charger",
+    -2783,
+    8093
+   ],
+   [
+    "EV charger",
+    -2071,
+    7356
+   ],
+   [
+    "EV charger",
+    -772,
+    6245
+   ],
+   [
+    "EV charger",
+    314,
+    3559
+   ],
+   [
+    "EV charger",
+    -2621,
+    6091
+   ],
+   [
+    "EV charger",
+    -1077,
+    5339
+   ],
+   [
+    "EV charger",
+    -139,
+    4145
+   ],
+   [
+    "EV charger",
+    -1270,
+    6313
+   ],
+   [
+    "EV charger",
+    -2233,
+    3773
+   ],
+   [
+    "EV charger",
+    -2665,
+    4180
+   ],
+   [
+    "EV charger",
+    -5848,
+    5315
+   ],
+   [
+    "EV charger",
+    -4169,
+    7190
+   ]
   ]
- }
+ },
+ "_espera": "atm, bus e charger (L-mg-atm, L-mg-onibus, L-mg-carregadores, aprovados em 24/11/2026) estão guardados e NÃO são desenhados: a camada-base (cartões L-ogm-atm, L-ogm-bus, L-ogm-charger) ainda não foi decidida. Quando o dono aprovar a base, acrescentar a chave em layers_approved.json (layers, ogm e mg) e na tabela CCOL/rotulos do app."
 }
