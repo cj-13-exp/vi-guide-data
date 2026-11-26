@@ -56,7 +56,7 @@
 },
 "mariobros": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Mario Bros"
 },
 "hellspawnshotgun": {
@@ -86,7 +86,7 @@
 },
 "furious": {
 "first": "2026-11-24",
-"last": "2026-11-23",
+"last": "2026-11-25",
 "subject": "Furious"
 },
 "dexterapartmentboatandkillroom": {
@@ -127,7 +127,7 @@
 "arthurmorganhat": {
 "first": "2026-11-24",
 "last": "2026-11-22",
-"subject": "Arthur Morgan's Hat"
+"subject": "Arthur Morgan's hat"
 },
 "featuresmultiple": {
 "first": "2026-11-24",
@@ -166,8 +166,8 @@
 },
 "jetskidog": {
 "first": "2026-11-24",
-"last": "2026-11-19",
-"subject": "jet ski dog"
+"last": "2026-11-23",
+"subject": "Jet Ski Dog"
 },
 "grandtheftauto": {
 "first": "2026-11-24",
@@ -216,13 +216,13 @@
 },
 "truffadethrax": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Truffade Thrax"
 },
 "stripclubs": {
 "first": "2026-11-24",
 "last": "2026-11-19",
-"subject": "Strip Clubs"
+"subject": "strip clubs"
 },
 "bowlingalleysafecode": {
 "first": "2026-11-24",
@@ -261,7 +261,7 @@
 },
 "keycloner": {
 "first": "2026-11-24",
-"last": "2026-11-23",
+"last": "2026-11-25",
 "subject": "key cloner"
 },
 "effigy": {
@@ -276,7 +276,7 @@
 },
 "bravadobanshee": {
 "first": "2026-11-24",
-"last": "2026-11-21",
+"last": "2026-11-25",
 "subject": "Bravado Banshee Supercar"
 },
 "pinkporsche": {
@@ -286,12 +286,12 @@
 },
 "pegassitempesta": {
 "first": "2026-11-24",
-"last": "2026-11-21",
+"last": "2026-11-25",
 "subject": "Pegassi Tempesta Supercar"
 },
 "pegassitoros": {
 "first": "2026-11-24",
-"last": "2026-11-21",
+"last": "2026-11-25",
 "subject": "Pegassi Toros"
 },
 "militaryfighterjet": {
@@ -311,12 +311,12 @@
 },
 "bikinisforluciaandswimsuitsforjason": {
 "first": "2026-11-24",
-"last": "2026-11-19",
+"last": "2026-11-23",
 "subject": "Bikinis For Lucia And Swimsuits For Jason"
 },
 "pfistergrowler": {
 "first": "2026-11-24",
-"last": "2026-11-22",
+"last": "2026-11-25",
 "subject": "Pfister Growler"
 },
 "apartmentlaptopinchapter3": {
@@ -326,12 +326,12 @@
 },
 "pegassivitello": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Pegassi Vitello Supercar"
 },
 "grottiitalirsx": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "subject": "Grotti Itali RSX Supercar"
 },
 "luckydog": {
@@ -361,12 +361,12 @@
 },
 "buckinghamwindsordrop": {
 "first": "2026-11-24",
-"last": "2026-11-22",
-"subject": "Buckingham Windsor Drop Car"
+"last": "2026-11-25",
+"subject": "Buckingham Windsor Drop"
 },
 "theminleonida": {
 "first": "2026-11-24",
-"last": "2026-11-25",
+"last": "2026-11-26",
 "subject": "Them in Leonida"
 },
 "patriotcat": {
@@ -411,7 +411,7 @@
 },
 "picciafuria": {
 "first": "2026-11-24",
-"last": "2026-11-22",
+"last": "2026-11-25",
 "subject": "Piccia Furia Supercar"
 },
 "cutofftool": {
@@ -441,7 +441,7 @@
 },
 "gellhorntourists": {
 "first": "2026-11-24",
-"last": "2026-11-19",
+"last": "2026-11-23",
 "subject": "Gellhorn's Tourists"
 },
 "averypawnshopsafecode": {
@@ -461,7 +461,7 @@
 },
 "transgressorsforwyman": {
 "first": "2026-11-24",
-"last": "2026-11-21",
+"last": "2026-11-25",
 "subject": "Transgressors for Wyman"
 },
 "riatasforwyman": {
@@ -497,7 +497,7 @@
 "andopensafe": {
 "first": "2026-11-24",
 "last": "2026-11-21",
-"subject": "and open the safe"
+"subject": "and Open the Safe"
 },
 "tomcruisefromcollateral": {
 "first": "2026-11-24",
@@ -541,8 +541,8 @@
 },
 "gallivanterballerstd": {
 "first": "2026-11-24",
-"last": "2026-11-22",
-"subject": "Gallivanter Baller ST-D Car"
+"last": "2026-11-25",
+"subject": "- Gallivanter Baller ST-D"
 },
 "skunkapeeffigytree": {
 "first": "2026-11-24",
@@ -566,8 +566,8 @@
 },
 "inveterocoquetted10": {
 "first": "2026-11-24",
-"last": "2026-11-23",
-"subject": "Invetero Coquette D10 Supercar"
+"last": "2026-11-25",
+"subject": "Invetero Coquette D10"
 },
 "fastest": {
 "first": "2026-11-24",
@@ -586,7 +586,7 @@
 },
 "finalchapterbikerhideoutrobberykeyvaluable": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Final Chapter Biker Hideout Robbery Key Valuable"
 },
 "uniqueweapons": {
@@ -726,7 +726,7 @@
 },
 "laptopinboobieapartment": {
 "first": "2026-11-24",
-"last": "2026-11-21",
+"last": "2026-11-24",
 "subject": "laptop in Boobie's apartment"
 },
 "andentercheats": {
@@ -821,7 +821,7 @@
 },
 "satan": {
 "first": "2026-11-24",
-"last": "2026-11-23",
+"last": "2026-11-25",
 "subject": "Satan"
 },
 "trueending": {
@@ -851,8 +851,8 @@
 },
 "randy": {
 "first": "2026-11-24",
-"last": "2026-11-20",
-"subject": "Randy vehicle"
+"last": "2026-11-25",
+"subject": "Randy's Car"
 },
 "prologuemission": {
 "first": "2026-11-24",
@@ -976,7 +976,7 @@
 },
 "redhulk": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "subject": "Red Hulk"
 },
 "tinyarthurmorgantoy": {
@@ -1022,11 +1022,11 @@
 "tommyvercettishirtandbike": {
 "first": "2026-11-24",
 "last": "2026-11-24",
-"subject": "Tommy Vercetti's Shirt and Bike"
+"subject": "Tommy Vercetti's Shirt And Bike"
 },
 "mosesmissions": {
 "first": "2026-11-24",
-"last": "2026-11-19",
+"last": "2026-11-23",
 "subject": "Moses Missions"
 },
 "riff": {
@@ -1066,7 +1066,7 @@
 },
 "mask": {
 "first": "2026-11-24",
-"last": "2026-11-21",
+"last": "2026-11-25",
 "subject": "mask"
 },
 "paulwalker1995fastandfuriousmitsubishi": {
@@ -1111,17 +1111,17 @@
 },
 "brooksboatworksrobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Brooks Boatworks Robbery Key Valuables"
 },
 "lacascaramotelrobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "La Cascara Motel Robbery Key Valuables"
 },
 "pawnstorerobberylootsecrets": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Pawn Store Robbery Loot & Secrets"
 },
 "junewarehouserobberykeyvaluables": {
@@ -1136,22 +1136,22 @@
 },
 "smalljewelrystoreheistlootsecrets": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Small Jewelry Store Heist Loot & Secrets"
 },
 "kingpinbowlingalleyrobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Kingpin Bowling Alley Robbery Key Valuables"
 },
 "largejewelrystoreheistlootsecrets": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Large Jewelry Store Heist Loot & Secrets"
 },
 "chatfieldstoragelogisticsrobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-22",
+"last": "2026-11-26",
 "subject": "Chatfield Storage & Logistics Robbery Key Valuables"
 },
 "sabershippingfacilityrobberykeyvaluables": {
@@ -1161,32 +1161,32 @@
 },
 "slatortowningincrobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-23",
+"last": "2026-11-26",
 "subject": "Slator Towning Inc Robbery Key Valuables"
 },
 "mediumjewelrystoreheistlootsecrets": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Medium Jewelry Store Heist Loot & Secrets"
 },
 "kamardevoncommunitycenterrobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-22",
+"last": "2026-11-26",
 "subject": "Kamar Devon Community Center Robbery Key Valuables"
 },
 "janjakgaragerobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-22",
+"last": "2026-11-26",
 "subject": "Janjak's Garage Robbery Key Valuables"
 },
 "koltstashhouserobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Kolt Stash House Robbery Key Valuables"
 },
 "sabershippingyardrobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Saber Shipping Yard Robbery Key Valuables"
 },
 "illegalgoodsstorerobberykeyvaluables": {
@@ -1196,7 +1196,7 @@
 },
 "casaguardiarobberykeyvaluables": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Casa Guardia Robbery Key Valuables"
 },
 "61cheatcodes": {
@@ -1206,7 +1206,7 @@
 },
 "stripclub": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "subject": "strip club"
 },
 "missionandrewards": {
@@ -1231,7 +1231,7 @@
 },
 "peeweesbillboard": {
 "first": "2026-11-24",
-"last": "2026-11-22",
+"last": "2026-11-25",
 "subject": "Peewees Billboard"
 },
 "1010mural": {
@@ -1326,7 +1326,7 @@
 },
 "missingpersons": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Missing Persons"
 },
 "biggestseries": {
@@ -1356,8 +1356,8 @@
 },
 "fence": {
 "first": "2026-11-24",
-"last": "2026-11-19",
-"subject": "Fence"
+"last": "2026-11-25",
+"subject": "fence"
 },
 "gunnutsms01sniperrifleearly": {
 "first": "2026-11-24",
@@ -1646,7 +1646,7 @@
 },
 "mario": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "subject": "Mario"
 },
 "2radiostationssniperoflaperle": {
@@ -1711,7 +1711,7 @@
 },
 "buckinghamjubilee": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "subject": "Buckingham Jubilee"
 },
 "pfistercomets2": {
@@ -1721,7 +1721,7 @@
 },
 "pfisterneon": {
 "first": "2026-11-24",
-"last": "2026-11-24",
+"last": "2026-11-26",
 "subject": "Pfister Neon"
 },
 "bravadobisondodgeram1500": {
@@ -1821,8 +1821,8 @@
 },
 "vicecityportal": {
 "first": "2026-11-24",
-"last": "2026-11-23",
-"subject": "—  SECRET VICE CITY PORTAL"
+"last": "2026-11-25",
+"subject": "Vice City Portal"
 },
 "permanentstaminaincrease": {
 "first": "2026-11-24",
@@ -1881,7 +1881,7 @@
 },
 "marioandluigihats": {
 "first": "2026-11-25",
-"last": "2026-11-24",
+"last": "2026-11-25",
 "subject": "Mario and Luigi hats"
 },
 "theresupermario": {
@@ -2387,7 +2387,7 @@
 "kodakblackradiostation": {
 "first": "2026-11-25",
 "last": "2026-11-25",
-"subject": "KODAK BLACK'S Secret Radio Station"
+"subject": "Kodak Black's Radio Station"
 },
 "onyourpcfullguide": {
 "first": "2026-11-25",
@@ -2511,7 +2511,747 @@
 },
 "hurricaneweather": {
 "first": "2026-11-25",
+"last": "2026-11-25",
+"subject": "hurricane weather"
+},
+"friendsmg": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Friend SMG"
+},
+"tmntteenagemutantninjaturtles": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "TMNT Easter Egg  —  Teenage Mutant Ninja Turtles"
+},
+"jetskidoganddogisland": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Jet Ski Dog and Dog Island"
+},
+"andescapehydeisland": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "and escape Hyde Island"
+},
+"tommyvercetti": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Tommy Vercetti"
+},
+"timetravel": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "time travel"
+},
+"xmen": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "X-Men"
+},
+"silenthill": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Silent Hill"
+},
+"timeportal": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Time Portal"
+},
+"dextermorgan": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Dexter Morgan"
+},
+"threefreerocketlaunchersearlygame": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Three Free Rocket Launchers Early Game"
+},
+"vicecityretro": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Vice City Retro"
+},
+"discoversmindblowing": {
+"first": "2026-11-26",
+"last": "2026-11-23",
+"subject": "Discovers Mind-Blowing"
+},
+"vercettithroughvicecity": {
+"first": "2026-11-26",
 "last": "2026-11-24",
-"subject": "HURRICANE WEATHER"
+"subject": "Vercetti Outfit Through Vice City"
+},
+"rollsroycesuv": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Rolls-Royce SUV"
+},
+"randysuv": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Randy's SUV"
+},
+"brianoconnermitsubishieclipseclone": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Brian O'Conner's Mitsubishi Eclipse clone"
+},
+"presidentrussobunkers": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "President Russo's Bunkers"
+},
+"alienfrenchie": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Alien Frenchie"
+},
+"rickrossmansioningrandtheftauto": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Rick Ross' Mansion in 'Grand Theft Auto VI"
+},
+"completetractorrevengeencounter": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "& Complete Tractor Revenge Encounter"
+},
+"buntosaurusbat": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Buntosaurus Bat"
+},
+"andusekeycloner": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "and use the Key Cloner"
+},
+"equiparmor": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "& Equip Armor"
+},
+"serialkillerinmissingpersons": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Serial Killer In \"Missing Persons"
+},
+"fishingshackrobberykeyvaluables": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Fishing Shack Robbery Key Valuables"
+},
+"auntieplaceandgetvanessagrowler": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Auntie's Place and get Vanessa's Growler"
+},
+"riata": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "Riata"
+},
+"alienswip": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Aliens (WIP)"
+},
+"hunting": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Hunting"
+},
+"andcompletesunriservparkillegaloperation": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "and Complete Sunrise RV Park Illegal Operation"
+},
+"arcadegamehowtoplay": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "Arcade Game — How To Play &"
+},
+"hurricaneweatherin": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Hurricane Weather In 'GTA 6"
+},
+"pegassisplatteredvitello": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Pegassi Splattered Vitello"
+},
+"themandfirst": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Them and the First"
+},
+"themandfirstknown": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "them, and the first known"
+},
+"andcompletekingpinbowlingalley": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "and Complete Kingpin Bowling Alley"
+},
+"mambagt": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "Mamba GT Car"
+},
+"pegassimojitotempesta": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Pegassi Mojito Tempesta"
+},
+"dantepegassivitello": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Dante's Pegassi Vitello"
+},
+"watsonbaysafehousekeyvaluable": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Watson Bay Safehouse Key Valuable"
+},
+"leonidacarrierwarehousekeyvaluable": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Leonida Carrier Warehouse Key Valuable"
+},
+"uniqueanimalmap": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Unique Animal Map"
+},
+"sunriservparkrobberykeyvaluables": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Sunrise RV Park Robbery Key Valuables"
+},
+"yasmanitruckwithwinch": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "Yasmani's Truck With a Winch"
+},
+"known": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "known"
+},
+"lossantoscorkerscollectiblecard": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Los Santos Corkers Collectible Card"
+},
+"projectrumba": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Project Rumba"
+},
+"cashstash": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Cash Stash"
+},
+"morelegendaryvehiclesandweapons": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "More Legendary Vehicles And Weapons"
+},
+"hurricaneweatherandwhathappensduringstorm": {
+"first": "2026-11-26",
+"last": "2026-11-23",
+"subject": "Hurricane Weather and What Happens During the Storm"
+},
+"boat": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Boat"
+},
+"alienquestline": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Alien Questline"
+},
+"impoundedcarsback": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Impounded Cars Back"
+},
+"ultimateeditionexclusivedlcitemsandrewards": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Ultimate Edition Exclusive DLC Items And Rewards"
+},
+"goodending": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Good Ending"
+},
+"couchpotatomustang357revolver": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Couch Potato Mustang .357 revolver"
+},
+"noflusherssidemission": {
+"first": "2026-11-26",
+"last": "2026-11-21",
+"subject": "No Flushers side mission"
+},
+"catchbiggerfishsidemissioncalchallengetrophy": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Catch a Bigger Fish side mission (Cal's challenge trophy)"
+},
+"puffpuffpasssidemission": {
+"first": "2026-11-26",
+"last": "2026-11-23",
+"subject": "Puff Puff Pass side mission"
+},
+"cocaineunderwater": {
+"first": "2026-11-26",
+"last": "2026-11-22",
+"subject": "Cocaine Underwater"
+},
+"hometownheroessidemission": {
+"first": "2026-11-26",
+"last": "2026-11-23",
+"subject": "Hometown Heroes side mission"
+},
+"spinonthissidemissionshutdownlabs": {
+"first": "2026-11-26",
+"last": "2026-11-23",
+"subject": "Spin On This side mission (Shut down the Labs)"
+},
+"pickupshaynasidemission": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Pick up Shayna side mission"
+},
+"statusautoimports": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Status Auto Imports"
+},
+"pegassivalianttempesta": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Pegassi Valiant Tempesta"
+},
+"discoverdexter": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Discover Dexter"
+},
+"wrecksoftwoclassiccars": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Wrecks of Two Classic Cars"
+},
+"horror": {
+"first": "2026-11-26",
+"last": "2026-11-23",
+"subject": "Horror"
+},
+"hoop": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Hoop"
+},
+"vapidstanier55": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Vapid Stanier '55"
+},
+"baddrivermission": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Bad Driver! mission"
+},
+"deliverymethodmission": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Delivery Method mission"
+},
+"coffeebreakmission": {
+"first": "2026-11-26",
+"last": "2026-11-21",
+"subject": "Coffee Break mission"
+},
+"meethedersmission": {
+"first": "2026-11-26",
+"last": "2026-11-22",
+"subject": "Meet the Heders mission"
+},
+"childplaymission": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Child's Play mission"
+},
+"findlostdrugsmission": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Find the Lost Drugs mission"
+},
+"casinosmap": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "Casinos & Map"
+},
+"progenhoneycombemerus": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Progen Honeycomb Emerus"
+},
+"apartamentodedexter": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "apartamento de Dexter"
+},
+"os7": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Os 7"
+},
+"todosloscochesdelalistadedeseosderandy": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "todos los coches de la Lista de Deseos de Randy"
+},
+"racechallengesracetrack": {
+"first": "2026-11-26",
+"last": "2026-11-19",
+"subject": "Race Challenges & Racetrack"
+},
+"daveandbeelzebubforsickbossfight": {
+"first": "2026-11-26",
+"last": "2026-11-22",
+"subject": "Dave and Beelzebub for a sick boss fight"
+},
+"winchedtostealatmmachines": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "winched vehicle to steal ATM machines"
+},
+"pegassiinfernusforrandy": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Pegassi Infernus for Randy"
+},
+"abductedandfindaliens": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "abducted and find aliens"
+},
+"schafterv12forraul": {
+"first": "2026-11-26",
+"last": "2026-11-24",
+"subject": "Schafter v12 for Raul"
+},
+"zooanditsexclusiveanimals": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Zoo And Its Exclusive Animals"
+},
+"keyclonerandjackfancycars": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Key Cloner And Jack Fancy Cars"
+},
+"island": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Island"
+},
+"mrmangrove": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Mr. Mangrove"
+},
+"underwaterdiscoveries": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Underwater Discoveries"
+},
+"basejump": {
+"first": "2026-11-26",
+"last": "2026-11-20",
+"subject": "Base Jump"
+},
+"garagenearauntieplacewithpfistergrowler": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "garage near Auntie's Place with Pfister Growler"
+},
+"undergroundfightclub": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "underground fight club"
+},
+"secondnudistpartytikitouchdown": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "second secret nudist party Tiki Touchdown"
+},
+"51010mural": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "5 1010 Mural"
+},
+"kingfishersrobbery": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Kingfishers Robbery"
+},
+"penumbraffnailhavespucci": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Penumbra FF na Ilha Vespucci"
+},
+"aliengenasecompletarmissoderesgatesecreta": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "alienígenas e completar a missão de resgate secreta"
+},
+"couchpotatorevolverearly": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "Couch Potato Revolver EARLY"
+},
+"progenemerus": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "PROGEN EMERUS"
+},
+"inflatableflamingo": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "INFLATABLE FLAMINGO"
+},
+"spacedebris": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "SPACE DEBRIS"
+},
+"infiniteammo": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "INFINITE AMMO"
+},
+"truthisouttheretrophy": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "TRUTH IS OUT THERE Trophy"
+},
+"36legendsofratface": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "36 Legends of Ratface"
+},
+"12bmbackyardwrestling": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "12 B.A.M. Backyard Wrestling"
+},
+"24libertycitywrath": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Liberty City Wrath"
+},
+"36edcomicsuniverse": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "36 ED Comics Universe"
+},
+"36rightwingamericahero": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "36 Right Wing —  America's Hero"
+},
+"24americanexttophooker": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 America's Next Top Hooker"
+},
+"30vicecityclubdefutbol": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "30 Vice City Club de Futbol"
+},
+"24lossantospounders": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Los Santos Pounders"
+},
+"24vicecitymanatees": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Vice City Manatees"
+},
+"24libertycitypenetrators": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Liberty City Penetrators"
+},
+"24lossantospanic": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Los Santos Panic"
+},
+"24vicecitynarcos": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Vice City Narcos"
+},
+"24libertycityswingers": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Liberty City Swingers"
+},
+"24vicecityflamingos": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Vice City Flamingos"
+},
+"24lossantoscorkers": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "24 Los Santos Corkers"
+},
+"34luxurywatch": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "34 LUXURY WATCH"
+},
+"fastestsportbike": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "FASTEST SPORT BIKE"
+},
+"raremotorcycles": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "RARE MOTORCYCLES"
+},
+"lamborghinigallardo": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "LAMBORGHINI GALLARDO"
+},
+"grotticarbonizzare": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "- Grotti Carbonizzare"
+},
+"benefactordubsta": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "- Benefactor Dubsta"
+},
+"ubermachtcypher": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "- Ubermacht Cypher"
+},
+"36nine1ninecollectablecards": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "36 NINE1NINE COLLECTABLE CARDS"
+},
+"advancedtrackerremoval": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Advanced Tracker Removal"
+},
+"rarecandyfish": {
+"first": "2026-11-26",
+"last": "2026-11-25",
+"subject": "RARE Candy Fish"
+},
+"1932fordhotrodvapid32hustler": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "1932 Ford Hot Rod (Vapid '32 Hustler)"
+},
+"vapiddominatorfordmustanggtrace": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Vapid Dominator (Ford Mustang GT) Race Car"
+},
+"19bravadobuffalododgechargerrace": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "'19 Bravado Buffalo (Dodge Charger) Race Car"
+},
+"albanyvstrcadillacctsvrace": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Albany V-STR (Cadillac CTS-V) Race Car"
+},
+"vapiddominatoraspfordmustangsvtcobrarace": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Vapid Dominator ASP (Ford Mustang SVT Cobra) Race Car"
+},
+"2007dodgechargerrace": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "2007 Dodge Charger Race Car"
+},
+"mercedesamgrace": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Mercedes-AMG Race Car"
+},
+"1977pontiacfirebird": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "1977 Pontiac Firebird"
+},
+"vapiddarklingdominatorfordmustang": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Vapid Darkling Dominator (Ford Mustang)"
+},
+"rarecars": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "RARE CARS"
+},
+"freeadrenaline": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "FREE Adrenaline"
+},
+"freegascan": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "FREE Gas Can"
+},
+"pinkrangeroverpinksunsetballer": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Pink Range Rover (Pink Sunset Baller)"
+},
+"albany65buccaneerbuickriviera": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Albany '65 Buccaneer (Buick Riviera) Car"
+},
+"policelamborghinipegassitempesta": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "Police Lamborghini (Pegassi Tempesta)"
+},
+"findingpresidentrussobunkerfreetank": {
+"first": "2026-11-26",
+"last": "2026-11-26",
+"subject": "- Finding President Russo's Secret Bunker & Free Tank"
 }
 }

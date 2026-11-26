@@ -1,8 +1,31 @@
 {
- "ts": "2026-11-25T07:05:01Z",
+ "ts": "2026-11-26T07:03:35Z",
  "source": "gta.wiki {{LeonidaDayMap}}",
- "n_pages": 70,
+ "n_pages": 75,
  "groups": [
+  {
+   "group": "places",
+   "n": 56,
+   "n_new_today": 33,
+   "n_on_map": 7,
+   "pages": [
+    "3D Universe Portal",
+    "City of Capri Fire Rescue Station 20",
+    "Kensinger Tower",
+    "Key Lento Fire Department Station",
+    "La Cascara Motel",
+    "Madewell Lumber",
+    "Port Gellhorn Station Garage",
+    "Splattered House",
+    "St. Lucia Lighthouse",
+    "Still Waters",
+    "Strangers & Freaks in GTA VI",
+    "The Grand Turkey of Capri",
+    "Watson Bay Volunteer Fire Rescue Station",
+    "Wild Hog Airfield",
+    "Wilma White Center"
+   ]
+  },
   {
    "group": "smash",
    "n": 35,
@@ -32,19 +55,10 @@
    ]
   },
   {
-   "group": "strangers",
-   "n": 30,
-   "n_new_today": 0,
-   "n_on_map": 0,
-   "pages": [
-    "Strangers & Freaks"
-   ]
-  },
-  {
    "group": "guns",
    "n": 26,
    "n_new_today": 0,
-   "n_on_map": 3,
+   "n_on_map": 5,
    "pages": [
     "Barrage Gun Supply",
     "Biff's Gun Supply",
@@ -56,35 +70,14 @@
     "Guns Aplenty!",
     "Hamlet Traders",
     "Iron & Oak",
-    "Jackson Firearms",
-    "Martez Empeños",
     "Port Gellhorn Pawn & Gun",
     "Weapon Stores in GTA VI"
    ]
   },
   {
-   "group": "places",
-   "n": 23,
-   "n_new_today": 3,
-   "n_on_map": 6,
-   "pages": [
-    "3D Universe Portal",
-    "City of Capri Fire Rescue Station 20",
-    "Kensinger Tower",
-    "La Cascara Motel",
-    "Madewell Lumber",
-    "Port Gellhorn Station Garage",
-    "Splattered House",
-    "St. Lucia Lighthouse",
-    "Still Waters",
-    "Wild Hog Airfield",
-    "Wilma White Center"
-   ]
-  },
-  {
    "group": "areas",
-   "n": 15,
-   "n_new_today": 0,
+   "n": 17,
+   "n_new_today": 2,
    "n_on_map": 0,
    "pages": [
     "Abismo Key",
@@ -96,8 +89,10 @@
     "Gambit Bay",
     "Grayson",
     "Hamlet",
+    "Key Lento",
     "Millport",
     "Port Gellhorn",
+    "Port Vice City",
     "Tortoise Lake",
     "Vice Beach",
     "Vice City",
@@ -371,7 +366,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Ambrosia"
   },
   {
@@ -1049,6 +1044,80 @@
    "url": "https://gta.wiki/wiki/Hamlet"
   },
   {
+   "id": "1fcacedda24c",
+   "group": "areas",
+   "label": "Key Lento",
+   "page": "Key Lento",
+   "section": "",
+   "x": -2641,
+   "y": -5948,
+   "shape": "polygon",
+   "poly": [
+    [
+     -2200.0,
+     -5029.0
+    ],
+    [
+     -1756.0,
+     -5149.0
+    ],
+    [
+     -1788.0,
+     -5520.0
+    ],
+    [
+     -2416.0,
+     -6316.0
+    ],
+    [
+     -2843.0,
+     -6616.0
+    ],
+    [
+     -3248.0,
+     -6856.0
+    ],
+    [
+     -3504.0,
+     -6888.0
+    ],
+    [
+     -3536.0,
+     -6762.0
+    ],
+    [
+     -3361.0,
+     -6550.0
+    ],
+    [
+     -2816.0,
+     -6094.0
+    ],
+    [
+     -2646.0,
+     -5717.0
+    ],
+    [
+     -2317.0,
+     -5399.0
+    ],
+    [
+     -2318.0,
+     -5226.0
+    ],
+    [
+     -2224.0,
+     -5157.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Key_Lento"
+  },
+  {
    "id": "c594ece1186b",
    "group": "areas",
    "label": "Millport",
@@ -1091,7 +1160,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-20",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Millport"
   },
   {
@@ -1259,6 +1328,172 @@
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-24",
    "url": "https://gta.wiki/wiki/Port_Gellhorn"
+  },
+  {
+   "id": "d24d4475637f",
+   "group": "areas",
+   "label": "Port Vice City",
+   "page": "Port Vice City",
+   "section": "",
+   "x": 627,
+   "y": -625,
+   "shape": "polygon",
+   "poly": [
+    [
+     127.0,
+     -254.0
+    ],
+    [
+     741.0,
+     -417.0
+    ],
+    [
+     798.0,
+     -384.0
+    ],
+    [
+     799.0,
+     -246.0
+    ],
+    [
+     825.0,
+     -188.0
+    ],
+    [
+     1024.0,
+     -191.0
+    ],
+    [
+     1522.0,
+     -602.0
+    ],
+    [
+     1534.0,
+     -666.0
+    ],
+    [
+     1551.0,
+     -673.0
+    ],
+    [
+     1557.0,
+     -684.0
+    ],
+    [
+     1557.0,
+     -700.0
+    ],
+    [
+     1549.0,
+     -714.0
+    ],
+    [
+     1498.0,
+     -728.0
+    ],
+    [
+     1362.0,
+     -749.0
+    ],
+    [
+     855.0,
+     -855.0
+    ],
+    [
+     848.0,
+     -836.0
+    ],
+    [
+     744.0,
+     -859.0
+    ],
+    [
+     750.0,
+     -881.0
+    ],
+    [
+     712.0,
+     -889.0
+    ],
+    [
+     706.0,
+     -867.0
+    ],
+    [
+     684.0,
+     -871.0
+    ],
+    [
+     250.0,
+     -748.0
+    ],
+    [
+     232.0,
+     -681.0
+    ],
+    [
+     186.0,
+     -692.0
+    ],
+    [
+     180.0,
+     -704.0
+    ],
+    [
+     106.0,
+     -666.0
+    ],
+    [
+     105.0,
+     -657.0
+    ],
+    [
+     99.0,
+     -658.0
+    ],
+    [
+     93.0,
+     -656.0
+    ],
+    [
+     29.0,
+     -617.0
+    ],
+    [
+     9.0,
+     -600.0
+    ],
+    [
+     9.0,
+     -582.0
+    ],
+    [
+     10.0,
+     -569.0
+    ],
+    [
+     11.0,
+     -555.0
+    ],
+    [
+     19.0,
+     -549.0
+    ],
+    [
+     39.0,
+     -471.0
+    ],
+    [
+     66.0,
+     -477.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Port_Vice_City"
   },
   {
    "id": "6457dc8cae53",
@@ -1547,7 +1782,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-23",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Tortoise_Lake"
   },
   {
@@ -1629,7 +1864,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-21",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Vice_Beach"
   },
   {
@@ -2319,9 +2554,9 @@
    "x": -6750.0,
    "y": 4031.0,
    "fact": "",
-   "on_map": false,
+   "on_map": true,
    "near": [
-    ""
+    "Gellhorn Outfitters"
    ],
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-20",
@@ -2382,8 +2617,8 @@
    "id": "98794c4bc23f",
    "group": "guns",
    "label": "Jackson Firearms",
-   "page": "Jackson Firearms",
-   "section": "",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
    "x": -1721.0,
    "y": 427.0,
    "fact": "",
@@ -2393,14 +2628,14 @@
    ],
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-20",
-   "url": "https://gta.wiki/wiki/Jackson_Firearms"
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
   },
   {
    "id": "3e91eb5dbc7b",
    "group": "guns",
    "label": "Martez Empeños",
-   "page": "Martez Empeños",
-   "section": "",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
    "x": -1218.0,
    "y": 144.0,
    "fact": "",
@@ -2410,7 +2645,7 @@
    ],
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-20",
-   "url": "https://gta.wiki/wiki/Martez_Empe%C3%B1os"
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
   },
   {
    "id": "fb2bf85bcf02",
@@ -2623,9 +2858,9 @@
    "x": -6761.0,
    "y": -99.0,
    "fact": "",
-   "on_map": false,
+   "on_map": true,
    "near": [
-    ""
+    "Woodhatch Gunsmith"
    ],
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-20",
@@ -2800,6 +3035,51 @@
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
+   "id": "2b67b64b8ba9",
+   "group": "places",
+   "label": "Advanced Skunk Apeonomics",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kirk (Part 2)",
+   "x": -3186.0,
+   "y": -5207.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "3f3dfcfba97f",
+   "group": "places",
+   "label": "Aerial Application",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kyle McKittrick",
+   "x": -4042.0,
+   "y": 4071.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "2e4e72417464",
+   "group": "places",
+   "label": "Attend Eddie Acosta's Party",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Chapter 4",
+   "x": 2054.0,
+   "y": 1610.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
    "id": "7e20025e3c0b",
    "group": "places",
    "label": "B",
@@ -2813,6 +3093,70 @@
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-24",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
+  },
+  {
+   "id": "7560a4eeb942",
+   "group": "places",
+   "label": "Brother To Brother",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Yago Jiménez",
+   "x": -1153.0,
+   "y": 15.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "El Rincón Notorio"
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "849a70a9ca63",
+   "group": "places",
+   "label": "Buddy?",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kyle McKittrick",
+   "x": -3989.0,
+   "y": 4046.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "e849034a5814",
+   "group": "places",
+   "label": "Bumper to Bumper",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Yago Jiménez",
+   "x": -1180.0,
+   "y": 15.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "El Rincón Notorio"
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "009b751a447e",
+   "group": "places",
+   "label": "Catch a Bigger Fish",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Chapter 1",
+   "x": -3848.0,
+   "y": -5802.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
    "id": "4d071cd0ec55",
@@ -2830,6 +3174,40 @@
    "first_seen": "2026-11-25",
    "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/City_of_Capri_Fire_Rescue_Station_20"
+  },
+  {
+   "id": "e9591750ab1a",
+   "group": "places",
+   "label": "Climbing the Cellerichain",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Chapter 3",
+   "x": -1417.0,
+   "y": 2988.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "86496ec77b2b",
+   "group": "places",
+   "label": "Collect Moses' Gift",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Moses Watkins",
+   "x": -6454.0,
+   "y": 3260.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
    "id": "269804166173",
@@ -2866,6 +3244,70 @@
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
+   "id": "d50afb350c81",
+   "group": "places",
+   "label": "Get Shirley's Rum",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Shirley Baker",
+   "x": -2299.0,
+   "y": -5537.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "\"House B\""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "d9376267d5ea",
+   "group": "places",
+   "label": "Hazardous Materials",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kyle McKittrick",
+   "x": -1280.0,
+   "y": 3718.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "df915a63ce11",
+   "group": "places",
+   "label": "Hometown Heroes",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Billy",
+   "x": -3780.0,
+   "y": 4921.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "a241d8c12798",
+   "group": "places",
+   "label": "Join a Street Race",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Yago Jiménez",
+   "x": -1325.0,
+   "y": -419.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
    "id": "4f09d989fbad",
    "group": "places",
    "label": "Kensinger Tower",
@@ -2879,8 +3321,25 @@
     "Kensinger Tower"
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-22",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Kensinger_Tower"
+  },
+  {
+   "id": "98b03960dfab",
+   "group": "places",
+   "label": "Key Lento Fire Department Station",
+   "page": "Key Lento Fire Department Station",
+   "section": "",
+   "x": -1969.0,
+   "y": -5223.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Key_Lento_Fire_Department_Station"
   },
   {
    "id": "601b8e3c7ace",
@@ -2934,6 +3393,21 @@
    "url": "https://gta.wiki/wiki/Madewell_Lumber"
   },
   {
+   "id": "02a126e96ea6",
+   "group": "places",
+   "label": "Mall Rats",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Billy",
+   "x": 1831.0,
+   "y": -91.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
    "id": "852aec42098f",
    "group": "places",
    "label": "Me",
@@ -2968,6 +3442,21 @@
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
+   "id": "e4857a58bc8e",
+   "group": "places",
+   "label": "Peach!",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Chapter 3",
+   "x": -1190.0,
+   "y": 2712.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
    "id": "433fc249da12",
    "group": "places",
    "label": "Port Gellhorn Station Garage",
@@ -2981,8 +3470,57 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-21",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Port_Gellhorn_Station_Garage"
+  },
+  {
+   "id": "46d8f2234044",
+   "group": "places",
+   "label": "Puff Puff Pass",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Chapter 3",
+   "x": -993.0,
+   "y": 2933.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "c7175c7b39d4",
+   "group": "places",
+   "label": "Race Against Yago (missable)",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Yago Jiménez",
+   "x": -1325.0,
+   "y": -419.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "0e80932ba9be",
+   "group": "places",
+   "label": "Read the Label",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Chapter 3",
+   "x": -491.0,
+   "y": 2293.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
    "id": "e100f267dd0f",
@@ -3000,6 +3538,81 @@
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
+   "id": "76588843baa6",
+   "group": "places",
+   "label": "Search for Tree Effigies",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kirk (Part 1)",
+   "x": -3611.0,
+   "y": -3710.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "15b9a57800be",
+   "group": "places",
+   "label": "Search for Tree Effigies",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kirk (Part 1)",
+   "x": -3814.0,
+   "y": -3834.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "c954440376ad",
+   "group": "places",
+   "label": "Search for Tree Effigies",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kirk (Part 1)",
+   "x": -4011.0,
+   "y": -3584.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "6b9156fcf92f",
+   "group": "places",
+   "label": "Skunk Apeology 101",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Kirk (Part 1)",
+   "x": -3824.0,
+   "y": -3409.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "cfbcb8368010",
+   "group": "places",
+   "label": "Spin On This",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Tyrone Russo",
+   "x": -5159.0,
+   "y": 6902.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
    "id": "ab79b03d3f67",
    "group": "places",
    "label": "Splattered House",
@@ -3008,9 +3621,9 @@
    "x": -7193.0,
    "y": 611.0,
    "fact": "",
-   "on_map": false,
+   "on_map": true,
    "near": [
-    ""
+    "Splattered House"
    ],
    "first_seen": "2026-11-25",
    "page_rev": "2026-11-25",
@@ -3045,8 +3658,25 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-22",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/St._Lucia_Lighthouse"
+  },
+  {
+   "id": "69f7a4516561",
+   "group": "places",
+   "label": "Steal the Scooter",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Shirley Baker",
+   "x": -2299.0,
+   "y": -5537.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    "\"House B\""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
    "id": "80b4d3b10059",
@@ -3062,8 +3692,132 @@
     "Still Waters"
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-23",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Still_Waters"
+  },
+  {
+   "id": "d5ea52cf5331",
+   "group": "places",
+   "label": "The Grand Turkey of Capri",
+   "page": "The Grand Turkey of Capri",
+   "section": "",
+   "x": -6630.0,
+   "y": 394.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/The_Grand_Turkey_of_Capri"
+  },
+  {
+   "id": "37fb13204674",
+   "group": "places",
+   "label": "The Impaler",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Billy",
+   "x": -2870.0,
+   "y": 4261.0,
+   "fact": "Jason & Lucia (after replying to Wyman's message after Billy's phone call)",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "870d46d99afb",
+   "group": "places",
+   "label": "The Last Mile: Backseat Pilot",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Pilot Pete",
+   "x": -784.0,
+   "y": 4379.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "9495ba65b4bd",
+   "group": "places",
+   "label": "The Last Mile: Passing the Torch",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Pilot Pete",
+   "x": 2059.0,
+   "y": 1605.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "0310cddfb7f9",
+   "group": "places",
+   "label": "Thrillbillies",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Billy",
+   "x": -4823.0,
+   "y": 4341.0,
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "4302c6c53c2a",
+   "group": "places",
+   "label": "Twist Wrist, Smash, Grab",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Billy",
+   "x": -6402.0,
+   "y": 3927.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "6220484789bf",
+   "group": "places",
+   "label": "Veteran Hunted",
+   "page": "Strangers & Freaks in GTA VI",
+   "section": "Bret Vogel",
+   "x": -2788.0,
+   "y": 7374.0,
+   "fact": "Jason only (after Coffee Break, while accumulating $15,000 for Prepare for Vice City)",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
+  },
+  {
+   "id": "8fecbbc8a3d0",
+   "group": "places",
+   "label": "Watson Bay Volunteer Fire Rescue Station",
+   "page": "Watson Bay Volunteer Fire Rescue Station",
+   "section": "",
+   "x": -5019.0,
+   "y": -3392.0,
+   "fact": "",
+   "on_map": false,
+   "near": [
+    ""
+   ],
+   "first_seen": "2026-11-26",
+   "page_rev": "2026-11-25",
+   "url": "https://gta.wiki/wiki/Watson_Bay_Volunteer_Fire_Rescue_Station"
   },
   {
    "id": "8bd22aae5fcd",
@@ -3077,7 +3831,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-21",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Wild_Hog_Airfield"
   },
   {
@@ -3094,7 +3848,7 @@
     "Wilma White Center"
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-22",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Wilma_White_Center"
   },
   {
@@ -3154,7 +3908,9 @@
    "y": 1312.0,
    "fact": "",
    "on_map": false,
-   "near": [],
+   "near": [
+    ""
+   ],
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-21",
    "url": "https://gta.wiki/wiki/Unique_Playlists"
@@ -3823,476 +4579,6 @@
    "url": "https://gta.wiki/wiki/Smash_%27n%27_Grabs"
   },
   {
-   "id": "21eb7a426053",
-   "group": "strangers",
-   "label": "Advanced Skunk Apeonomics",
-   "page": "Strangers & Freaks",
-   "section": "Kirk (Part 2)",
-   "x": -3186.0,
-   "y": -5207.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "bdc4df60f545",
-   "group": "strangers",
-   "label": "Aerial Application",
-   "page": "Strangers & Freaks",
-   "section": "Kyle McKittrick",
-   "x": -4042.0,
-   "y": 4071.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "b4d59966bc9e",
-   "group": "strangers",
-   "label": "Attend Eddie Acosta's Party",
-   "page": "Strangers & Freaks",
-   "section": "Chapter 4",
-   "x": 2054.0,
-   "y": 1610.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "e4d8a1d01a63",
-   "group": "strangers",
-   "label": "Brother To Brother",
-   "page": "Strangers & Freaks",
-   "section": "Yago Jiménez",
-   "x": -1153.0,
-   "y": 15.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    "El Rincón Notorio"
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "193f230ca9a7",
-   "group": "strangers",
-   "label": "Buddy?",
-   "page": "Strangers & Freaks",
-   "section": "Kyle McKittrick",
-   "x": -3989.0,
-   "y": 4046.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "22bd8d00d42c",
-   "group": "strangers",
-   "label": "Bumper to Bumper",
-   "page": "Strangers & Freaks",
-   "section": "Yago Jiménez",
-   "x": -1180.0,
-   "y": 15.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    "El Rincón Notorio"
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "da689f3fa8e0",
-   "group": "strangers",
-   "label": "Catch a Bigger Fish",
-   "page": "Strangers & Freaks",
-   "section": "Chapter 1",
-   "x": -3848.0,
-   "y": -5802.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "51e9631c71e9",
-   "group": "strangers",
-   "label": "Climbing the Cellerichain",
-   "page": "Strangers & Freaks",
-   "section": "Chapter 3",
-   "x": -1417.0,
-   "y": 2988.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    ""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "8e107d23ef98",
-   "group": "strangers",
-   "label": "Collect Moses' Gift",
-   "page": "Strangers & Freaks",
-   "section": "Moses Watkins",
-   "x": -6454.0,
-   "y": 3260.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    ""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "7008c7743cc1",
-   "group": "strangers",
-   "label": "Get Shirley's Rum",
-   "page": "Strangers & Freaks",
-   "section": "Shirley Baker",
-   "x": -2299.0,
-   "y": -5537.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    "\"House B\""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "1207357535fb",
-   "group": "strangers",
-   "label": "Hazardous Materials",
-   "page": "Strangers & Freaks",
-   "section": "Kyle McKittrick",
-   "x": -1280.0,
-   "y": 3718.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "af95f307acf9",
-   "group": "strangers",
-   "label": "Hometown Heroes",
-   "page": "Strangers & Freaks",
-   "section": "Billy",
-   "x": -3780.0,
-   "y": 4921.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "4abb3dc55ea7",
-   "group": "strangers",
-   "label": "Join a Street Race",
-   "page": "Strangers & Freaks",
-   "section": "Yago Jiménez",
-   "x": -1325.0,
-   "y": -419.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    ""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "96445073cfa3",
-   "group": "strangers",
-   "label": "Mall Rats",
-   "page": "Strangers & Freaks",
-   "section": "Billy",
-   "x": 1831.0,
-   "y": -91.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "54f0fba47732",
-   "group": "strangers",
-   "label": "Peach!",
-   "page": "Strangers & Freaks",
-   "section": "Chapter 3",
-   "x": -1190.0,
-   "y": 2712.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "de95c1cf56ea",
-   "group": "strangers",
-   "label": "Puff Puff Pass",
-   "page": "Strangers & Freaks",
-   "section": "Chapter 3",
-   "x": -993.0,
-   "y": 2933.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    ""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "0599ff4d0839",
-   "group": "strangers",
-   "label": "Race Against Yago (missable)",
-   "page": "Strangers & Freaks",
-   "section": "Yago Jiménez",
-   "x": -1325.0,
-   "y": -419.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    ""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "c86aa57bf2f5",
-   "group": "strangers",
-   "label": "Read the Label",
-   "page": "Strangers & Freaks",
-   "section": "Chapter 3",
-   "x": -491.0,
-   "y": 2293.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "e848fa2d1e8f",
-   "group": "strangers",
-   "label": "Search for Tree Effigies",
-   "page": "Strangers & Freaks",
-   "section": "Kirk (Part 1)",
-   "x": -3611.0,
-   "y": -3710.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "6bb98d35f685",
-   "group": "strangers",
-   "label": "Search for Tree Effigies",
-   "page": "Strangers & Freaks",
-   "section": "Kirk (Part 1)",
-   "x": -3814.0,
-   "y": -3834.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "334a9df10b0d",
-   "group": "strangers",
-   "label": "Search for Tree Effigies",
-   "page": "Strangers & Freaks",
-   "section": "Kirk (Part 1)",
-   "x": -4011.0,
-   "y": -3584.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "9a580f8a7d41",
-   "group": "strangers",
-   "label": "Skunk Apeology 101",
-   "page": "Strangers & Freaks",
-   "section": "Kirk (Part 1)",
-   "x": -3824.0,
-   "y": -3409.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "c79b8787f06e",
-   "group": "strangers",
-   "label": "Spin On This",
-   "page": "Strangers & Freaks",
-   "section": "Tyrone Russo",
-   "x": -5159.0,
-   "y": 6902.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "7232df10879e",
-   "group": "strangers",
-   "label": "Steal the Scooter",
-   "page": "Strangers & Freaks",
-   "section": "Shirley Baker",
-   "x": -2299.0,
-   "y": -5537.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    "\"House B\""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "53d88d4e8c3b",
-   "group": "strangers",
-   "label": "The Impaler",
-   "page": "Strangers & Freaks",
-   "section": "Billy",
-   "x": -2870.0,
-   "y": 4261.0,
-   "fact": "Jason & Lucia (after replying to Wyman's message after Billy's phone call)",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "2435573a901e",
-   "group": "strangers",
-   "label": "The Last Mile: Backseat Pilot",
-   "page": "Strangers & Freaks",
-   "section": "Pilot Pete",
-   "x": -784.0,
-   "y": 4379.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "c392fe27cec4",
-   "group": "strangers",
-   "label": "The Last Mile: Passing the Torch",
-   "page": "Strangers & Freaks",
-   "section": "Pilot Pete",
-   "x": 2059.0,
-   "y": 1605.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "6641e8147a1d",
-   "group": "strangers",
-   "label": "Thrillbillies",
-   "page": "Strangers & Freaks",
-   "section": "Billy",
-   "x": -4823.0,
-   "y": 4341.0,
-   "fact": "",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "eb41f25073e0",
-   "group": "strangers",
-   "label": "Twist Wrist, Smash, Grab",
-   "page": "Strangers & Freaks",
-   "section": "Billy",
-   "x": -6402.0,
-   "y": 3927.0,
-   "fact": "",
-   "on_map": false,
-   "near": [
-    ""
-   ],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
-   "id": "fce7f1b604f2",
-   "group": "strangers",
-   "label": "Veteran Hunted",
-   "page": "Strangers & Freaks",
-   "section": "Bret Vogel",
-   "x": -2788.0,
-   "y": 7374.0,
-   "fact": "Jason only (after Coffee Break, while accumulating $15,000 for Prepare for Vice City)",
-   "on_map": false,
-   "near": [],
-   "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
-   "url": "https://gta.wiki/wiki/Strangers_%26_Freaks"
-  },
-  {
    "id": "f17f1877c2a8",
    "group": "vehicles",
    "label": "Bison 900",
@@ -4340,7 +4626,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Blast_%28police%29"
   },
   {
@@ -4355,7 +4641,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Blast_%28police%29"
   },
   {
@@ -4477,7 +4763,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-22",
+   "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/L35P_%28police%29"
   },
   {
@@ -4660,7 +4946,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4675,7 +4961,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4690,7 +4976,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4705,7 +4991,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4720,7 +5006,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4735,7 +5021,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4752,7 +5038,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4769,7 +5055,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4786,7 +5072,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-26",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   }
  ]
