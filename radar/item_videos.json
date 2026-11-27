@@ -1,10 +1,10 @@
 {
- "ts": "2026-11-26",
+ "ts": "2026-11-27",
  "kinds": [
   {
    "kind": "missions",
-   "total": 148,
-   "with_video": 110,
+   "total": 144,
+   "with_video": 120,
    "sample": [
     {
      "item": "Prologue",
@@ -89,7 +89,7 @@
   },
   {
    "kind": "weapons",
-   "total": 70,
+   "total": 69,
    "with_video": 3,
    "sample": [
     {
@@ -128,8 +128,15 @@
   {
    "kind": "eggs",
    "total": 36,
-   "with_video": 0,
-   "sample": []
+   "with_video": 1,
+   "sample": [
+    {
+     "item": "Skunk Ape (Bigfoot)",
+     "title": "GTA 6 - Skunk Ape (Bigfoot) Easter Egg Mission & All Endings (Skunk Apeology 101)",
+     "channel": "Techzamazing",
+     "url": "https://www.youtube.com/watch?v=4SOON1kBdL8"
+    }
+   ]
   },
   {
    "kind": "heists",
@@ -272,23 +279,17 @@
    "channel": "GTA Series Videos",
    "url": "https://www.youtube.com/watch?v=XYMogXWZuUk"
   },
-  "m:buck-me": {
-   "id": "QDgttkhvNGY",
-   "title": "GTA 6 Mission #12 - Buck Me (Chapter 1) [Full Walkthrough - PS5 4K]",
-   "channel": "GTA Series Videos",
-   "url": "https://www.youtube.com/watch?v=QDgttkhvNGY"
-  },
-  "m:down-to-earth": {
-   "id": "zkra3oaa950",
-   "title": "GTA 6 Walkthrough Gameplay Part 4 - DOWN TO EARTH (GRAND THEFT AUTO 6)",
-   "channel": "theRadBrad",
-   "url": "https://www.youtube.com/watch?v=zkra3oaa950"
-  },
   "m:deposit-cash-into-buckme": {
    "id": "q-KmvBY_-qA",
    "title": "#15 GTA 6 - Deposit Cash Into BuckMe (Full Walkthrough)",
    "channel": "Game Time Live",
    "url": "https://www.youtube.com/watch?v=q-KmvBY_-qA"
+  },
+  "m:buck-me": {
+   "id": "QDgttkhvNGY",
+   "title": "GTA 6 Mission #12 - Buck Me (Chapter 1) [Full Walkthrough - PS5 4K]",
+   "channel": "GTA Series Videos",
+   "url": "https://www.youtube.com/watch?v=QDgttkhvNGY"
   },
   "m:save-for-the-future": {
    "id": "w3ZSinDqFok",
@@ -296,17 +297,23 @@
    "channel": "Game Time Live",
    "url": "https://www.youtube.com/watch?v=w3ZSinDqFok"
   },
-  "m:find-the-lost-drugs": {
-   "id": "Q2EfMT6Py_U",
-   "title": "GTA 6 - Find the Lost Drugs Locations Guide (Recreation Area, Burned Houses, Pelican Valley, Thorpe)",
-   "channel": "PowerPyx",
-   "url": "https://www.youtube.com/watch?v=Q2EfMT6Py_U"
+  "m:down-to-earth": {
+   "id": "zkra3oaa950",
+   "title": "GTA 6 Walkthrough Gameplay Part 4 - DOWN TO EARTH (GRAND THEFT AUTO 6)",
+   "channel": "theRadBrad",
+   "url": "https://www.youtube.com/watch?v=zkra3oaa950"
   },
   "m:day-release": {
    "id": "slPlJaZG8ww",
    "title": "GTA 6 Mission #16 - Day Release (Chapter 1) [Full Walkthrough - PS5 4K]",
    "channel": "GTA Series Videos",
    "url": "https://www.youtube.com/watch?v=slPlJaZG8ww"
+  },
+  "m:find-the-lost-drugs": {
+   "id": "Q2EfMT6Py_U",
+   "title": "GTA 6 - Find the Lost Drugs Locations Guide (Recreation Area, Burned Houses, Pelican Valley, Thorpe)",
+   "channel": "PowerPyx",
+   "url": "https://www.youtube.com/watch?v=Q2EfMT6Py_U"
   },
   "m:clear-skies": {
    "id": "HKvWN48ln8A",
@@ -332,17 +339,23 @@
    "channel": "GTA Series Videos",
    "url": "https://www.youtube.com/watch?v=9KwTkHEm28o"
   },
-  "m:donnie-s-lost-drugs": {
-   "id": "GNKOnXHox0g",
-   "title": "GTA 6 - Donnie’s Lost Drugs - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=GNKOnXHox0g"
+  "m:pick-up-groceries": {
+   "id": "frSn4hQJuSk",
+   "title": "GTA 6 - Pick Up Groceries - Full Quest Walkthrough",
+   "channel": "WoW Quests",
+   "url": "https://www.youtube.com/watch?v=frSn4hQJuSk"
   },
   "m:recalibration": {
    "id": "1w11tH5tUVU",
    "title": "GTA 6 Mission #19 - Recalibration (Chapter 1) [Full Walkthrough - PS5 4K]",
    "channel": "GTA Series Videos",
    "url": "https://www.youtube.com/watch?v=1w11tH5tUVU"
+  },
+  "m:donnie-s-lost-drugs": {
+   "id": "GNKOnXHox0g",
+   "title": "GTA 6 - Donnie’s Lost Drugs - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=GNKOnXHox0g"
   },
   "m:tourist-trap": {
    "id": "K24cuLXKr5c",
@@ -434,17 +447,17 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=oXDkJx3bPjU"
   },
-  "m:slam-dunk": {
-   "id": "46hMImFnTPY",
-   "title": "GTA 6 - Slam Dunk (Find Painkillers) - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=46hMImFnTPY"
-  },
   "m:collect-chemicals-for-kyle": {
    "id": "Y5ccyz64IPo",
    "title": "GTA 6 - Collect Chemicals for Kyle - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=Y5ccyz64IPo"
+  },
+  "m:slam-dunk": {
+   "id": "46hMImFnTPY",
+   "title": "GTA 6 - Slam Dunk (Find Painkillers) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=46hMImFnTPY"
   },
   "m:daily-driver": {
    "id": "rvdiXu3rG5k",
@@ -530,17 +543,17 @@
    "channel": "Game Time Live",
    "url": "https://www.youtube.com/watch?v=SixlDJBEHzs"
   },
+  "m:join-a-street-race": {
+   "id": "JNAC3pwfpEI",
+   "title": "GTA 6 - Join a Street Race - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=JNAC3pwfpEI"
+  },
   "m:mami-knows-best": {
    "id": "6xHjVgGM9sE",
    "title": "GTA 6 - Mami Knows Best (Catch Up With Mia) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=6xHjVgGM9sE"
-  },
-  "m:get-your-wheels": {
-   "id": "n_lZP8X1Sac",
-   "title": "GTA 6 How to Finish Get your Wheels Quest Full Guide - Grand Theft Auto VI",
-   "channel": "Horizon Gaming",
-   "url": "https://www.youtube.com/watch?v=n_lZP8X1Sac"
   },
   "m:here-kitty-kitty": {
    "id": "b78Xa-Jlsts",
@@ -548,11 +561,11 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=b78Xa-Jlsts"
   },
-  "m:join-a-street-race": {
-   "id": "JNAC3pwfpEI",
-   "title": "GTA 6 - Join a Street Race - Full Walkthrough",
+  "m:boobie-time": {
+   "id": "-BWqzOICZqQ",
+   "title": "GTA 6 - Boobie Time (Talk to Boobie - Full Walkthrough",
    "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=JNAC3pwfpEI"
+   "url": "https://www.youtube.com/watch?v=-BWqzOICZqQ"
   },
   "m:send-money-to-lorena": {
    "id": "FVDBZUrlYCE",
@@ -560,41 +573,23 @@
    "channel": "ZHUBA",
    "url": "https://www.youtube.com/watch?v=FVDBZUrlYCE"
   },
-  "m:boobie-time": {
-   "id": "-BWqzOICZqQ",
-   "title": "GTA 6 - Boobie Time (Talk to Boobie - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=-BWqzOICZqQ"
-  },
-  "m:buddy": {
-   "id": "ZI3xnyRygWo",
-   "title": "GTA 6 - Buddy - Full Quest Walkthrough",
-   "channel": "WoW Quests",
-   "url": "https://www.youtube.com/watch?v=ZI3xnyRygWo"
-  },
   "m:bumper-to-bumper": {
    "id": "deAU19tjAEY",
    "title": "GTA 6 - Bumper to Bumper (Mentor Yago) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=deAU19tjAEY"
   },
-  "m:send-more-money-to-lorena": {
-   "id": "R-nq2hcylC0",
-   "title": "#51 GTA 6 Story Mode - Send More Money To Lorena (Full Walkthrough)",
-   "channel": "Game Time Live",
-   "url": "https://www.youtube.com/watch?v=R-nq2hcylC0"
+  "m:race-against-yago": {
+   "id": "PAZbruM1nFw",
+   "title": "GTA 6 - Race Against Yago - Full Quest Walkthrough",
+   "channel": "WoW Quests",
+   "url": "https://www.youtube.com/watch?v=PAZbruM1nFw"
   },
   "m:top-billing": {
    "id": "WQVNZe7fTuY",
    "title": "GTA 6 - Top Billing (Watch the Real Dimez) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=WQVNZe7fTuY"
-  },
-  "m:tyrone": {
-   "id": "b78Xa-Jlsts",
-   "title": "GTA 6 - Here, Kitty Kitty (Speak with Tyrone) - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=b78Xa-Jlsts"
   },
   "m:first-impressions": {
    "id": "ylZDZlD6qNo",
@@ -608,11 +603,11 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=EDfkvvpSACs"
   },
-  "m:race-against-yago": {
-   "id": "PAZbruM1nFw",
-   "title": "GTA 6 - Race Against Yago - Full Quest Walkthrough",
-   "channel": "WoW Quests",
-   "url": "https://www.youtube.com/watch?v=PAZbruM1nFw"
+  "m:send-more-money-to-lorena": {
+   "id": "R-nq2hcylC0",
+   "title": "#51 GTA 6 Story Mode - Send More Money To Lorena (Full Walkthrough)",
+   "channel": "Game Time Live",
+   "url": "https://www.youtube.com/watch?v=R-nq2hcylC0"
   },
   "m:clonin-keys-makin-gs": {
    "id": "9yBG8atjQs0",
@@ -632,23 +627,17 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=5ctGFp_zOKo"
   },
-  "m:company-property": {
-   "id": "KwdZlanNH4w",
-   "title": "GTA 6 - Company Property (Meet Brian) - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=KwdZlanNH4w"
-  },
   "m:caught-slipping": {
    "id": "uxoOymNZBaw",
    "title": "GTA 6 - Caught Slipping - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=uxoOymNZBaw"
   },
-  "m:heist-planning": {
-   "id": "zp1-8v1HtO8",
-   "title": "gta 6 - how to complete heist planning Mission (complete prep work) | Vcia takedown",
-   "channel": "GuidingLight",
-   "url": "https://www.youtube.com/watch?v=zp1-8v1HtO8"
+  "m:company-property": {
+   "id": "KwdZlanNH4w",
+   "title": "GTA 6 - Company Property (Meet Brian) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=KwdZlanNH4w"
   },
   "m:safe-word": {
    "id": "szgOCuBpb2c",
@@ -667,6 +656,12 @@
    "title": "GTA 6 - Brother To Brother (Back up Yago) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=iqn7xuoTfQU"
+  },
+  "m:tyrone": {
+   "id": "b78Xa-Jlsts",
+   "title": "GTA 6 - Here, Kitty Kitty (Speak with Tyrone) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=b78Xa-Jlsts"
   },
   "m:cooties": {
    "id": "cRHuRIngJsU",
@@ -722,6 +717,12 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=Tl9fpCSbuJ0"
   },
+  "m:pay-abe-s-fee": {
+   "id": "xPkrbSmMF6Y",
+   "title": "GTA 6 PAY ABE'S FEE NOT SHOWING ON MAP - Where To Find It - Full Guide",
+   "channel": "BOZ and 2 more",
+   "url": "https://www.youtube.com/watch?v=xPkrbSmMF6Y"
+  },
   "m:lawyer-up": {
    "id": "ERSiv8u1ugw",
    "title": "GTA 6 - Lawyer Up (Meet Abe Gonzalez) - Full Walkthrough",
@@ -734,23 +735,23 @@
    "channel": "Ditech Gaming",
    "url": "https://www.youtube.com/watch?v=b64YxguJB3I"
   },
-  "m:photo-shoot": {
-   "id": "JEuQ-674xjM",
-   "title": "GTA 6 - Photo/Shoot - Shoot a Promo - Walkthrough Part 90",
-   "channel": "Trophygamers",
-   "url": "https://www.youtube.com/watch?v=JEuQ-674xjM"
-  },
-  "m:attend-eddie-acosta-s-party": {
-   "id": "gsAryH_mv5U",
-   "title": "GTA 6 - Attend Eddie Acosta’s Party - Full Walkthrough",
+  "m:heavy-lifting": {
+   "id": "l_GMxQ93mPQ",
+   "title": "GTA 6 - Heavy Lifting (Bring Raul the Hard Drive) - Full Walkthrough",
    "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=gsAryH_mv5U"
+   "url": "https://www.youtube.com/watch?v=l_GMxQ93mPQ"
   },
   "m:making-gainz": {
    "id": "5O_diDhX8jg",
    "title": "GTA 6 -  Making Gainz (Meet Raul  Raul’s Plan) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=5O_diDhX8jg"
+  },
+  "m:photo-shoot": {
+   "id": "JEuQ-674xjM",
+   "title": "GTA 6 - Photo/Shoot - Shoot a Promo - Walkthrough Part 90",
+   "channel": "Trophygamers",
+   "url": "https://www.youtube.com/watch?v=JEuQ-674xjM"
   },
   "m:blood-sweat-and-gear": {
    "id": "xVVHXU6mKaE",
@@ -764,12 +765,6 @@
    "channel": "Game Time Live",
    "url": "https://www.youtube.com/watch?v=jIZjtT_fn3o"
   },
-  "m:pay-abe-s-fee": {
-   "id": "xPkrbSmMF6Y",
-   "title": "GTA 6 PAY ABE'S FEE NOT SHOWING ON MAP - Where To Find It - Full Guide",
-   "channel": "BOZ and 2 more",
-   "url": "https://www.youtube.com/watch?v=xPkrbSmMF6Y"
-  },
   "m:watch-it": {
    "id": "K23nS4AUIFg",
    "title": "Grand Theft Auto VI - Watch It Mission Walkthrough (No Commentary)",
@@ -781,12 +776,6 @@
    "title": "Grand Theft Auto VI - Amateur Hour Mission FULL Walkthrough (PS5)",
    "channel": "AJ4Games",
    "url": "https://www.youtube.com/watch?v=JTQNaHNhocQ"
-  },
-  "m:heavy-lifting": {
-   "id": "l_GMxQ93mPQ",
-   "title": "GTA 6 - Heavy Lifting (Bring Raul the Hard Drive) - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=l_GMxQ93mPQ"
   },
   "m:cash-injections": {
    "id": "Qogv71X4V_M",
@@ -830,11 +819,89 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=VFRPwMJp71k"
   },
-  "m:gta-6": {
-   "id": "tT7aN7UpnlQ",
-   "title": "GTA 6 How to Unlock A Secret Radio Station",
-   "channel": "GameSpot",
-   "url": "https://www.youtube.com/watch?v=tT7aN7UpnlQ"
+  "m:close-surveillance": {
+   "id": "KSZ35f1lUVE",
+   "title": "GTA 6 - Close Surveillance - Flying the Drone - Walkthrough Part 111",
+   "channel": "Trophygamers",
+   "url": "https://www.youtube.com/watch?v=KSZ35f1lUVE"
+  },
+  "m:delivery-method": {
+   "id": "l0HOSvYF8lA",
+   "title": "GTA 6 - Mission #67 - Delivery Method | 4K Ultra HD",
+   "channel": "StoryDriven",
+   "url": "https://www.youtube.com/watch?v=l0HOSvYF8lA"
+  },
+  "m:team-building": {
+   "id": "Ou_xWly4TLE",
+   "title": "GTA 6 - Team Building - Walkthrough Part 109",
+   "channel": "Trophygamers",
+   "url": "https://www.youtube.com/watch?v=Ou_xWly4TLE"
+  },
+  "m:headliners": {
+   "id": "IohTQf1O_1c",
+   "title": "GTA 6 - Headliners - Helping Dre’Quan - Walkthrough Part 113",
+   "channel": "Trophygamers",
+   "url": "https://www.youtube.com/watch?v=IohTQf1O_1c"
+  },
+  "m:fully-catered": {
+   "id": "m1_qrJ5YO9w",
+   "title": "How to complete Fully Catered mission guide & walkthrough in GTA 6",
+   "channel": "AlphaZin",
+   "url": "https://www.youtube.com/watch?v=m1_qrJ5YO9w"
+  },
+  "m:tie-up-loose-ends": {
+   "id": "jU6J2KfA054",
+   "title": "Gta 6 - How to tie up loose ends (Wait for a message) | WHAT TO DO BEFORE THE MISSION!",
+   "channel": "GuidingLight",
+   "url": "https://www.youtube.com/watch?v=jU6J2KfA054"
+  },
+  "m:starting-from-zero": {
+   "id": "PEs382CcjrM",
+   "title": "GTA 6 - Mission #73 - Starting From Zero | 4K Ultra HD",
+   "channel": "StoryDriven",
+   "url": "https://www.youtube.com/watch?v=PEs382CcjrM"
+  },
+  "m:bird-in-the-hand": {
+   "id": "lZrNIZ4yD2g",
+   "title": "GTA 6 - Go to the Hangar (Undetected) | Bird in the Hand Mission",
+   "channel": "Gacha Chief",
+   "url": "https://www.youtube.com/watch?v=lZrNIZ4yD2g"
+  },
+  "m:doggie-bag": {
+   "id": "oa9CI5miCg8",
+   "title": "GTA 6 - Doggie Bag - Walkthrough Part 119",
+   "channel": "Trophygamers",
+   "url": "https://www.youtube.com/watch?v=oa9CI5miCg8"
+  },
+  "m:vc-baby": {
+   "id": "U4yn53msz1s",
+   "title": "GTA 6 - Mission #76 - VC Baby | 4K Ultra HD",
+   "channel": "StoryDriven",
+   "url": "https://www.youtube.com/watch?v=U4yn53msz1s"
+  },
+  "m:operation-savage-glory": {
+   "id": "nIWz0Ac3zJY",
+   "title": "GTA 6  - Mission: Operation Savage Glory Walkthrough Gameplay (4K PS5 PRO)",
+   "channel": "Boss Fight Database",
+   "url": "https://www.youtube.com/watch?v=nIWz0Ac3zJY"
+  },
+  "m:protective-custody": {
+   "id": "ELbE-w73oVk",
+   "title": "GTA 6 - Mission: Protective Custody Walkthrough Gameplay (4K PS5 PRO)",
+   "channel": "Boss Fight Database",
+   "url": "https://www.youtube.com/watch?v=ELbE-w73oVk"
+  },
+  "m:the-end-of-the-road": {
+   "id": "qHoSGF92Kvs",
+   "title": "GTA 6 - Last Mission: The End of the Road Walkthrough Gameplay (4K PS5 PRO)",
+   "channel": "Boss Fight Database",
+   "url": "https://www.youtube.com/watch?v=qHoSGF92Kvs"
+  },
+  "m:hit-n-run-vc": {
+   "id": "EMQcPxGVMAQ",
+   "title": "GTA 6 Optional Mission  \"Hit 'n' Run VC – Shoreline\" – Full Walkthrough & Gameplay",
+   "channel": "Pari Bhai",
+   "url": "https://www.youtube.com/watch?v=EMQcPxGVMAQ"
   },
   "v:akane": {
    "id": "iz30Exs4R94",
@@ -1069,6 +1136,12 @@
    "title": "All 24 Vice City Flamingos Locations in GTA 6",
    "channel": "JFL VIDEOS",
    "url": "https://www.youtube.com/watch?v=hY74NaNEGo0"
+  },
+  "e:skunk-ape": {
+   "id": "4SOON1kBdL8",
+   "title": "GTA 6 - Skunk Ape (Bigfoot) Easter Egg Mission & All Endings (Skunk Apeology 101)",
+   "channel": "Techzamazing",
+   "url": "https://www.youtube.com/watch?v=4SOON1kBdL8"
   },
   "h:legendarycustomjewelry": {
    "id": "YZCYnmt4Jf0",

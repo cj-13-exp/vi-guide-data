@@ -1837,5 +1837,237 @@
 },
 "how": "busca",
 "date": "2026-11-26"
+},
+"m:pick-up-groceries": {
+"video": {
+"id": "frSn4hQJuSk",
+"title": "GTA 6 - Pick Up Groceries - Full Quest Walkthrough",
+"channel": "WoW Quests",
+"url": "https://www.youtube.com/watch?v=frSn4hQJuSk"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:power-play": {
+"tried": "2026-11-27"
+},
+"m:close-surveillance": {
+"video": {
+"id": "KSZ35f1lUVE",
+"title": "GTA 6 - Close Surveillance - Flying the Drone - Walkthrough Part 111",
+"channel": "Trophygamers",
+"url": "https://www.youtube.com/watch?v=KSZ35f1lUVE"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:delivery-method": {
+"video": {
+"id": "l0HOSvYF8lA",
+"title": "GTA 6 - Mission #67 - Delivery Method | 4K Ultra HD",
+"channel": "StoryDriven",
+"url": "https://www.youtube.com/watch?v=l0HOSvYF8lA"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:team-building": {
+"video": {
+"id": "Ou_xWly4TLE",
+"title": "GTA 6 - Team Building - Walkthrough Part 109",
+"channel": "Trophygamers",
+"url": "https://www.youtube.com/watch?v=Ou_xWly4TLE"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:headliners": {
+"video": {
+"id": "IohTQf1O_1c",
+"title": "GTA 6 - Headliners - Helping Dre’Quan - Walkthrough Part 113",
+"channel": "Trophygamers",
+"url": "https://www.youtube.com/watch?v=IohTQf1O_1c"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:fully-catered": {
+"video": {
+"id": "m1_qrJ5YO9w",
+"title": "How to complete Fully Catered mission guide & walkthrough in GTA 6",
+"channel": "AlphaZin",
+"url": "https://www.youtube.com/watch?v=m1_qrJ5YO9w"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:tie-up-loose-ends": {
+"video": {
+"id": "jU6J2KfA054",
+"title": "Gta 6 - How to tie up loose ends (Wait for a message) | WHAT TO DO BEFORE THE MISSION!",
+"channel": "GuidingLight",
+"url": "https://www.youtube.com/watch?v=jU6J2KfA054"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:call-valentina-back": {
+"tried": "2026-11-27"
+},
+"m:sunset": {
+"tried": "2026-11-27"
+},
+"m:starting-from-zero": {
+"video": {
+"id": "PEs382CcjrM",
+"title": "GTA 6 - Mission #73 - Starting From Zero | 4K Ultra HD",
+"channel": "StoryDriven",
+"url": "https://www.youtube.com/watch?v=PEs382CcjrM"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:bird-in-the-hand": {
+"video": {
+"id": "lZrNIZ4yD2g",
+"title": "GTA 6 - Go to the Hangar (Undetected) | Bird in the Hand Mission",
+"channel": "Gacha Chief",
+"url": "https://www.youtube.com/watch?v=lZrNIZ4yD2g"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:taking-liberties": {
+"tried": "2026-11-27"
+},
+"m:doggie-bag": {
+"video": {
+"id": "oa9CI5miCg8",
+"title": "GTA 6 - Doggie Bag - Walkthrough Part 119",
+"channel": "Trophygamers",
+"url": "https://www.youtube.com/watch?v=oa9CI5miCg8"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:vc-baby": {
+"video": {
+"id": "U4yn53msz1s",
+"title": "GTA 6 - Mission #76 - VC Baby | 4K Ultra HD",
+"channel": "StoryDriven",
+"url": "https://www.youtube.com/watch?v=U4yn53msz1s"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:operation-savage-glory": {
+"video": {
+"id": "nIWz0Ac3zJY",
+"title": "GTA 6  - Mission: Operation Savage Glory Walkthrough Gameplay (4K PS5 PRO)",
+"channel": "Boss Fight Database",
+"url": "https://www.youtube.com/watch?v=nIWz0Ac3zJY"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:honest-abe": {
+"tried": "2026-11-27"
+},
+"m:unfinished-business": {
+"tried": "2026-11-27"
+},
+"m:protective-custody": {
+"video": {
+"id": "ELbE-w73oVk",
+"title": "GTA 6 - Mission: Protective Custody Walkthrough Gameplay (4K PS5 PRO)",
+"channel": "Boss Fight Database",
+"url": "https://www.youtube.com/watch?v=ELbE-w73oVk"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:the-end-of-the-road": {
+"video": {
+"id": "qHoSGF92Kvs",
+"title": "GTA 6 - Last Mission: The End of the Road Walkthrough Gameplay (4K PS5 PRO)",
+"channel": "Boss Fight Database",
+"url": "https://www.youtube.com/watch?v=qHoSGF92Kvs"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:hit-n-run-vc": {
+"video": {
+"id": "EMQcPxGVMAQ",
+"title": "GTA 6 Optional Mission  \"Hit 'n' Run VC – Shoreline\" – Full Walkthrough & Gameplay",
+"channel": "Pari Bhai",
+"url": "https://www.youtube.com/watch?v=EMQcPxGVMAQ"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"m:stunt-promoter-directed-stunt-06": {
+"tried": "2026-11-27"
+},
+"m:wyman-car-collection": {
+"tried": "2026-11-27"
+},
+"e:literal-egg": {
+"tried": "2026-11-27"
+},
+"e:skunk-ape": {
+"video": {
+"id": "4SOON1kBdL8",
+"title": "GTA 6 - Skunk Ape (Bigfoot) Easter Egg Mission & All Endings (Skunk Apeology 101)",
+"channel": "Techzamazing",
+"url": "https://www.youtube.com/watch?v=4SOON1kBdL8"
+},
+"how": "busca",
+"date": "2026-11-27"
+},
+"e:ufo-abduction": {
+"tried": "2026-11-27"
+},
+"e:alien-rescue": {
+"tried": "2026-11-27"
+},
+"e:belville-house": {
+"tried": "2026-11-27"
+},
+"e:movie-car": {
+"tried": "2026-11-27"
+},
+"e:cool-dog": {
+"tried": "2026-11-27"
+},
+"e:dexter-apartment": {
+"tried": "2026-11-27"
+},
+"e:giant-crab": {
+"tried": "2026-11-27"
+},
+"e:leonidan-monument": {
+"tried": "2026-11-27"
+},
+"e:demon-ritual": {
+"tried": "2026-11-27"
+},
+"e:talking-parrots": {
+"tried": "2026-11-27"
+},
+"e:mount-chiliad-nod": {
+"tried": "2026-11-27"
+},
+"e:red-dead-novel": {
+"tried": "2026-11-27"
+},
+"e:liberty-city-memoir": {
+"tried": "2026-11-27"
+},
+"e:arthur-hat": {
+"tried": "2026-11-27"
+},
+"e:michael-yacht": {
+"tried": "2026-11-27"
 }
 }

@@ -1,31 +1,31 @@
 {
  "format": 1,
- "generated": "2026-11-26T07:08:29Z",
+ "generated": "2026-11-27T07:11:20Z",
  "files": {
   "data": {
    "globals": [
     "ATLAS_PLACES",
     "OFF_DATA"
    ],
-   "sha256": "557887ca0f3deba5ac7437605a177ecd8422057d5a9547041f587206bfb4daa6",
-   "bytes": 256716,
-   "count": 4396
+   "sha256": "38b17db44a096708ae3e0ff1197a3c701d2a06b136b0391725ad941b6ba5eeb4",
+   "bytes": 269470,
+   "count": 4615
   },
   "wiki": {
    "globals": [
     "WIKI"
    ],
-   "sha256": "c4fcfc845d02093f4ede91d4d0340d3ecf68941f38d26ed50283d2cb8b53bcde",
-   "bytes": 64545,
-   "count": 565
+   "sha256": "f60f05a69019254d3a882bf157c7f383e90ea9439010faa233af1b1c6765fce4",
+   "bytes": 61472,
+   "count": 575
   },
   "photos": {
    "globals": [
     "PLACE_PHOTOS"
    ],
-   "sha256": "62b8ba15246878eedb78809cb5ebfbf3e5e2657a412e15436465d58f776e6949",
-   "bytes": 5577,
-   "count": 729
+   "sha256": "d0149b09409515dc05a86396f12d30dd0f1e0458b6e68da3ceabc094e4760bd9",
+   "bytes": 5765,
+   "count": 753
   },
   "wiki2": {
    "globals": [
@@ -65,9 +65,9 @@
    "globals": [
     "MISSIONS"
    ],
-   "sha256": "f33b8b721a9d29ee66c9964d1c571f2073340e2bf99f75f3aa240ae4d9d43592",
-   "bytes": 23290,
-   "count": 154
+   "sha256": "0050649bb7f2c72574470da31af62a1256391002385264e1c1fda5d3bea642e7",
+   "bytes": 23185,
+   "count": 150
   },
   "wiki3": {
    "globals": [
@@ -98,9 +98,9 @@
    "globals": [
     "IGP"
    ],
-   "sha256": "9c579f7d9c01e991ae779491ff221dfaf27f2f60083f5860ce64da9a045b5f16",
-   "bytes": 30904,
-   "count": 729
+   "sha256": "758b8c00dca315e1cd385b012ef63bb2a49c07a9ca38dceedf40b5ec7da60e43",
+   "bytes": 31160,
+   "count": 735
   },
   "official": {
    "globals": [
@@ -123,8 +123,8 @@
     "HEISTS",
     "LAYERS"
    ],
-   "sha256": "03414d8d1ca0ab237df72b5dbc5c1ae0f7751d5896a095187d6f07c599815c4d",
-   "bytes": 169088,
+   "sha256": "296a9d70f7dc4b9490872970ee1abd6a2a5f27fa485f7329cc75c184ad81b733",
+   "bytes": 169085,
    "count": 2327
   },
   "gbinfo": {

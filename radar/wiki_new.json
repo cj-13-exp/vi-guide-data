@@ -1,97 +1,63 @@
 {
- "ts": "2026-11-26T07:03:26Z",
- "since": "2026-11-25T07:04:52Z",
+ "ts": "2026-11-27T07:06:02Z",
+ "since": "2026-11-26T07:03:26Z",
  "pages": [
   {
-   "title": "Alderney Joe's",
+   "title": "Benedict Halifax",
+   "thumb": "https://gta.wiki/images/thumb/BenedictHalifax-GTAVI-Portrait.png/320px-BenedictHalifax-GTAVI-Portrait.png?5e052",
+   "image": "BenedictHalifax-GTAVI-Portrait.png",
+   "created": "2026-11-26",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 3204,
+   "url": "https://gta.wiki/wiki/Benedict_Halifax"
+  },
+  {
+   "title": "Debonne Air",
    "thumb": "",
    "image": "",
-   "created": "2026-11-25",
+   "created": "2026-11-26",
    "group": "empresa",
    "cats": [
     "Businesses in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 2077,
-   "url": "https://gta.wiki/wiki/Alderney_Joe%27s"
-  },
-  {
-   "title": "American Crocodile",
-   "thumb": "https://gta.wiki/images/thumb/AmericanCrocodile-GTAVI-WildlandZoo1.png/320px-AmericanCrocodile-GTAVI-WildlandZoo1.png?b91a5",
-   "image": "AmericanCrocodile-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1823,
-   "url": "https://gta.wiki/wiki/American_Crocodile"
-  },
-  {
-   "title": "Andrea",
-   "thumb": "https://gta.wiki/images/thumb/Andrea-GTAVI-Portrait.png/320px-Andrea-GTAVI-Portrait.png?4cbdf",
-   "image": "Andrea-GTAVI-Portrait.png",
-   "created": "2026-11-25",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1609,
-   "url": "https://gta.wiki/wiki/Andrea"
-  },
-  {
-   "title": "Company Cars",
-   "thumb": "https://gta.wiki/images/thumb/CompanyCars-GTAVI-Thumbnail.png/320px-CompanyCars-GTAVI-Thumbnail.png?8bc83",
-   "image": "CompanyCars-GTAVI-Thumbnail.png",
-   "created": "2026-11-25",
-   "group": "atividade",
-   "cats": [
-    "Gameplay in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 2262,
-   "url": "https://gta.wiki/wiki/Company_Cars"
-  },
-  {
-   "title": "Dr. Nita",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
    ],
    "new_content": false,
    "returning": false,
    "map_points": 0,
    "xy": null,
    "in_app": false,
-   "size": 1188,
-   "url": "https://gta.wiki/wiki/Dr._Nita"
+   "size": 1278,
+   "url": "https://gta.wiki/wiki/Debonne_Air"
   },
   {
-   "title": "Felipe (GTA VI)",
-   "thumb": "https://gta.wiki/images/thumb/Felipe-GTAVI-Portrait.png/320px-Felipe-GTAVI-Portrait.png?157fe",
-   "image": "Felipe-GTAVI-Portrait.png",
-   "created": "2026-11-25",
+   "title": "Dr Froogal",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "lugar",
+   "cats": [
+    "Buildings in GTA VI in Vice City"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": false,
+   "size": 1386,
+   "url": "https://gta.wiki/wiki/Dr_Froogal"
+  },
+  {
+   "title": "Evelyn Andrews",
+   "thumb": "https://gta.wiki/images/thumb/EvelynAndrews-GTAVI-Portrait.png/320px-EvelynAndrews-GTAVI-Portrait.png?ae04e",
+   "image": "EvelynAndrews-GTAVI-Portrait.png",
+   "created": "2026-11-26",
    "group": "personagem",
    "cats": [
     "Characters in GTA VI"
@@ -101,14 +67,65 @@
    "map_points": 0,
    "xy": null,
    "in_app": true,
-   "size": 2133,
-   "url": "https://gta.wiki/wiki/Felipe_%28GTA_VI%29"
+   "size": 2574,
+   "url": "https://gta.wiki/wiki/Evelyn_Andrews"
   },
   {
-   "title": "Final Act",
+   "title": "Frankie Delight",
    "thumb": "",
    "image": "",
-   "created": "2026-11-25",
+   "created": "2026-11-26",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1550,
+   "url": "https://gta.wiki/wiki/Frankie_Delight"
+  },
+  {
+   "title": "Gil Reynolds",
+   "thumb": "https://gta.wiki/images/thumb/GilReynolds-GTAVI-Portrait.png/320px-GilReynolds-GTAVI-Portrait.png?80cd9",
+   "image": "GilReynolds-GTAVI-Portrait.png",
+   "created": "2026-11-26",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 3527,
+   "url": "https://gta.wiki/wiki/Gil_Reynolds"
+  },
+  {
+   "title": "Giorgio Gallo",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-26",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 3285,
+   "url": "https://gta.wiki/wiki/Giorgio_Gallo"
+  },
+  {
+   "title": "Hugh Johsnon",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-26",
    "group": "outro",
    "cats": [],
    "new_content": true,
@@ -116,133 +133,65 @@
    "map_points": 0,
    "xy": null,
    "in_app": false,
-   "size": 4806,
-   "url": "https://gta.wiki/wiki/Final_Act"
+   "size": 931,
+   "url": "https://gta.wiki/wiki/Hugh_Johsnon"
   },
   {
-   "title": "Fuerzas Armadas Populares",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "organizacao",
+   "title": "Jalen Wang",
+   "thumb": "https://gta.wiki/images/thumb/JWang-GTAVI-Portrait.png/320px-JWang-GTAVI-Portrait.png?6dbf6",
+   "image": "JWang-GTAVI-Portrait.png",
+   "created": "2026-11-26",
+   "group": "personagem",
    "cats": [
-    "Organizations in GTA VI"
+    "Characters in GTA VI"
    ],
    "new_content": true,
    "returning": false,
    "map_points": 0,
    "xy": null,
    "in_app": true,
-   "size": 1427,
-   "url": "https://gta.wiki/wiki/Fuerzas_Armadas_Populares"
+   "size": 1524,
+   "url": "https://gta.wiki/wiki/Jalen_Wang"
   },
   {
-   "title": "Gopher Tortoise",
-   "thumb": "https://gta.wiki/images/thumb/GopherTortoise-GTAVI-WildlandZoo1.png/320px-GopherTortoise-GTAVI-WildlandZoo1.png?1b97a",
-   "image": "GopherTortoise-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1643,
-   "url": "https://gta.wiki/wiki/Gopher_Tortoise"
-  },
-  {
-   "title": "Grand Theft Auto VI Title Update Notes",
+   "title": "Louise (waitress)",
    "thumb": "",
    "image": "",
-   "created": "2026-11-25",
-   "group": "outro",
+   "created": "2026-11-26",
+   "group": "personagem",
    "cats": [
-    "GTA VI"
+    "Characters in GTA VI"
    ],
    "new_content": false,
    "returning": false,
    "map_points": 0,
    "xy": null,
-   "in_app": false,
-   "size": 1181,
-   "url": "https://gta.wiki/wiki/Grand_Theft_Auto_VI_Title_Update_Notes"
-  },
-  {
-   "title": "Great Egret",
-   "thumb": "https://gta.wiki/images/thumb/GreatEgret-GTAVI-WildlandZoo1.png/320px-GreatEgret-GTAVI-WildlandZoo1.png?25d39",
-   "image": "GreatEgret-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
    "in_app": true,
-   "size": 1521,
-   "url": "https://gta.wiki/wiki/Great_Egret"
+   "size": 1534,
+   "url": "https://gta.wiki/wiki/Louise_%28waitress%29"
   },
   {
-   "title": "Heavy Lifting",
-   "thumb": "https://gta.wiki/images/thumb/HeavyLifting-GTAVI-Thumbnail.png/320px-HeavyLifting-GTAVI-Thumbnail.png?e2eaa",
-   "image": "HeavyLifting-GTAVI-Thumbnail.png",
-   "created": "2026-11-25",
-   "group": "atividade",
-   "cats": [
-    "Gameplay in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 6392,
-   "url": "https://gta.wiki/wiki/Heavy_Lifting"
-  },
-  {
-   "title": "Indian Peacock",
-   "thumb": "https://gta.wiki/images/thumb/IndianPeacock-GTAVI-OpenFeathers.png/320px-IndianPeacock-GTAVI-OpenFeathers.png?8f92c",
-   "image": "IndianPeacock-GTAVI-OpenFeathers.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1495,
-   "url": "https://gta.wiki/wiki/Indian_Peacock"
-  },
-  {
-   "title": "Jason's Magazine Styles",
+   "title": "Lucky",
    "thumb": "",
    "image": "",
-   "created": "2026-11-25",
-   "group": "atividade",
+   "created": "2026-11-26",
+   "group": "personagem",
    "cats": [
-    "Gameplay in GTA VI"
+    "Characters in GTA VI"
    ],
    "new_content": true,
    "returning": false,
    "map_points": 0,
    "xy": null,
-   "in_app": false,
-   "size": 1185,
-   "url": "https://gta.wiki/wiki/Jason%27s_Magazine_Styles"
+   "in_app": true,
+   "size": 1291,
+   "url": "https://gta.wiki/wiki/Lucky"
   },
   {
-   "title": "Josephine Phoenix",
+   "title": "Manny Perez",
    "thumb": "",
    "image": "",
-   "created": "2026-11-25",
+   "created": "2026-11-26",
    "group": "outro",
    "cats": [
     "Real-world people credited on GTA VI"
@@ -252,454 +201,76 @@
    "map_points": 0,
    "xy": null,
    "in_app": false,
-   "size": 921,
-   "url": "https://gta.wiki/wiki/Josephine_Phoenix"
+   "size": 917,
+   "url": "https://gta.wiki/wiki/Manny_Perez"
   },
   {
-   "title": "Karim",
-   "thumb": "https://gta.wiki/images/thumb/Karim-GTAVI-Portrait.png/320px-Karim-GTAVI-Portrait.png?85072",
-   "image": "Karim-GTAVI-Portrait.png",
-   "created": "2026-11-25",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1497,
-   "url": "https://gta.wiki/wiki/Karim"
-  },
-  {
-   "title": "Interiors in GTA VI",
-   "thumb": "",
-   "image": "",
-   "created": "",
-   "group": "lugar",
-   "cats": [
-    "Locations in GTA VI"
-   ],
-   "new_content": false,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 16782,
-   "url": "https://gta.wiki/wiki/Interiors_in_GTA_VI"
-  },
-  {
-   "title": "Key Lento Fire Department Station",
-   "thumb": "https://gta.wiki/images/thumb/KLFDStation-GTAVI.png/320px-KLFDStation-GTAVI.png?b5d8e",
-   "image": "KLFDStation-GTAVI.png",
-   "created": "2026-11-25",
-   "group": "lugar",
-   "cats": [
-    "Buildings in GTA VI in the Leonida Keys"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 1,
-   "xy": [
-    -1969.0,
-    -5223.0
-   ],
-   "in_app": false,
-   "size": 2149,
-   "url": "https://gta.wiki/wiki/Key_Lento_Fire_Department_Station"
-  },
-  {
-   "title": "La Polilla Negra",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "organizacao",
-   "cats": [
-    "Organizations in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 2951,
-   "url": "https://gta.wiki/wiki/La_Polilla_Negra"
-  },
-  {
-   "title": "Lawyer Up",
-   "thumb": "https://gta.wiki/images/thumb/LawyerUp-GTAVI-Thumbnail.png/320px-LawyerUp-GTAVI-Thumbnail.png?3538b",
-   "image": "LawyerUp-GTAVI-Thumbnail.png",
-   "created": "2026-11-25",
-   "group": "atividade",
-   "cats": [
-    "Gameplay in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 2757,
-   "url": "https://gta.wiki/wiki/Lawyer_Up"
-  },
-  {
-   "title": "Lucia's Magazine Styles",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "atividade",
-   "cats": [
-    "Gameplay in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 1162,
-   "url": "https://gta.wiki/wiki/Lucia%27s_Magazine_Styles"
-  },
-  {
-   "title": "Magazine Tattoos",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "atividade",
-   "cats": [
-    "Gameplay in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1204,
-   "url": "https://gta.wiki/wiki/Magazine_Tattoos"
-  },
-  {
-   "title": "Marshland Animal Park",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "empresa",
-   "cats": [
-    "Businesses in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 2215,
-   "url": "https://gta.wiki/wiki/Marshland_Animal_Park"
-  },
-  {
-   "title": "Monk Parakeet",
-   "thumb": "https://gta.wiki/images/thumb/MonkParakeet-GTAVI-WildlandZoo1.png/320px-MonkParakeet-GTAVI-WildlandZoo1.png?fd477",
-   "image": "MonkParakeet-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1583,
-   "url": "https://gta.wiki/wiki/Monk_Parakeet"
-  },
-  {
-   "title": "Monterossa",
-   "thumb": "https://gta.wiki/images/thumb/Monterossa-GTAVI-Portrait.png/320px-Monterossa-GTAVI-Portrait.png?fb6ad",
-   "image": "Monterossa-GTAVI-Portrait.png",
-   "created": "2026-11-25",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 3233,
-   "url": "https://gta.wiki/wiki/Monterossa"
-  },
-  {
-   "title": "Pool Day",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "atividade",
-   "cats": [
-    "Gameplay in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 2461,
-   "url": "https://gta.wiki/wiki/Pool_Day"
-  },
-  {
-   "title": "Reagan Carter",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": false,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 829,
-   "url": "https://gta.wiki/wiki/Reagan_Carter"
-  },
-  {
-   "title": "Red-Crowned Parrot",
-   "thumb": "https://gta.wiki/images/thumb/RedCrownedParrot-GTAVI-WildlandZoo1.png/320px-RedCrownedParrot-GTAVI-WildlandZoo1.png?a928b",
-   "image": "RedCrownedParrot-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1534,
-   "url": "https://gta.wiki/wiki/Red-Crowned_Parrot"
-  },
-  {
-   "title": "Slinger",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "empresa",
-   "cats": [
-    "Businesses in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1354,
-   "url": "https://gta.wiki/wiki/Slinger"
-  },
-  {
-   "title": "Snap Gun",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "outro",
-   "cats": [],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 854,
-   "url": "https://gta.wiki/wiki/Snap_Gun"
-  },
-  {
-   "title": "Softshell Turtle",
-   "thumb": "https://gta.wiki/images/thumb/SoftshellTurtle-GTAVI-WildlandZoo1.png/320px-SoftshellTurtle-GTAVI-WildlandZoo1.png?9aa9b",
-   "image": "SoftshellTurtle-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1605,
-   "url": "https://gta.wiki/wiki/Softshell_Turtle"
-  },
-  {
-   "title": "The End Of The Road",
+   "title": "Maryam Ansari",
    "thumb": "",
    "image": "",
    "created": "2026-11-26",
-   "group": "outro",
+   "group": "personagem",
    "cats": [
-    "Spoilers pertaining to GTA VI"
+    "Characters in GTA VI"
    ],
    "new_content": true,
    "returning": false,
    "map_points": 0,
    "xy": null,
    "in_app": true,
-   "size": 776,
-   "url": "https://gta.wiki/wiki/The_End_Of_The_Road"
+   "size": 1591,
+   "url": "https://gta.wiki/wiki/Maryam_Ansari"
   },
   {
-   "title": "Toby",
+   "title": "Meltdown 2: The Hottening",
    "thumb": "",
    "image": "",
-   "created": "2026-11-25",
-   "group": "personagem",
+   "created": "2026-11-26",
+   "group": "midia",
    "cats": [
-    "Characters in GTA VI"
+    "Media in GTA VI"
    ],
    "new_content": false,
    "returning": false,
    "map_points": 0,
    "xy": null,
-   "in_app": true,
-   "size": 2385,
-   "url": "https://gta.wiki/wiki/Toby"
+   "in_app": false,
+   "size": 1417,
+   "url": "https://gta.wiki/wiki/Meltdown_2%3A_The_Hottening"
   },
   {
-   "title": "Tropik Haze",
+   "title": "Party Hard",
+   "thumb": "https://gta.wiki/images/thumb/PartyHard-GTAVI-Thumbnail.png/320px-PartyHard-GTAVI-Thumbnail.png?6604d",
+   "image": "PartyHard-GTAVI-Thumbnail.png",
+   "created": "2026-11-26",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 7539,
+   "url": "https://gta.wiki/wiki/Party_Hard"
+  },
+  {
+   "title": "Ugglies",
    "thumb": "",
    "image": "",
-   "created": "2026-11-25",
-   "group": "lugar",
+   "created": "2026-11-27",
+   "group": "empresa",
    "cats": [
-    "Buildings in GTA VI in Vice City"
+    "Businesses in GTA VI"
    ],
    "new_content": true,
    "returning": false,
    "map_points": 0,
    "xy": null,
    "in_app": false,
-   "size": 636,
-   "url": "https://gta.wiki/wiki/Tropik_Haze"
-  },
-  {
-   "title": "Trumpeter Swan",
-   "thumb": "https://gta.wiki/images/thumb/TrumpeterSwan-GTAVI-WildlandZoo1.png/320px-TrumpeterSwan-GTAVI-WildlandZoo1.png?bd477",
-   "image": "TrumpeterSwan-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1410,
-   "url": "https://gta.wiki/wiki/Trumpeter_Swan"
-  },
-  {
-   "title": "Viper",
-   "thumb": "https://gta.wiki/images/thumb/Viper-GTAVI-Portrait.png/320px-Viper-GTAVI-Portrait.png?feb63",
-   "image": "Viper-GTAVI-Portrait.png",
-   "created": "2026-11-25",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 3126,
-   "url": "https://gta.wiki/wiki/Viper"
-  },
-  {
-   "title": "Washed Ashore Souvenirs",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-25",
-   "group": "lugar",
-   "cats": [
-    "Buildings in GTA VI in Vice City"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 1296,
-   "url": "https://gta.wiki/wiki/Washed_Ashore_Souvenirs"
-  },
-  {
-   "title": "Western Chimpanzee",
-   "thumb": "https://gta.wiki/images/thumb/WesternChimpanzee-GTAVI-WildlandZoo1.png/320px-WesternChimpanzee-GTAVI-WildlandZoo1.png?ec775",
-   "image": "WesternChimpanzee-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1393,
-   "url": "https://gta.wiki/wiki/Western_Chimpanzee"
-  },
-  {
-   "title": "White-Headed Capuchin",
-   "thumb": "https://gta.wiki/images/thumb/WhiteHeadedCapuchin-GTAVI-WildlandZoo1.png/320px-WhiteHeadedCapuchin-GTAVI-WildlandZoo1.png?1ba85",
-   "image": "WhiteHeadedCapuchin-GTAVI-WildlandZoo1.png",
-   "created": "2026-11-25",
-   "group": "animal",
-   "cats": [
-    "Animals in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1403,
-   "url": "https://gta.wiki/wiki/White-Headed_Capuchin"
-  },
-  {
-   "title": "Yasmani Cabrera",
-   "thumb": "https://gta.wiki/images/thumb/Yasmani-GTAVI-Portrait.png/320px-Yasmani-GTAVI-Portrait.png?3e0b8",
-   "image": "Yasmani-GTAVI-Portrait.png",
-   "created": "2026-11-25",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 2183,
-   "url": "https://gta.wiki/wiki/Yasmani_Cabrera"
-  },
-  {
-   "title": "Watson Bay Volunteer Fire Rescue Station",
-   "thumb": "https://gta.wiki/images/thumb/WBVFRStation-GTAVI.png/320px-WBVFRStation-GTAVI.png?bee19",
-   "image": "WBVFRStation-GTAVI.png",
-   "created": "",
-   "group": "lugar",
-   "cats": [
-    "Buildings in GTA VI in Watson Bay"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 1,
-   "xy": [
-    -5019.0,
-    -3392.0
-   ],
-   "in_app": false,
-   "size": 1983,
-   "url": "https://gta.wiki/wiki/Watson_Bay_Volunteer_Fire_Rescue_Station"
+   "size": 1219,
+   "url": "https://gta.wiki/wiki/Ugglies"
   }
  ]
 }
