@@ -1,31 +1,31 @@
 {
  "format": 1,
- "generated": "2026-11-27T07:11:20Z",
+ "generated": "2026-11-28T07:06:27Z",
  "files": {
   "data": {
    "globals": [
     "ATLAS_PLACES",
     "OFF_DATA"
    ],
-   "sha256": "38b17db44a096708ae3e0ff1197a3c701d2a06b136b0391725ad941b6ba5eeb4",
-   "bytes": 269470,
-   "count": 4615
+   "sha256": "cb97d10042a0c234a3cd894546abb34a30ac57cf622de643a83ff6044d5204db",
+   "bytes": 279180,
+   "count": 4778
   },
   "wiki": {
    "globals": [
     "WIKI"
    ],
-   "sha256": "f60f05a69019254d3a882bf157c7f383e90ea9439010faa233af1b1c6765fce4",
-   "bytes": 61472,
-   "count": 575
+   "sha256": "99ff8a81606565cd785712a3874d89524997f3f0f303a086627712d39d8adfb8",
+   "bytes": 63269,
+   "count": 591
   },
   "photos": {
    "globals": [
     "PLACE_PHOTOS"
    ],
-   "sha256": "d0149b09409515dc05a86396f12d30dd0f1e0458b6e68da3ceabc094e4760bd9",
-   "bytes": 5765,
-   "count": 753
+   "sha256": "5b2981d315f5caec9c08b9b5fdbba10071e77bce444e7c130de2ec97c0ac3e90",
+   "bytes": 5863,
+   "count": 766
   },
   "wiki2": {
    "globals": [
@@ -65,18 +65,18 @@
    "globals": [
     "MISSIONS"
    ],
-   "sha256": "0050649bb7f2c72574470da31af62a1256391002385264e1c1fda5d3bea642e7",
-   "bytes": 23185,
-   "count": 150
+   "sha256": "87b91aaa5c28842cf72333250e9038052753eed7735683d5376d247dd4cdf04e",
+   "bytes": 25619,
+   "count": 163
   },
   "wiki3": {
    "globals": [
     "GVD",
     "WIKI3"
    ],
-   "sha256": "988f6df017e73d703ebf3c14dfec1e5c4fbefead821f5d0a85e5b76645c4055a",
-   "bytes": 31283,
-   "count": 173
+   "sha256": "6225898abc45e710db7d9436670a4c97f4a3afd7ba82e4d23763075efbde1b82",
+   "bytes": 31462,
+   "count": 175
   },
   "ref": {
    "globals": [
@@ -98,9 +98,9 @@
    "globals": [
     "IGP"
    ],
-   "sha256": "758b8c00dca315e1cd385b012ef63bb2a49c07a9ca38dceedf40b5ec7da60e43",
-   "bytes": 31160,
-   "count": 735
+   "sha256": "d005d7af5ce7e48c27992da0a3aa5441853416614e9134bbfb552c49789d81c1",
+   "bytes": 31717,
+   "count": 749
   },
   "official": {
    "globals": [
@@ -123,9 +123,9 @@
     "HEISTS",
     "LAYERS"
    ],
-   "sha256": "296a9d70f7dc4b9490872970ee1abd6a2a5f27fa485f7329cc75c184ad81b733",
-   "bytes": 169085,
-   "count": 2327
+   "sha256": "995e9b9c2ecb0caa6760fc6e4aa60904305f996dce1d20a71c6c93c0b030ef6a",
+   "bytes": 213071,
+   "count": 2918
   },
   "gbinfo": {
    "globals": [

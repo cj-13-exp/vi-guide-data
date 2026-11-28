@@ -1,58 +1,21 @@
 {
- "ts": "2026-11-27",
+ "ts": "2026-11-28",
  "items": [
   {
-   "kind": "orgs",
-   "key": "o:Ambrosia Police Department",
-   "title": "Ambrosia Police Department",
-   "name": "Ambrosia Police Department",
+   "kind": "vehicles",
+   "key": "v:015A",
+   "title": "015A",
+   "name": "015A",
    "has": 0,
    "cands": [
     {
-     "file": "Burrito-GTAVI-APD.jpg",
-     "url": "https://gta.wiki/images/Burrito-GTAVI-APD.jpg?c3228",
-     "thumb": "https://gta.wiki/images/thumb/Burrito-GTAVI-APD.jpg/320px-Burrito-GTAVI-APD.jpg?c3228",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:Burrito-GTAVI-APD.jpg",
-     "score": 100.0
-    },
-    {
-     "file": "L35P-GTAVI-APD.jpg",
-     "url": "https://gta.wiki/images/L35P-GTAVI-APD.jpg?75a24",
-     "thumb": "https://gta.wiki/images/thumb/L35P-GTAVI-APD.jpg/320px-L35P-GTAVI-APD.jpg?75a24",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:L35P-GTAVI-APD.jpg",
-     "score": 100.0
-    },
-    {
-     "file": "Lowline-GTAVI-APD.jpg",
-     "url": "https://gta.wiki/images/Lowline-GTAVI-APD.jpg?d27f4",
-     "thumb": "https://gta.wiki/images/thumb/Lowline-GTAVI-APD.jpg/320px-Lowline-GTAVI-APD.jpg?d27f4",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:Lowline-GTAVI-APD.jpg",
-     "score": 100.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "orgs",
-   "key": "o:Bureau of Liquor, Tobacco, and Firearms",
-   "title": "Bureau of Liquor, Tobacco, and Firearms",
-   "name": "Bureau of Liquor, Tobacco, and Firearms",
-   "has": 0,
-   "cands": [
-    {
-     "file": "LTFAgent-BallCap-GTAVI-Jason.jpg",
-     "url": "https://gta.wiki/images/LTFAgent-BallCap-GTAVI-Jason.jpg?a0216",
-     "thumb": "https://gta.wiki/images/thumb/LTFAgent-BallCap-GTAVI-Jason.jpg/320px-LTFAgent-BallCap-GTAVI-Jason.jpg?a0216",
-     "w": 2622,
-     "h": 1474,
-     "page": "https://gta.wiki/wiki/File:LTFAgent-BallCap-GTAVI-Jason.jpg",
-     "score": 100.0
+     "file": "015A-GTAVI-FrontQuarter.png",
+     "url": "https://gta.wiki/images/015A-GTAVI-FrontQuarter.png?29b4f",
+     "thumb": "https://gta.wiki/images/thumb/015A-GTAVI-FrontQuarter.png/320px-015A-GTAVI-FrontQuarter.png?29b4f",
+     "w": 1920,
+     "h": 1080,
+     "page": "https://gta.wiki/wiki/File:015A-GTAVI-FrontQuarter.png",
+     "score": 138.0
     }
    ],
    "asked": false
@@ -65,78 +28,30 @@
    "has": 0,
    "cands": [
     {
-     "file": "CPD-GTAVI-GauntletInterceptor.jpg",
-     "url": "https://gta.wiki/images/CPD-GTAVI-GauntletInterceptor.jpg?b1c59",
-     "thumb": "https://gta.wiki/images/thumb/CPD-GTAVI-GauntletInterceptor.jpg/320px-CPD-GTAVI-GauntletInterceptor.jpg?b1c59",
+     "file": "CPD-GTAVI-CoquetteD10.jpg",
+     "url": "https://gta.wiki/images/CPD-GTAVI-CoquetteD10.jpg?44a61",
+     "thumb": "https://gta.wiki/images/thumb/CPD-GTAVI-CoquetteD10.jpg/320px-CPD-GTAVI-CoquetteD10.jpg?44a61",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:CPD-GTAVI-GauntletInterceptor.jpg",
+     "page": "https://gta.wiki/wiki/File:CPD-GTAVI-CoquetteD10.jpg",
      "score": 100.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "gangs",
-   "key": "g:San4San",
-   "title": "San4San",
-   "name": "San4San",
-   "has": 0,
-   "cands": [
-    {
-     "file": "San4San-GTAVI-AnExtendedLook-Chain.png",
-     "url": "https://gta.wiki/images/San4San-GTAVI-AnExtendedLook-Chain.png?978d5",
-     "thumb": "https://gta.wiki/images/thumb/San4San-GTAVI-AnExtendedLook-Chain.png/320px-San4San-GTAVI-AnExtendedLook-Chain.png?978d5",
-     "w": 1292,
-     "h": 727,
-     "page": "https://gta.wiki/wiki/File:San4San-GTAVI-AnExtendedLook-Chain.png",
-     "score": 72.6
     },
     {
-     "file": "San4San-GTAVI-Trailer2.png",
-     "url": "https://gta.wiki/images/San4San-GTAVI-Trailer2.png?90d6b",
-     "thumb": "https://gta.wiki/images/thumb/San4San-GTAVI-Trailer2.png/320px-San4San-GTAVI-Trailer2.png?90d6b",
-     "w": 700,
-     "h": 394,
-     "page": "https://gta.wiki/wiki/File:San4San-GTAVI-Trailer2.png",
-     "score": 41.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "orgs",
-   "key": "o:Customs and Border Control",
-   "title": "Customs and Border Control",
-   "name": "Customs and Border Control",
-   "has": 0,
-   "cands": [
-    {
-     "file": "VapidSpeedo-GTAVI-NOoSE-CBC.jpg",
-     "url": "https://gta.wiki/images/VapidSpeedo-GTAVI-NOoSE-CBC.jpg?cab53",
-     "thumb": "https://gta.wiki/images/thumb/VapidSpeedo-GTAVI-NOoSE-CBC.jpg/320px-VapidSpeedo-GTAVI-NOoSE-CBC.jpg?cab53",
+     "file": "CPD-GTAVI-CoquettePlinth.jpg",
+     "url": "https://gta.wiki/images/CPD-GTAVI-CoquettePlinth.jpg?49d0a",
+     "thumb": "https://gta.wiki/images/thumb/CPD-GTAVI-CoquettePlinth.jpg/320px-CPD-GTAVI-CoquettePlinth.jpg?49d0a",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:VapidSpeedo-GTAVI-NOoSE-CBC.jpg",
+     "page": "https://gta.wiki/wiki/File:CPD-GTAVI-CoquettePlinth.jpg",
      "score": 100.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "orgs",
-   "key": "o:Fast Pass EMS",
-   "title": "Fast Pass EMS",
-   "name": "Fast Pass EMS",
-   "has": 0,
-   "cands": [
+    },
     {
-     "file": "Maverick-GTAVI-FastPassEMS.jpg",
-     "url": "https://gta.wiki/images/Maverick-GTAVI-FastPassEMS.jpg?7dc65",
-     "thumb": "https://gta.wiki/images/thumb/Maverick-GTAVI-FastPassEMS.jpg/320px-Maverick-GTAVI-FastPassEMS.jpg?7dc65",
+     "file": "CPD-GTAVI-PoliceBuffalo.jpg",
+     "url": "https://gta.wiki/images/CPD-GTAVI-PoliceBuffalo.jpg?9b64d",
+     "thumb": "https://gta.wiki/images/thumb/CPD-GTAVI-PoliceBuffalo.jpg/320px-CPD-GTAVI-PoliceBuffalo.jpg?9b64d",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:Maverick-GTAVI-FastPassEMS.jpg",
+     "page": "https://gta.wiki/wiki/File:CPD-GTAVI-PoliceBuffalo.jpg",
      "score": 100.0
     }
    ],
@@ -144,253 +59,180 @@
   },
   {
    "kind": "missions",
-   "key": "ms:coming-home",
-   "title": "Coming Home",
-   "name": "Coming Home",
+   "key": "ms:hey-arnold",
+   "title": "Hey Arnold!",
+   "name": "Hey Arnold!",
    "has": 0,
    "cands": [
     {
-     "file": "ComingHome-GTAVI-Mission.png",
-     "url": "https://gta.wiki/images/ComingHome-GTAVI-Mission.png?cf322",
-     "thumb": "https://gta.wiki/images/thumb/ComingHome-GTAVI-Mission.png/320px-ComingHome-GTAVI-Mission.png?cf322",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:ComingHome-GTAVI-Mission.png",
-     "score": 100.0
+     "file": "HeyArnold!-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/HeyArnold%21-GTAVI-Thumbnail.png?b302a",
+     "thumb": "https://gta.wiki/images/thumb/HeyArnold%21-GTAVI-Thumbnail.png/320px-HeyArnold%21-GTAVI-Thumbnail.png?b302a",
+     "w": 1917,
+     "h": 901,
+     "page": "https://gta.wiki/wiki/File:HeyArnold%21-GTAVI-Thumbnail.png",
+     "score": 95.8
     }
    ],
    "asked": false
   },
   {
    "kind": "characters",
-   "key": "c:Buddy Krever",
-   "title": "Buddy Krever",
-   "name": "Buddy Krever",
+   "key": "c:Brittney",
+   "title": "Brittney",
+   "name": "Brittney",
    "has": 0,
    "cands": [
     {
-     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg",
-     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg?fc4de",
-     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg?fc4de",
+     "file": "Brittney-GTAVI-Portrait.png",
+     "url": "https://gta.wiki/images/Brittney-GTAVI-Portrait.png?0bc4c",
+     "thumb": "https://gta.wiki/images/thumb/Brittney-GTAVI-Portrait.png/320px-Brittney-GTAVI-Portrait.png?0bc4c",
+     "w": 996,
+     "h": 996,
+     "page": "https://gta.wiki/wiki/File:Brittney-GTAVI-Portrait.png",
+     "score": 79.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "characters",
+   "key": "c:Cecilia Richardson",
+   "title": "Cecilia Richardson",
+   "name": "Cecilia Richardson",
+   "has": 0,
+   "cands": [
+    {
+     "file": "FakeCeciliaRichardson-GTAVI-Portrait.png",
+     "url": "https://gta.wiki/images/FakeCeciliaRichardson-GTAVI-Portrait.png?7dab7",
+     "thumb": "https://gta.wiki/images/thumb/FakeCeciliaRichardson-GTAVI-Portrait.png/320px-FakeCeciliaRichardson-GTAVI-Portrait.png?7dab7",
+     "w": 750,
+     "h": 750,
+     "page": "https://gta.wiki/wiki/File:FakeCeciliaRichardson-GTAVI-Portrait.png",
+     "score": 67.5
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "vehicles",
+   "key": "v:Bagga",
+   "title": "Bagga",
+   "name": "Bagga",
+   "has": 0,
+   "cands": [
+    {
+     "file": "UnnamedBaggageTrailer-GTAVI-AnExtendedLook.png",
+     "url": "https://gta.wiki/images/UnnamedBaggageTrailer-GTAVI-AnExtendedLook.png?6a6e2",
+     "thumb": "https://gta.wiki/images/thumb/UnnamedBaggageTrailer-GTAVI-AnExtendedLook.png/320px-UnnamedBaggageTrailer-GTAVI-AnExtendedLook.png?6a6e2",
+     "w": 722,
+     "h": 406,
+     "page": "https://gta.wiki/wiki/File:UnnamedBaggageTrailer-GTAVI-AnExtendedLook.png",
+     "score": 50.1
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "orgs",
+   "key": "o:Mariana County Sheriff",
+   "title": "Mariana County Sheriff",
+   "name": "Mariana County Sheriff",
+   "has": 0,
+   "cands": [
+    {
+     "file": "PoliceBison1800-GTAVI-FrontQuarter-MCSO.png",
+     "url": "https://gta.wiki/images/PoliceBison1800-GTAVI-FrontQuarter-MCSO.png?fd60c",
+     "thumb": "https://gta.wiki/images/thumb/PoliceBison1800-GTAVI-FrontQuarter-MCSO.png/320px-PoliceBison1800-GTAVI-FrontQuarter-MCSO.png?fd60c",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg",
-     "score": 110.0
+     "page": "https://gta.wiki/wiki/File:PoliceBison1800-GTAVI-FrontQuarter-MCSO.png",
+     "score": 142.0
+    },
+    {
+     "file": "PoliceLowline-GTAVI-FrontQuarter-MCSO.png",
+     "url": "https://gta.wiki/images/PoliceLowline-GTAVI-FrontQuarter-MCSO.png?f0428",
+     "thumb": "https://gta.wiki/images/thumb/PoliceLowline-GTAVI-FrontQuarter-MCSO.png/320px-PoliceLowline-GTAVI-FrontQuarter-MCSO.png?f0428",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:PoliceLowline-GTAVI-FrontQuarter-MCSO.png",
+     "score": 142.0
     }
    ],
    "asked": false
   },
   {
    "kind": "missions",
-   "key": "ms:day-release",
-   "title": "Day Release",
-   "name": "Day Release",
+   "key": "ms:girls-trip",
+   "title": "Girls' Trip",
+   "name": "Girls' Trip",
    "has": 0,
    "cands": [
     {
-     "file": "GTAVITrailer2-GTAVI-SS41.jpg",
-     "url": "https://gta.wiki/images/GTAVITrailer2-GTAVI-SS41.jpg?d9c30",
-     "thumb": "https://gta.wiki/images/thumb/GTAVITrailer2-GTAVI-SS41.jpg/320px-GTAVITrailer2-GTAVI-SS41.jpg?d9c30",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVITrailer2-GTAVI-SS41.jpg",
-     "score": 106.0
-    },
-    {
-     "file": "GTAVITrailer2-GTAVI-SS42.jpg",
-     "url": "https://gta.wiki/images/GTAVITrailer2-GTAVI-SS42.jpg?a454a",
-     "thumb": "https://gta.wiki/images/thumb/GTAVITrailer2-GTAVI-SS42.jpg/320px-GTAVITrailer2-GTAVI-SS42.jpg?a454a",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVITrailer2-GTAVI-SS42.jpg",
-     "score": 106.0
-    },
-    {
-     "file": "GTAVITrailer2-GTAVI-SS63.jpg",
-     "url": "https://gta.wiki/images/GTAVITrailer2-GTAVI-SS63.jpg?1ea4c",
-     "thumb": "https://gta.wiki/images/thumb/GTAVITrailer2-GTAVI-SS63.jpg/320px-GTAVITrailer2-GTAVI-SS63.jpg?1ea4c",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVITrailer2-GTAVI-SS63.jpg",
-     "score": 106.0
+     "file": "Girl'sTrip-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/Girl%27sTrip-GTAVI-Thumbnail.png?3fd37",
+     "thumb": "https://gta.wiki/images/thumb/Girl%27sTrip-GTAVI-Thumbnail.png/320px-Girl%27sTrip-GTAVI-Thumbnail.png?3fd37",
+     "w": 1917,
+     "h": 866,
+     "page": "https://gta.wiki/wiki/File:Girl%27sTrip-GTAVI-Thumbnail.png",
+     "score": 95.8
     }
    ],
    "asked": false
   },
   {
-   "kind": "orgs",
-   "key": "o:Leonida Highway Patrol",
-   "title": "Leonida Highway Patrol",
-   "name": "Leonida Highway Patrol",
+   "kind": "missions",
+   "key": "ms:moses-mission",
+   "title": "Moses (mission)",
+   "name": "Moses (mission)",
    "has": 0,
    "cands": [
     {
-     "file": "LeonidaHighwayPatrol-Seal-GTAVI.png",
-     "url": "https://gta.wiki/images/LeonidaHighwayPatrol-Seal-GTAVI.png?88c56",
-     "thumb": "https://gta.wiki/images/thumb/LeonidaHighwayPatrol-Seal-GTAVI.png/320px-LeonidaHighwayPatrol-Seal-GTAVI.png?88c56",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:LeonidaHighwayPatrol-Seal-GTAVI.png",
-     "score": 100.0
-    },
-    {
-     "file": "PoliceMontagne-GTAVI-LHP.png",
-     "url": "https://gta.wiki/images/PoliceMontagne-GTAVI-LHP.png?8c0f0",
-     "thumb": "https://gta.wiki/images/thumb/PoliceMontagne-GTAVI-LHP.png/320px-PoliceMontagne-GTAVI-LHP.png?8c0f0",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:PoliceMontagne-GTAVI-LHP.png",
-     "score": 100.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "characters",
-   "key": "c:César Navarro",
-   "title": "César Navarro",
-   "name": "César Navarro",
-   "has": 0,
-   "cands": [
-    {
-     "file": "CésarNavarro-GTAVI-Portrait.png",
-     "url": "https://gta.wiki/images/C%C3%A9sarNavarro-GTAVI-Portrait.png?b06a3",
-     "thumb": "https://gta.wiki/images/thumb/C%C3%A9sarNavarro-GTAVI-Portrait.png/320px-C%C3%A9sarNavarro-GTAVI-Portrait.png?b06a3",
-     "w": 1483,
-     "h": 1483,
-     "page": "https://gta.wiki/wiki/File:C%C3%A9sarNavarro-GTAVI-Portrait.png",
-     "score": 104.2
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "orgs",
-   "key": "o:Lummox County Sheriff",
-   "title": "Lummox County Sheriff",
-   "name": "Lummox County Sheriff",
-   "has": 0,
-   "cands": [
-    {
-     "file": "GrangerK9-GTAVI-LSO.jpg",
-     "url": "https://gta.wiki/images/GrangerK9-GTAVI-LSO.jpg?66353",
-     "thumb": "https://gta.wiki/images/thumb/GrangerK9-GTAVI-LSO.jpg/320px-GrangerK9-GTAVI-LSO.jpg?66353",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GrangerK9-GTAVI-LSO.jpg",
-     "score": 100.0
-    },
-    {
-     "file": "PoliceBison1800-GTAVI-LSO.jpg",
-     "url": "https://gta.wiki/images/PoliceBison1800-GTAVI-LSO.jpg?66413",
-     "thumb": "https://gta.wiki/images/thumb/PoliceBison1800-GTAVI-LSO.jpg/320px-PoliceBison1800-GTAVI-LSO.jpg?66413",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:PoliceBison1800-GTAVI-LSO.jpg",
-     "score": 100.0
-    },
-    {
-     "file": "PoliceBisonAlpha-GTAVI-LSO.jpg",
-     "url": "https://gta.wiki/images/PoliceBisonAlpha-GTAVI-LSO.jpg?b5e16",
-     "thumb": "https://gta.wiki/images/thumb/PoliceBisonAlpha-GTAVI-LSO.jpg/320px-PoliceBisonAlpha-GTAVI-LSO.jpg?b5e16",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:PoliceBisonAlpha-GTAVI-LSO.jpg",
-     "score": 100.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "orgs",
-   "key": "o:Lummox Emergency Services",
-   "title": "Lummox Emergency Services",
-   "name": "Lummox Emergency Services",
-   "has": 0,
-   "cands": [
-    {
-     "file": "BensonTanker-GTAVI-ELS.png",
-     "url": "https://gta.wiki/images/BensonTanker-GTAVI-ELS.png?a9f57",
-     "thumb": "https://gta.wiki/images/thumb/BensonTanker-GTAVI-ELS.png/320px-BensonTanker-GTAVI-ELS.png?a9f57",
-     "w": 1920,
+     "file": "Moses-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/Moses-GTAVI-Thumbnail.png?9cb85",
+     "thumb": "https://gta.wiki/images/thumb/Moses-GTAVI-Thumbnail.png/320px-Moses-GTAVI-Thumbnail.png?9cb85",
+     "w": 1921,
      "h": 1080,
-     "page": "https://gta.wiki/wiki/File:BensonTanker-GTAVI-ELS.png",
-     "score": 96.0
-    },
-    {
-     "file": "Pumper-GTAVI-ELS.png",
-     "url": "https://gta.wiki/images/Pumper-GTAVI-ELS.png?e3af6",
-     "thumb": "https://gta.wiki/images/thumb/Pumper-GTAVI-ELS.png/320px-Pumper-GTAVI-ELS.png?e3af6",
-     "w": 1920,
-     "h": 1080,
-     "page": "https://gta.wiki/wiki/File:Pumper-GTAVI-ELS.png",
+     "page": "https://gta.wiki/wiki/File:Moses-GTAVI-Thumbnail.png",
      "score": 96.0
     }
    ],
    "asked": false
   },
   {
-   "kind": "characters",
-   "key": "c:Donnie Carter",
-   "title": "Donnie Carter",
-   "name": "Donnie Carter",
+   "kind": "missions",
+   "key": "ms:slam-dunk",
+   "title": "Slam Dunk",
+   "name": "Slam Dunk",
    "has": 0,
    "cands": [
     {
-     "file": "Donnie'sTrailer-GTAVI-Interior2.png",
-     "url": "https://gta.wiki/images/Donnie%27sTrailer-GTAVI-Interior2.png?2241a",
-     "thumb": "https://gta.wiki/images/thumb/Donnie%27sTrailer-GTAVI-Interior2.png/320px-Donnie%27sTrailer-GTAVI-Interior2.png?2241a",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:Donnie%27sTrailer-GTAVI-Interior2.png",
-     "score": 106.0
-    },
-    {
-     "file": "GTAVITrailer2-GTAVI-SS30.jpg",
-     "url": "https://gta.wiki/images/GTAVITrailer2-GTAVI-SS30.jpg?beee3",
-     "thumb": "https://gta.wiki/images/thumb/GTAVITrailer2-GTAVI-SS30.jpg/320px-GTAVITrailer2-GTAVI-SS30.jpg?beee3",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVITrailer2-GTAVI-SS30.jpg",
-     "score": 106.0
+     "file": "SlamDunk-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/SlamDunk-GTAVI-Thumbnail.png?21edd",
+     "thumb": "https://gta.wiki/images/thumb/SlamDunk-GTAVI-Thumbnail.png/320px-SlamDunk-GTAVI-Thumbnail.png?21edd",
+     "w": 1901,
+     "h": 900,
+     "page": "https://gta.wiki/wiki/File:SlamDunk-GTAVI-Thumbnail.png",
+     "score": 95.0
     }
    ],
    "asked": false
   },
   {
-   "kind": "orgs",
-   "key": "o:Vice City Police Department",
-   "title": "Vice City Police Department",
-   "name": "Vice City Police Department",
+   "kind": "missions",
+   "key": "ms:daily-driver",
+   "title": "Daily Driver",
+   "name": "Daily Driver",
    "has": 0,
    "cands": [
     {
-     "file": "PoliceBuzzard-GTAVI-FrontQuarter.jpg",
-     "url": "https://gta.wiki/images/PoliceBuzzard-GTAVI-FrontQuarter.jpg?a5d62",
-     "thumb": "https://gta.wiki/images/thumb/PoliceBuzzard-GTAVI-FrontQuarter.jpg/320px-PoliceBuzzard-GTAVI-FrontQuarter.jpg?a5d62",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:PoliceBuzzard-GTAVI-FrontQuarter.jpg",
-     "score": 142.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "orgs",
-   "key": "o:Vice-Dale Fire Rescue",
-   "title": "Vice-Dale Fire Rescue",
-   "name": "Vice-Dale Fire Rescue",
-   "has": 0,
-   "cands": [
-    {
-     "file": "MB2-10-Ambulance-GTAVI-FrontQuarter-VDFR.jpg",
-     "url": "https://gta.wiki/images/MB2-10-Ambulance-GTAVI-FrontQuarter-VDFR.jpg?a9846",
-     "thumb": "https://gta.wiki/images/thumb/MB2-10-Ambulance-GTAVI-FrontQuarter-VDFR.jpg/320px-MB2-10-Ambulance-GTAVI-FrontQuarter-VDFR.jpg?a9846",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:MB2-10-Ambulance-GTAVI-FrontQuarter-VDFR.jpg",
-     "score": 142.0
+     "file": "DailyDriver-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/DailyDriver-GTAVI-Thumbnail.png?fc73c",
+     "thumb": "https://gta.wiki/images/thumb/DailyDriver-GTAVI-Thumbnail.png/320px-DailyDriver-GTAVI-Thumbnail.png?fc73c",
+     "w": 1900,
+     "h": 900,
+     "page": "https://gta.wiki/wiki/File:DailyDriver-GTAVI-Thumbnail.png",
+     "score": 95.0
     }
    ],
    "asked": false
@@ -403,50 +245,145 @@
    "has": 0,
    "cands": [
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS18.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS18.jpg?3889c",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS18.jpg/320px-GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS18.jpg?3889c",
+     "file": "GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS7.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS7.jpg?15fbf",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS7.jpg/320px-GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS7.jpg?15fbf",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS18.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS7.jpg",
      "score": 108.0
     },
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS23.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS23.jpg?9f0f7",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS23.jpg/320px-GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS23.jpg?9f0f7",
+     "file": "GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS9.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS9.jpg?15fbf",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS9.jpg/320px-GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS9.jpg?15fbf",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS23.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS9.jpg",
      "score": 108.0
     },
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS4.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS4.jpg?15fbf",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS4.jpg/320px-GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS4.jpg?15fbf",
+     "file": "GTAVIAnExtendedLook-GTAVI-Montage1-SS2.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Montage1-SS2.jpg?30418",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Montage1-SS2.jpg/320px-GTAVIAnExtendedLook-GTAVI-Montage1-SS2.jpg?30418",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-DialogueMontage-SS4.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Montage1-SS2.jpg",
      "score": 108.0
     }
    ],
    "asked": false
   },
   {
-   "kind": "characters",
-   "key": "c:Jalen Wang",
-   "title": "Jalen Wang",
-   "name": "Jalen Wang",
+   "kind": "orgs",
+   "key": "o:Vice-Dale Fire Rescue",
+   "title": "Vice-Dale Fire Rescue",
+   "name": "Vice-Dale Fire Rescue",
    "has": 0,
    "cands": [
     {
-     "file": "JWang-GTAVI-Portrait.png",
-     "url": "https://gta.wiki/images/JWang-GTAVI-Portrait.png?6dbf6",
-     "thumb": "https://gta.wiki/images/thumb/JWang-GTAVI-Portrait.png/320px-JWang-GTAVI-Portrait.png?6dbf6",
-     "w": 1264,
-     "h": 1264,
-     "page": "https://gta.wiki/wiki/File:JWang-GTAVI-Portrait.png",
-     "score": 93.2
+     "file": "Ambulance2-GTAVI-FrontQuarter-VDFR.jpg",
+     "url": "https://gta.wiki/images/Ambulance2-GTAVI-FrontQuarter-VDFR.jpg?a9846",
+     "thumb": "https://gta.wiki/images/thumb/Ambulance2-GTAVI-FrontQuarter-VDFR.jpg/320px-Ambulance2-GTAVI-FrontQuarter-VDFR.jpg?a9846",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:Ambulance2-GTAVI-FrontQuarter-VDFR.jpg",
+     "score": 142.0
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "orgs",
+   "key": "o:Waning Sands Police Department",
+   "title": "Waning Sands Police Department",
+   "name": "Waning Sands Police Department",
+   "has": 0,
+   "cands": [
+    {
+     "file": "Buffalo2019-GTAVI-WSPD.jpg",
+     "url": "https://gta.wiki/images/Buffalo2019-GTAVI-WSPD.jpg?d9fa4",
+     "thumb": "https://gta.wiki/images/thumb/Buffalo2019-GTAVI-WSPD.jpg/320px-Buffalo2019-GTAVI-WSPD.jpg?d9fa4",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:Buffalo2019-GTAVI-WSPD.jpg",
+     "score": 100.0
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "orgs",
+   "key": "o:Watson Bay Police Department",
+   "title": "Watson Bay Police Department",
+   "name": "Watson Bay Police Department",
+   "has": 0,
+   "cands": [
+    {
+     "file": "PoliceL35P-GTAVI-FrontQuarter-WBPD.png",
+     "url": "https://gta.wiki/images/PoliceL35P-GTAVI-FrontQuarter-WBPD.png?f0eb1",
+     "thumb": "https://gta.wiki/images/thumb/PoliceL35P-GTAVI-FrontQuarter-WBPD.png/320px-PoliceL35P-GTAVI-FrontQuarter-WBPD.png?f0eb1",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:PoliceL35P-GTAVI-FrontQuarter-WBPD.png",
+     "score": 142.0
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:afternoon-delight",
+   "title": "Afternoon Delight",
+   "name": "Afternoon Delight",
+   "has": 0,
+   "cands": [
+    {
+     "file": "AfternoonDelight-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/AfternoonDelight-GTAVI-Thumbnail.png?cacb0",
+     "thumb": "https://gta.wiki/images/thumb/AfternoonDelight-GTAVI-Thumbnail.png/320px-AfternoonDelight-GTAVI-Thumbnail.png?cacb0",
+     "w": 1917,
+     "h": 900,
+     "page": "https://gta.wiki/wiki/File:AfternoonDelight-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:checking-out",
+   "title": "Checking Out",
+   "name": "Checking Out",
+   "has": 0,
+   "cands": [
+    {
+     "file": "CheckingOut-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/CheckingOut-GTAVI-Thumbnail.png?c3281",
+     "thumb": "https://gta.wiki/images/thumb/CheckingOut-GTAVI-Thumbnail.png/320px-CheckingOut-GTAVI-Thumbnail.png?c3281",
+     "w": 1917,
+     "h": 863,
+     "page": "https://gta.wiki/wiki/File:CheckingOut-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "characters",
+   "key": "c:HCI Representative",
+   "title": "HCI Representative",
+   "name": "HCI Representative",
+   "has": 0,
+   "cands": [
+    {
+     "file": "HCIRepresentative-GTAVI-Portrait.png",
+     "url": "https://gta.wiki/images/HCIRepresentative-GTAVI-Portrait.png?3c090",
+     "thumb": "https://gta.wiki/images/thumb/HCIRepresentative-GTAVI-Portrait.png/320px-HCIRepresentative-GTAVI-Portrait.png?3c090",
+     "w": 800,
+     "h": 800,
+     "page": "https://gta.wiki/wiki/File:HCIRepresentative-GTAVI-Portrait.png",
+     "score": 70.0
     }
    ],
    "asked": false
@@ -459,31 +396,41 @@
    "has": 0,
    "cands": [
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS3.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS3.jpg?e2846",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS3.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS3.jpg?e2846",
+     "file": "MeetTheHeders-GTAVI-DecapitatedHead.png",
+     "url": "https://gta.wiki/images/MeetTheHeders-GTAVI-DecapitatedHead.png?143c7",
+     "thumb": "https://gta.wiki/images/thumb/MeetTheHeders-GTAVI-DecapitatedHead.png/320px-MeetTheHeders-GTAVI-DecapitatedHead.png?143c7",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS3.jpg",
-     "score": 108.0
+     "page": "https://gta.wiki/wiki/File:MeetTheHeders-GTAVI-DecapitatedHead.png",
+     "score": 100.0
     },
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS7.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS7.jpg?e2846",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS7.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS7.jpg?e2846",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS7.jpg",
-     "score": 108.0
-    },
+     "file": "MeetTheHeders-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/MeetTheHeders-GTAVI-Thumbnail.png?9112a",
+     "thumb": "https://gta.wiki/images/thumb/MeetTheHeders-GTAVI-Thumbnail.png/320px-MeetTheHeders-GTAVI-Thumbnail.png?9112a",
+     "w": 1917,
+     "h": 960,
+     "page": "https://gta.wiki/wiki/File:MeetTheHeders-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "characters",
+   "key": "c:Jerry Turner",
+   "title": "Jerry Turner",
+   "name": "Jerry Turner",
+   "has": 0,
+   "cands": [
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS8.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS8.jpg?e2846",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS8.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS8.jpg?e2846",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene2-Part3-SS8.jpg",
-     "score": 108.0
+     "file": "JerryTurner-GTAVI-Portrait.png",
+     "url": "https://gta.wiki/images/JerryTurner-GTAVI-Portrait.png?73842",
+     "thumb": "https://gta.wiki/images/thumb/JerryTurner-GTAVI-Portrait.png/320px-JerryTurner-GTAVI-Portrait.png?73842",
+     "w": 800,
+     "h": 800,
+     "page": "https://gta.wiki/wiki/File:JerryTurner-GTAVI-Portrait.png",
+     "score": 70.0
     }
    ],
    "asked": false
@@ -496,31 +443,126 @@
    "has": 0,
    "cands": [
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS4.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS4.jpg?6a772",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS4.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS4.jpg?6a772",
+     "file": "GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS8.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS8.jpg?d7dda",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS8.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS8.jpg?d7dda",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS4.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS8.jpg",
      "score": 108.0
     },
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS50.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS50.jpg?9f7b4",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS50.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS50.jpg?9f7b4",
+     "file": "GTAVIAnExtendedLook-GTAVI-Scene3-SS1.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene3-SS1.jpg?9f7b4",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene3-SS1.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene3-SS1.jpg?9f7b4",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS50.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene3-SS1.jpg",
      "score": 108.0
     },
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS52.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS52.jpg?19a7c",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS52.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS52.jpg?19a7c",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene3-Part2-SS52.jpg",
-     "score": 108.0
+     "file": "FirstImpressions-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/FirstImpressions-GTAVI-Thumbnail.png?5fa49",
+     "thumb": "https://gta.wiki/images/thumb/FirstImpressions-GTAVI-Thumbnail.png/320px-FirstImpressions-GTAVI-Thumbnail.png?5fa49",
+     "w": 1917,
+     "h": 913,
+     "page": "https://gta.wiki/wiki/File:FirstImpressions-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:crosstown-traffic",
+   "title": "Crosstown Traffic",
+   "name": "Crosstown Traffic",
+   "has": 0,
+   "cands": [
+    {
+     "file": "CrosstownTraffic-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/CrosstownTraffic-GTAVI-Thumbnail.png?b9b02",
+     "thumb": "https://gta.wiki/images/thumb/CrosstownTraffic-GTAVI-Thumbnail.png/320px-CrosstownTraffic-GTAVI-Thumbnail.png?b9b02",
+     "w": 1917,
+     "h": 961,
+     "page": "https://gta.wiki/wiki/File:CrosstownTraffic-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:ride-or-die",
+   "title": "Ride or Die",
+   "name": "Ride or Die",
+   "has": 0,
+   "cands": [
+    {
+     "file": "RideorDie-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/RideorDie-GTAVI-Thumbnail.png?fc0a4",
+     "thumb": "https://gta.wiki/images/thumb/RideorDie-GTAVI-Thumbnail.png/320px-RideorDie-GTAVI-Thumbnail.png?fc0a4",
+     "w": 1917,
+     "h": 913,
+     "page": "https://gta.wiki/wiki/File:RideorDie-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:security-expert",
+   "title": "Security Expert",
+   "name": "Security Expert",
+   "has": 0,
+   "cands": [
+    {
+     "file": "SecurityExpert-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/SecurityExpert-GTAVI-Thumbnail.png?e9db4",
+     "thumb": "https://gta.wiki/images/thumb/SecurityExpert-GTAVI-Thumbnail.png/320px-SecurityExpert-GTAVI-Thumbnail.png?e9db4",
+     "w": 1917,
+     "h": 902,
+     "page": "https://gta.wiki/wiki/File:SecurityExpert-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:company-property",
+   "title": "Company Property",
+   "name": "Company Property",
+   "has": 0,
+   "cands": [
+    {
+     "file": "CompanyProtection-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/CompanyProtection-GTAVI-Thumbnail.png?0f62c",
+     "thumb": "https://gta.wiki/images/thumb/CompanyProtection-GTAVI-Thumbnail.png/320px-CompanyProtection-GTAVI-Thumbnail.png?0f62c",
+     "w": 1917,
+     "h": 900,
+     "page": "https://gta.wiki/wiki/File:CompanyProtection-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:cooties",
+   "title": "Cooties",
+   "name": "Cooties",
+   "has": 0,
+   "cands": [
+    {
+     "file": "Cooties-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/Cooties-GTAVI-Thumbnail.png?99699",
+     "thumb": "https://gta.wiki/images/thumb/Cooties-GTAVI-Thumbnail.png/320px-Cooties-GTAVI-Thumbnail.png?99699",
+     "w": 1917,
+     "h": 946,
+     "page": "https://gta.wiki/wiki/File:Cooties-GTAVI-Thumbnail.png",
+     "score": 95.8
     }
    ],
    "asked": false
@@ -533,30 +575,30 @@
    "has": 0,
    "cands": [
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene1-SS33.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene1-SS33.jpg?39d18",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene1-SS33.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene1-SS33.jpg?39d18",
+     "file": "GTAVIAnExtendedLook-GTAVI-Scene1-SS53.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene1-SS53.jpg?99f22",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene1-SS53.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene1-SS53.jpg?99f22",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene1-SS33.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene1-SS53.jpg",
      "score": 108.0
     },
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene1-SS43.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene1-SS43.jpg?39300",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene1-SS43.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene1-SS43.jpg?39300",
+     "file": "GTAVIAnExtendedLook-GTAVI-Scene1-SS64.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene1-SS64.jpg?579c3",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene1-SS64.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene1-SS64.jpg?579c3",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene1-SS43.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene1-SS64.jpg",
      "score": 108.0
     },
     {
-     "file": "GTAVIAnExtendedLook-GTAVI-Scene1-SS51.jpg",
-     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene1-SS51.jpg?7c05b",
-     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene1-SS51.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene1-SS51.jpg?7c05b",
+     "file": "GTAVIAnExtendedLook-GTAVI-Scene1-SS68.jpg",
+     "url": "https://gta.wiki/images/GTAVIAnExtendedLook-GTAVI-Scene1-SS68.jpg?afd86",
+     "thumb": "https://gta.wiki/images/thumb/GTAVIAnExtendedLook-GTAVI-Scene1-SS68.jpg/320px-GTAVIAnExtendedLook-GTAVI-Scene1-SS68.jpg?afd86",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene1-SS51.jpg",
+     "page": "https://gta.wiki/wiki/File:GTAVIAnExtendedLook-GTAVI-Scene1-SS68.jpg",
      "score": 108.0
     }
    ],
@@ -564,37 +606,18 @@
   },
   {
    "kind": "missions",
-   "key": "ms:company-cars",
-   "title": "Company Cars",
-   "name": "Company Cars",
+   "key": "ms:the-cartel-heist",
+   "title": "The Cartel Heist",
+   "name": "The Cartel Heist",
    "has": 0,
    "cands": [
     {
-     "file": "CompanyCars-GTAVI-Thumbnail.png",
-     "url": "https://gta.wiki/images/CompanyCars-GTAVI-Thumbnail.png?8bc83",
-     "thumb": "https://gta.wiki/images/thumb/CompanyCars-GTAVI-Thumbnail.png/320px-CompanyCars-GTAVI-Thumbnail.png?8bc83",
-     "w": 1024,
-     "h": 512,
-     "page": "https://gta.wiki/wiki/File:CompanyCars-GTAVI-Thumbnail.png",
-     "score": 51.2
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "missions",
-   "key": "ms:lawyer-up",
-   "title": "Lawyer Up",
-   "name": "Lawyer Up",
-   "has": 0,
-   "cands": [
-    {
-     "file": "LawyerUp-GTAVI-Thumbnail.png",
-     "url": "https://gta.wiki/images/LawyerUp-GTAVI-Thumbnail.png?3538b",
-     "thumb": "https://gta.wiki/images/thumb/LawyerUp-GTAVI-Thumbnail.png/320px-LawyerUp-GTAVI-Thumbnail.png?3538b",
+     "file": "TheCartelHeist-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/TheCartelHeist-GTAVI-Thumbnail.png?66b40",
+     "thumb": "https://gta.wiki/images/thumb/TheCartelHeist-GTAVI-Thumbnail.png/320px-TheCartelHeist-GTAVI-Thumbnail.png?66b40",
      "w": 1917,
-     "h": 845,
-     "page": "https://gta.wiki/wiki/File:LawyerUp-GTAVI-Thumbnail.png",
+     "h": 867,
+     "page": "https://gta.wiki/wiki/File:TheCartelHeist-GTAVI-Thumbnail.png",
      "score": 95.8
     }
    ],
@@ -602,198 +625,18 @@
   },
   {
    "kind": "missions",
-   "key": "ms:party-hard",
-   "title": "Party Hard",
-   "name": "Party Hard",
+   "key": "ms:bad-driver",
+   "title": "Bad Driver!",
+   "name": "Bad Driver!",
    "has": 0,
    "cands": [
     {
-     "file": "PartyHard-GTAVI-Thumbnail.png",
-     "url": "https://gta.wiki/images/PartyHard-GTAVI-Thumbnail.png?6604d",
-     "thumb": "https://gta.wiki/images/thumb/PartyHard-GTAVI-Thumbnail.png/320px-PartyHard-GTAVI-Thumbnail.png?6604d",
-     "w": 1917,
-     "h": 892,
-     "page": "https://gta.wiki/wiki/File:PartyHard-GTAVI-Thumbnail.png",
-     "score": 95.8
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "missions",
-   "key": "ms:heavy-lifting",
-   "title": "Heavy Lifting",
-   "name": "Heavy Lifting",
-   "has": 0,
-   "cands": [
-    {
-     "file": "HeavyLifting-GTAVI-Thumbnail.png",
-     "url": "https://gta.wiki/images/HeavyLifting-GTAVI-Thumbnail.png?e2eaa",
-     "thumb": "https://gta.wiki/images/thumb/HeavyLifting-GTAVI-Thumbnail.png/320px-HeavyLifting-GTAVI-Thumbnail.png?e2eaa",
-     "w": 1024,
-     "h": 512,
-     "page": "https://gta.wiki/wiki/File:HeavyLifting-GTAVI-Thumbnail.png",
-     "score": 51.2
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "missions",
-   "key": "ms:photo-shoot",
-   "title": "Photo/Shoot",
-   "name": "Photo/Shoot",
-   "has": 0,
-   "cands": [
-    {
-     "file": "Photo-Shoot-GTAVI-Thumbnail.png",
-     "url": "https://gta.wiki/images/Photo-Shoot-GTAVI-Thumbnail.png?21e4e",
-     "thumb": "https://gta.wiki/images/thumb/Photo-Shoot-GTAVI-Thumbnail.png/320px-Photo-Shoot-GTAVI-Thumbnail.png?21e4e",
-     "w": 1917,
-     "h": 888,
-     "page": "https://gta.wiki/wiki/File:Photo-Shoot-GTAVI-Thumbnail.png",
-     "score": 95.8
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "characters",
-   "key": "c:Randy Kozlov",
-   "title": "Randy Kozlov",
-   "name": "Randy Kozlov",
-   "has": 0,
-   "cands": [
-    {
-     "file": "RandyKozlov-GTAVI-Portrait.png",
-     "url": "https://gta.wiki/images/RandyKozlov-GTAVI-Portrait.png?c19cf",
-     "thumb": "https://gta.wiki/images/thumb/RandyKozlov-GTAVI-Portrait.png/320px-RandyKozlov-GTAVI-Portrait.png?c19cf",
-     "w": 1073,
-     "h": 1073,
-     "page": "https://gta.wiki/wiki/File:RandyKozlov-GTAVI-Portrait.png",
-     "score": 83.7
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "characters",
-   "key": "c:Ray De Angelo Harris",
-   "title": "Ray De Angelo Harris",
-   "name": "Ray De Angelo Harris",
-   "has": 0,
-   "cands": [
-    {
-     "file": "RayDeAngeloHarris-GTAVI-Portrait.png",
-     "url": "https://gta.wiki/images/RayDeAngeloHarris-GTAVI-Portrait.png?b7be5",
-     "thumb": "https://gta.wiki/images/thumb/RayDeAngeloHarris-GTAVI-Portrait.png/320px-RayDeAngeloHarris-GTAVI-Portrait.png?b7be5",
-     "w": 728,
-     "h": 729,
-     "page": "https://gta.wiki/wiki/File:RayDeAngeloHarris-GTAVI-Portrait.png",
-     "score": 66.4
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "characters",
-   "key": "c:Rhonda",
-   "title": "Rhonda",
-   "name": "Rhonda",
-   "has": 0,
-   "cands": [
-    {
-     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-JasonandLucia18.jpg",
-     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-JasonandLucia18.jpg?50989",
-     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-JasonandLucia18.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-JasonandLucia18.jpg?50989",
+     "file": "BadDriver-GTAVI-Mission.png",
+     "url": "https://gta.wiki/images/BadDriver-GTAVI-Mission.png?4898a",
+     "thumb": "https://gta.wiki/images/thumb/BadDriver-GTAVI-Mission.png/320px-BadDriver-GTAVI-Mission.png?4898a",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-JasonandLucia18.jpg",
-     "score": 110.0
-    },
-    {
-     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg",
-     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg?f3a7d",
-     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg?f3a7d",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg",
-     "score": 110.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "vehicles",
-   "key": "v:Futo",
-   "title": "Futo",
-   "name": "Futo",
-   "has": 0,
-   "cands": [
-    {
-     "file": "Futo-GTAVI-AnExtendedLook-1.png",
-     "url": "https://gta.wiki/images/Futo-GTAVI-AnExtendedLook-1.png?7d63f",
-     "thumb": "https://gta.wiki/images/thumb/Futo-GTAVI-AnExtendedLook-1.png/320px-Futo-GTAVI-AnExtendedLook-1.png?7d63f",
-     "w": 757,
-     "h": 426,
-     "page": "https://gta.wiki/wiki/File:Futo-GTAVI-AnExtendedLook-1.png",
-     "score": 45.9
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "characters",
-   "key": "c:Sarah Fitzroy",
-   "title": "Sarah Fitzroy",
-   "name": "Sarah Fitzroy",
-   "has": 0,
-   "cands": [
-    {
-     "file": "Deputy_Sarah_Fitzroy_GTAVI_Portrait.png",
-     "url": "https://gta.wiki/images/Deputy_Sarah_Fitzroy_GTAVI_Portrait.png?9aa18",
-     "thumb": "https://gta.wiki/images/thumb/Deputy_Sarah_Fitzroy_GTAVI_Portrait.png/320px-Deputy_Sarah_Fitzroy_GTAVI_Portrait.png?9aa18",
-     "w": 869,
-     "h": 945,
-     "page": "https://gta.wiki/wiki/File:Deputy_Sarah_Fitzroy_GTAVI_Portrait.png",
-     "score": 73.5
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "vehicles",
-   "key": "v:Granger (taxi)",
-   "title": "Granger (taxi)",
-   "name": "Granger (taxi)",
-   "has": 0,
-   "cands": [
-    {
-     "file": "TaxiGranger-GTAVI-AnExtendedLook-1.png",
-     "url": "https://gta.wiki/images/TaxiGranger-GTAVI-AnExtendedLook-1.png?9eed0",
-     "thumb": "https://gta.wiki/images/thumb/TaxiGranger-GTAVI-AnExtendedLook-1.png/320px-TaxiGranger-GTAVI-AnExtendedLook-1.png?9eed0",
-     "w": 813,
-     "h": 457,
-     "page": "https://gta.wiki/wiki/File:TaxiGranger-GTAVI-AnExtendedLook-1.png",
-     "score": 48.6
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "characters",
-   "key": "c:Sir Todd Bancroft",
-   "title": "Sir Todd Bancroft",
-   "name": "Sir Todd Bancroft",
-   "has": 0,
-   "cands": [
-    {
-     "file": "SirToddBancroft-GTAVI-WeazelNews.png",
-     "url": "https://gta.wiki/images/SirToddBancroft-GTAVI-WeazelNews.png?648c7",
-     "thumb": "https://gta.wiki/images/thumb/SirToddBancroft-GTAVI-WeazelNews.png/320px-SirToddBancroft-GTAVI-WeazelNews.png?648c7",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:SirToddBancroft-GTAVI-WeazelNews.png",
+     "page": "https://gta.wiki/wiki/File:BadDriver-GTAVI-Mission.png",
      "score": 100.0
     }
    ],
@@ -801,56 +644,113 @@
   },
   {
    "kind": "missions",
-   "key": "ms:hit-n-run-vc",
-   "title": "Hit 'n' Run VC",
-   "name": "Hit 'n' Run VC",
+   "key": "ms:making-gainz",
+   "title": "Making Gainz",
+   "name": "Making Gainz",
    "has": 0,
    "cands": [
     {
-     "file": "Balsero-GTAVI-AnExtendedLook.png",
-     "url": "https://gta.wiki/images/Balsero-GTAVI-AnExtendedLook.png?3d4f5",
-     "thumb": "https://gta.wiki/images/thumb/Balsero-GTAVI-AnExtendedLook.png/320px-Balsero-GTAVI-AnExtendedLook.png?3d4f5",
+     "file": "Gyms-GTAVI-AnExtendedLook.jpg",
+     "url": "https://gta.wiki/images/Gyms-GTAVI-AnExtendedLook.jpg?0773b",
+     "thumb": "https://gta.wiki/images/thumb/Gyms-GTAVI-AnExtendedLook.jpg/320px-Gyms-GTAVI-AnExtendedLook.jpg?0773b",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:Balsero-GTAVI-AnExtendedLook.png",
+     "page": "https://gta.wiki/wiki/File:Gyms-GTAVI-AnExtendedLook.jpg",
      "score": 108.0
+    },
+    {
+     "file": "GTAVILaunchTrailer-GTAVI-SS43.png",
+     "url": "https://gta.wiki/images/GTAVILaunchTrailer-GTAVI-SS43.png?7052b",
+     "thumb": "https://gta.wiki/images/thumb/GTAVILaunchTrailer-GTAVI-SS43.png/320px-GTAVILaunchTrailer-GTAVI-SS43.png?7052b",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:GTAVILaunchTrailer-GTAVI-SS43.png",
+     "score": 106.0
+    },
+    {
+     "file": "OfficialScreenshots-GTAVI-ReviewSite-Nov17th-1.jpg",
+     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-ReviewSite-Nov17th-1.jpg?9a5f5",
+     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-ReviewSite-Nov17th-1.jpg/320px-OfficialScreenshots-GTAVI-ReviewSite-Nov17th-1.jpg?9a5f5",
+     "w": 1920,
+     "h": 1080,
+     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-ReviewSite-Nov17th-1.jpg",
+     "score": 106.0
     }
    ],
    "asked": false
   },
   {
-   "kind": "vehicles",
-   "key": "v:Greta",
-   "title": "Greta",
-   "name": "Greta",
+   "kind": "characters",
+   "key": "c:Marissa Tercio",
+   "title": "Marissa Tercio",
+   "name": "Marissa Tercio",
    "has": 0,
    "cands": [
     {
-     "file": "Greta-GTAVI-FrontQuarter.png",
-     "url": "https://gta.wiki/images/Greta-GTAVI-FrontQuarter.png?5b822",
-     "thumb": "https://gta.wiki/images/thumb/Greta-GTAVI-FrontQuarter.png/320px-Greta-GTAVI-FrontQuarter.png?5b822",
-     "w": 889,
-     "h": 608,
-     "page": "https://gta.wiki/wiki/File:Greta-GTAVI-FrontQuarter.png",
-     "score": 86.5
-    },
+     "file": "MarissaTercio-GTAVI-Portrait.png",
+     "url": "https://gta.wiki/images/MarissaTercio-GTAVI-Portrait.png?74f5f",
+     "thumb": "https://gta.wiki/images/thumb/MarissaTercio-GTAVI-Portrait.png/320px-MarissaTercio-GTAVI-Portrait.png?74f5f",
+     "w": 800,
+     "h": 800,
+     "page": "https://gta.wiki/wiki/File:MarissaTercio-GTAVI-Portrait.png",
+     "score": 70.0
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:too-much-baggage",
+   "title": "Too Much Baggage",
+   "name": "Too Much Baggage",
+   "has": 0,
+   "cands": [
     {
-     "file": "UnnamedBFSaloon-GTAVI-AnExtendedLook-2.png",
-     "url": "https://gta.wiki/images/UnnamedBFSaloon-GTAVI-AnExtendedLook-2.png?2bee2",
-     "thumb": "https://gta.wiki/images/thumb/UnnamedBFSaloon-GTAVI-AnExtendedLook-2.png/320px-UnnamedBFSaloon-GTAVI-AnExtendedLook-2.png?2bee2",
-     "w": 960,
-     "h": 540,
-     "page": "https://gta.wiki/wiki/File:UnnamedBFSaloon-GTAVI-AnExtendedLook-2.png",
-     "score": 56.0
-    },
+     "file": "TooMuchBaggage-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/TooMuchBaggage-GTAVI-Thumbnail.png?03a4e",
+     "thumb": "https://gta.wiki/images/thumb/TooMuchBaggage-GTAVI-Thumbnail.png/320px-TooMuchBaggage-GTAVI-Thumbnail.png?03a4e",
+     "w": 1917,
+     "h": 953,
+     "page": "https://gta.wiki/wiki/File:TooMuchBaggage-GTAVI-Thumbnail.png",
+     "score": 95.8
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "missions",
+   "key": "ms:amateur-hour",
+   "title": "Amateur Hour",
+   "name": "Amateur Hour",
+   "has": 0,
+   "cands": [
     {
-     "file": "UnnamedBFSaloon-GTAVI-AnExtendedLook-1.png",
-     "url": "https://gta.wiki/images/UnnamedBFSaloon-GTAVI-AnExtendedLook-1.png?00014",
-     "thumb": "https://gta.wiki/images/thumb/UnnamedBFSaloon-GTAVI-AnExtendedLook-1.png/320px-UnnamedBFSaloon-GTAVI-AnExtendedLook-1.png?00014",
-     "w": 723,
-     "h": 407,
-     "page": "https://gta.wiki/wiki/File:UnnamedBFSaloon-GTAVI-AnExtendedLook-1.png",
-     "score": 44.1
+     "file": "AmateurHour-GTAVI-Thumbnail.png",
+     "url": "https://gta.wiki/images/AmateurHour-GTAVI-Thumbnail.png?ecdbf",
+     "thumb": "https://gta.wiki/images/thumb/AmateurHour-GTAVI-Thumbnail.png/320px-AmateurHour-GTAVI-Thumbnail.png?ecdbf",
+     "w": 1024,
+     "h": 512,
+     "page": "https://gta.wiki/wiki/File:AmateurHour-GTAVI-Thumbnail.png",
+     "score": 51.2
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "characters",
+   "key": "c:Ricky",
+   "title": "Ricky",
+   "name": "Ricky",
+   "has": 0,
+   "cands": [
+    {
+     "file": "Ricky-GTAVI-Portrait.png",
+     "url": "https://gta.wiki/images/Ricky-GTAVI-Portrait.png?3ce22",
+     "thumb": "https://gta.wiki/images/thumb/Ricky-GTAVI-Portrait.png/320px-Ricky-GTAVI-Portrait.png?3ce22",
+     "w": 1179,
+     "h": 1179,
+     "page": "https://gta.wiki/wiki/File:Ricky-GTAVI-Portrait.png",
+     "score": 89.0
     }
    ],
    "asked": false
@@ -863,78 +763,22 @@
    "has": 0,
    "cands": [
     {
-     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection01.jpg",
-     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection01.jpg?b524e",
-     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection01.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection01.jpg?b524e",
+     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection05.jpg",
+     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection05.jpg?5ad4a",
+     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection05.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection05.jpg?5ad4a",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection01.jpg",
+     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection05.jpg",
      "score": 110.0
     },
     {
-     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection03.jpg",
-     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection03.jpg?bf0f9",
-     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection03.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection03.jpg?bf0f9",
+     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection06.jpg",
+     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection06.jpg?5ad4a",
+     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection06.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection06.jpg?5ad4a",
      "w": 3840,
      "h": 2160,
-     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection03.jpg",
+     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection06.jpg",
      "score": 110.0
-    },
-    {
-     "file": "OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection04.jpg",
-     "url": "https://gta.wiki/images/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection04.jpg?bf0f9",
-     "thumb": "https://gta.wiki/images/thumb/OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection04.jpg/320px-OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection04.jpg?bf0f9",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:OfficialScreenshots-GTAVI-PromotionalWebsite-UltimateEdition-WymanCarCollection04.jpg",
-     "score": 110.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "vehicles",
-   "key": "v:Impaler",
-   "title": "Impaler",
-   "name": "Impaler",
-   "has": 0,
-   "cands": [
-    {
-     "file": "20Impaler-GTAVI-FrontQuarter.jpg",
-     "url": "https://gta.wiki/images/20Impaler-GTAVI-FrontQuarter.jpg?c009d",
-     "thumb": "https://gta.wiki/images/thumb/20Impaler-GTAVI-FrontQuarter.jpg/320px-20Impaler-GTAVI-FrontQuarter.jpg?c009d",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:20Impaler-GTAVI-FrontQuarter.jpg",
-     "score": 142.0
-    }
-   ],
-   "asked": false
-  },
-  {
-   "kind": "vehicles",
-   "key": "v:Landstalker XL (police)",
-   "title": "Landstalker XL (police)",
-   "name": "Landstalker XL (police)",
-   "has": 0,
-   "cands": [
-    {
-     "file": "PoliceLandstalker-GTAVI-VDPD.jpg",
-     "url": "https://gta.wiki/images/PoliceLandstalker-GTAVI-VDPD.jpg?ac96d",
-     "thumb": "https://gta.wiki/images/thumb/PoliceLandstalker-GTAVI-VDPD.jpg/320px-PoliceLandstalker-GTAVI-VDPD.jpg?ac96d",
-     "w": 3840,
-     "h": 2160,
-     "page": "https://gta.wiki/wiki/File:PoliceLandstalker-GTAVI-VDPD.jpg",
-     "score": 100.0
-    },
-    {
-     "file": "PoliceLandstalkerXL-GTAVI-AnExtendedLook-1.png",
-     "url": "https://gta.wiki/images/PoliceLandstalkerXL-GTAVI-AnExtendedLook-1.png?64d95",
-     "thumb": "https://gta.wiki/images/thumb/PoliceLandstalkerXL-GTAVI-AnExtendedLook-1.png/320px-PoliceLandstalkerXL-GTAVI-AnExtendedLook-1.png?64d95",
-     "w": 894,
-     "h": 504,
-     "page": "https://gta.wiki/wiki/File:PoliceLandstalkerXL-GTAVI-AnExtendedLook-1.png",
-     "score": 52.7
     }
    ],
    "asked": false
@@ -947,32 +791,125 @@
    "has": 0,
    "cands": [
     {
-     "file": "Dingus-GTAVI-AnExtendedLook-1.png",
-     "url": "https://gta.wiki/images/Dingus-GTAVI-AnExtendedLook-1.png?b330f",
-     "thumb": "https://gta.wiki/images/thumb/Dingus-GTAVI-AnExtendedLook-1.png/320px-Dingus-GTAVI-AnExtendedLook-1.png?b330f",
-     "w": 2325,
-     "h": 1308,
-     "page": "https://gta.wiki/wiki/File:Dingus-GTAVI-AnExtendedLook-1.png",
-     "score": 108.0
+     "file": "Nepa-GTAVI-FrontQuarter.png",
+     "url": "https://gta.wiki/images/Nepa-GTAVI-FrontQuarter.png?3e9c9",
+     "thumb": "https://gta.wiki/images/thumb/Nepa-GTAVI-FrontQuarter.png/320px-Nepa-GTAVI-FrontQuarter.png?3e9c9",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:Nepa-GTAVI-FrontQuarter.png",
+     "score": 142.0
     }
    ],
    "asked": false
   },
   {
    "kind": "vehicles",
-   "key": "v:Police Maverick (civilian)",
-   "title": "Police Maverick (civilian)",
-   "name": "Police Maverick (civilian)",
+   "key": "v:Pumper",
+   "title": "Pumper",
+   "name": "Pumper",
    "has": 0,
    "cands": [
     {
-     "file": "UnnamedMaverickCivilianHelicopter-GTAVI-OfficialScreenshot-MountKalagaNationalPark02.png",
-     "url": "https://gta.wiki/images/UnnamedMaverickCivilianHelicopter-GTAVI-OfficialScreenshot-MountKalagaNationalPark02.png?25b99",
-     "thumb": "https://gta.wiki/images/thumb/UnnamedMaverickCivilianHelicopter-GTAVI-OfficialScreenshot-MountKalagaNationalPark02.png/320px-UnnamedMaverickCivilianHelicopter-GTAVI-OfficialScreenshot-MountKalagaNationalPark02.png?25b99",
-     "w": 2145,
-     "h": 1206,
-     "page": "https://gta.wiki/wiki/File:UnnamedMaverickCivilianHelicopter-GTAVI-OfficialScreenshot-MountKalagaNationalPark02.png",
-     "score": 110.0
+     "file": "UnnamedPierceArrowXTFireTruck-GTAVI-AnExtendedLook.png",
+     "url": "https://gta.wiki/images/UnnamedPierceArrowXTFireTruck-GTAVI-AnExtendedLook.png?3545a",
+     "thumb": "https://gta.wiki/images/thumb/UnnamedPierceArrowXTFireTruck-GTAVI-AnExtendedLook.png/320px-UnnamedPierceArrowXTFireTruck-GTAVI-AnExtendedLook.png?3545a",
+     "w": 647,
+     "h": 364,
+     "page": "https://gta.wiki/wiki/File:UnnamedPierceArrowXTFireTruck-GTAVI-AnExtendedLook.png",
+     "score": 40.4
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "vehicles",
+   "key": "v:Rebla GTS",
+   "title": "Rebla GTS",
+   "name": "Rebla GTS",
+   "has": 0,
+   "cands": [
+    {
+     "file": "ReblaGTS-GTAVI-FrontQuarter.png",
+     "url": "https://gta.wiki/images/ReblaGTS-GTAVI-FrontQuarter.png?933ce",
+     "thumb": "https://gta.wiki/images/thumb/ReblaGTS-GTAVI-FrontQuarter.png/320px-ReblaGTS-GTAVI-FrontQuarter.png?933ce",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:ReblaGTS-GTAVI-FrontQuarter.png",
+     "score": 142.0
+    },
+    {
+     "file": "ReblaGTS-GTAVI-AnExtendedLook.png",
+     "url": "https://gta.wiki/images/ReblaGTS-GTAVI-AnExtendedLook.png?8d3ec",
+     "thumb": "https://gta.wiki/images/thumb/ReblaGTS-GTAVI-AnExtendedLook.png/320px-ReblaGTS-GTAVI-AnExtendedLook.png?8d3ec",
+     "w": 859,
+     "h": 483,
+     "page": "https://gta.wiki/wiki/File:ReblaGTS-GTAVI-AnExtendedLook.png",
+     "score": 51.0
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "vehicles",
+   "key": "v:Reclaimer",
+   "title": "Reclaimer",
+   "name": "Reclaimer",
+   "has": 0,
+   "cands": [
+    {
+     "file": "Reclaimer-GTAVI-FrontQuarter.jpg",
+     "url": "https://gta.wiki/images/Reclaimer-GTAVI-FrontQuarter.jpg?a107c",
+     "thumb": "https://gta.wiki/images/thumb/Reclaimer-GTAVI-FrontQuarter.jpg/320px-Reclaimer-GTAVI-FrontQuarter.jpg?a107c",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:Reclaimer-GTAVI-FrontQuarter.jpg",
+     "score": 142.0
+    },
+    {
+     "file": "Reclaimer-GTAVI-AnExtendedLook.png",
+     "url": "https://gta.wiki/images/Reclaimer-GTAVI-AnExtendedLook.png?d3fb4",
+     "thumb": "https://gta.wiki/images/thumb/Reclaimer-GTAVI-AnExtendedLook.png/320px-Reclaimer-GTAVI-AnExtendedLook.png?d3fb4",
+     "w": 1025,
+     "h": 577,
+     "page": "https://gta.wiki/wiki/File:Reclaimer-GTAVI-AnExtendedLook.png",
+     "score": 59.2
+    }
+   ],
+   "asked": false
+  },
+  {
+   "kind": "vehicles",
+   "key": "v:Shuttle",
+   "title": "Shuttle",
+   "name": "Shuttle",
+   "has": 0,
+   "cands": [
+    {
+     "file": "Shuttle-GTAVI-FrontQuarter.png",
+     "url": "https://gta.wiki/images/Shuttle-GTAVI-FrontQuarter.png?d5a60",
+     "thumb": "https://gta.wiki/images/thumb/Shuttle-GTAVI-FrontQuarter.png/320px-Shuttle-GTAVI-FrontQuarter.png?d5a60",
+     "w": 3840,
+     "h": 2160,
+     "page": "https://gta.wiki/wiki/File:Shuttle-GTAVI-FrontQuarter.png",
+     "score": 142.0
+    },
+    {
+     "file": "UnnamedVapidPassengerVan-GTAVI-AnExtendedLook-2.png",
+     "url": "https://gta.wiki/images/UnnamedVapidPassengerVan-GTAVI-AnExtendedLook-2.png?17054",
+     "thumb": "https://gta.wiki/images/thumb/UnnamedVapidPassengerVan-GTAVI-AnExtendedLook-2.png/320px-UnnamedVapidPassengerVan-GTAVI-AnExtendedLook-2.png?17054",
+     "w": 1142,
+     "h": 643,
+     "page": "https://gta.wiki/wiki/File:UnnamedVapidPassengerVan-GTAVI-AnExtendedLook-2.png",
+     "score": 65.1
+    },
+    {
+     "file": "UnnamedVapidPassengerVan-GTAVI-AnExtendedLook.png",
+     "url": "https://gta.wiki/images/UnnamedVapidPassengerVan-GTAVI-AnExtendedLook.png?9da53",
+     "thumb": "https://gta.wiki/images/thumb/UnnamedVapidPassengerVan-GTAVI-AnExtendedLook.png/320px-UnnamedVapidPassengerVan-GTAVI-AnExtendedLook.png?9da53",
+     "w": 742,
+     "h": 417,
+     "page": "https://gta.wiki/wiki/File:UnnamedVapidPassengerVan-GTAVI-AnExtendedLook.png",
+     "score": 45.1
     }
    ],
    "asked": false

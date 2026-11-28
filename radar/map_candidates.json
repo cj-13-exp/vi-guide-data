@@ -1,7 +1,7 @@
 {
- "ts": "2026-11-27T07:06:10Z",
+ "ts": "2026-11-28T07:01:25Z",
  "source": "gta.wiki {{LeonidaDayMap}}",
- "n_pages": 75,
+ "n_pages": 77,
  "groups": [
   {
    "group": "places",
@@ -68,16 +68,14 @@
     "Chuck's Tackle & Shot",
     "Gellhorn Outfitters",
     "Guns Aplenty!",
-    "Hamlet Traders",
-    "Iron & Oak",
     "Port Gellhorn Pawn & Gun",
     "Weapon Stores in GTA VI"
    ]
   },
   {
    "group": "areas",
-   "n": 17,
-   "n_new_today": 0,
+   "n": 19,
+   "n_new_today": 2,
    "n_on_map": 0,
    "pages": [
     "Abismo Key",
@@ -90,9 +88,11 @@
     "Grayson",
     "Hamlet",
     "Key Lento",
+    "Leaf Links",
     "Millport",
     "Port Gellhorn",
     "Port Vice City",
+    "Tequesta Retreat",
     "Tortoise Lake",
     "Vice Beach",
     "Vice City",
@@ -416,7 +416,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-19",
+   "page_rev": "2026-11-28",
    "url": "https://gta.wiki/wiki/Bonanza"
   },
   {
@@ -478,7 +478,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-28",
    "url": "https://gta.wiki/wiki/Capri"
   },
   {
@@ -890,7 +890,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-20",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Draper_Bay"
   },
   {
@@ -1040,7 +1040,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Hamlet"
   },
   {
@@ -1118,6 +1118,100 @@
    "url": "https://gta.wiki/wiki/Key_Lento"
   },
   {
+   "id": "e6f87fa03fd7",
+   "group": "areas",
+   "label": "Leaf Links",
+   "page": "Leaf Links",
+   "section": "",
+   "x": 568,
+   "y": 2516,
+   "shape": "polygon",
+   "poly": [
+    [
+     553.0,
+     2907.0
+    ],
+    [
+     398.0,
+     2804.0
+    ],
+    [
+     254.0,
+     2685.0
+    ],
+    [
+     164.0,
+     2541.0
+    ],
+    [
+     133.0,
+     2443.0
+    ],
+    [
+     138.0,
+     2362.0
+    ],
+    [
+     166.0,
+     2293.0
+    ],
+    [
+     263.0,
+     2221.0
+    ],
+    [
+     366.0,
+     2180.0
+    ],
+    [
+     560.0,
+     2169.0
+    ],
+    [
+     679.0,
+     2194.0
+    ],
+    [
+     834.0,
+     2274.0
+    ],
+    [
+     916.0,
+     2358.0
+    ],
+    [
+     1043.0,
+     2578.0
+    ],
+    [
+     942.0,
+     2691.0
+    ],
+    [
+     905.0,
+     2715.0
+    ],
+    [
+     873.0,
+     2743.0
+    ],
+    [
+     834.0,
+     2804.0
+    ],
+    [
+     763.0,
+     2844.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-28",
+   "page_rev": "2026-11-28",
+   "url": "https://gta.wiki/wiki/Leaf_Links"
+  },
+  {
    "id": "c594ece1186b",
    "group": "areas",
    "label": "Millport",
@@ -1160,7 +1254,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-28",
    "url": "https://gta.wiki/wiki/Millport"
   },
   {
@@ -1494,6 +1588,68 @@
    "first_seen": "2026-11-26",
    "page_rev": "2026-11-25",
    "url": "https://gta.wiki/wiki/Port_Vice_City"
+  },
+  {
+   "id": "6820d3c78c30",
+   "group": "areas",
+   "label": "Tequesta Retreat",
+   "page": "Tequesta Retreat",
+   "section": "",
+   "x": -177,
+   "y": -1054,
+   "shape": "polygon",
+   "poly": [
+    [
+     -305.0,
+     -776.0
+    ],
+    [
+     -424.0,
+     -1296.0
+    ],
+    [
+     -415.0,
+     -1331.0
+    ],
+    [
+     -389.0,
+     -1348.0
+    ],
+    [
+     -358.0,
+     -1350.0
+    ],
+    [
+     117.0,
+     -1072.0
+    ],
+    [
+     142.0,
+     -1024.0
+    ],
+    [
+     134.0,
+     -964.0
+    ],
+    [
+     100.0,
+     -926.0
+    ],
+    [
+     -268.0,
+     -754.0
+    ],
+    [
+     -286.0,
+     -757.0
+    ]
+   ],
+   "fact": "",
+   "on_map": false,
+   "near": [],
+   "first_seen": "2026-11-28",
+   "page_rev": "2026-11-28",
+   "url": "https://gta.wiki/wiki/Tequesta_Retreat"
   },
   {
    "id": "6457dc8cae53",
@@ -2010,7 +2166,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Vice_City"
   },
   {
@@ -2583,8 +2739,8 @@
    "id": "cbdf9ced882a",
    "group": "guns",
    "label": "Hamlet Traders",
-   "page": "Hamlet Traders",
-   "section": "",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
    "x": -2577.0,
    "y": -3051.0,
    "fact": "",
@@ -2594,14 +2750,14 @@
    ],
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-20",
-   "url": "https://gta.wiki/wiki/Hamlet_Traders"
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
   },
   {
    "id": "ab3a0002a92d",
    "group": "guns",
    "label": "Iron & Oak",
-   "page": "Iron & Oak",
-   "section": "",
+   "page": "Weapon Stores in GTA VI",
+   "section": "Locations",
    "x": -266.0,
    "y": 1839.0,
    "fact": "",
@@ -2611,7 +2767,7 @@
    ],
    "first_seen": "2026-11-24",
    "page_rev": "2026-11-20",
-   "url": "https://gta.wiki/wiki/Iron_%26_Oak"
+   "url": "https://gta.wiki/wiki/Weapon_Stores_in_GTA_VI"
   },
   {
    "id": "98794c4bc23f",
@@ -2712,7 +2868,7 @@
     "Pawn & Gun"
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-20",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Port_Gellhorn_Pawn_%26_Gun"
   },
   {
@@ -3016,7 +3172,7 @@
     "Tortoise Head Power Plant (S)"
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3031,7 +3187,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3046,7 +3202,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3061,7 +3217,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3076,7 +3232,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3091,7 +3247,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3108,7 +3264,7 @@
     ""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3125,7 +3281,7 @@
     "McKittrick Farm"
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3142,7 +3298,7 @@
     "El Rincón Notorio"
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3157,7 +3313,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3191,7 +3347,7 @@
     ""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3208,7 +3364,7 @@
     ""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3225,7 +3381,7 @@
     "Cell Tower"
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3242,7 +3398,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3259,7 +3415,7 @@
     "\"House B\""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3274,7 +3430,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3289,7 +3445,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3306,7 +3462,7 @@
     ""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3337,7 +3493,7 @@
    "fact": "",
    "on_map": false,
    "near": [
-    ""
+    "Key Lento Fire Dept"
    ],
    "first_seen": "2026-11-26",
    "page_rev": "2026-11-25",
@@ -3357,7 +3513,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3404,9 +3560,11 @@
    "y": -91.0,
    "fact": "",
    "on_map": false,
-   "near": [],
+   "near": [
+    ""
+   ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3423,7 +3581,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3440,7 +3598,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3455,7 +3613,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3489,7 +3647,7 @@
     "Paper Boys Paper Company Warehouse"
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3506,7 +3664,7 @@
     ""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3521,7 +3679,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3536,7 +3694,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3551,7 +3709,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3566,7 +3724,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3581,7 +3739,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3596,7 +3754,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3611,7 +3769,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3643,7 +3801,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3677,7 +3835,7 @@
     "\"House B\""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3724,7 +3882,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3739,7 +3897,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3754,7 +3912,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3769,7 +3927,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3786,7 +3944,7 @@
     ""
    ],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3801,7 +3959,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-26",
-   "page_rev": "2026-11-25",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Strangers_%26_Freaks_in_GTA_VI"
   },
   {
@@ -3865,7 +4023,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3880,7 +4038,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -3897,7 +4055,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-24",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/3D_Universe_Portal"
   },
   {
@@ -4765,7 +4923,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-28",
    "url": "https://gta.wiki/wiki/L35P_%28police%29"
   },
   {
@@ -4948,7 +5106,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4963,7 +5121,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4978,7 +5136,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -4993,7 +5151,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -5008,7 +5166,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -5023,7 +5181,7 @@
    "on_map": false,
    "near": [],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -5040,7 +5198,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -5057,7 +5215,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   },
   {
@@ -5074,7 +5232,7 @@
     ""
    ],
    "first_seen": "2026-11-24",
-   "page_rev": "2026-11-26",
+   "page_rev": "2026-11-27",
    "url": "https://gta.wiki/wiki/Stanier_G2_%28police%29"
   }
  ]

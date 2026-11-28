@@ -1,248 +1,12 @@
 {
- "ts": "2026-11-27T07:06:02Z",
- "since": "2026-11-26T07:03:26Z",
+ "ts": "2026-11-28T07:01:15Z",
+ "since": "2026-11-27T07:06:02Z",
  "pages": [
   {
-   "title": "Benedict Halifax",
-   "thumb": "https://gta.wiki/images/thumb/BenedictHalifax-GTAVI-Portrait.png/320px-BenedictHalifax-GTAVI-Portrait.png?5e052",
-   "image": "BenedictHalifax-GTAVI-Portrait.png",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 3204,
-   "url": "https://gta.wiki/wiki/Benedict_Halifax"
-  },
-  {
-   "title": "Debonne Air",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "empresa",
-   "cats": [
-    "Businesses in GTA VI"
-   ],
-   "new_content": false,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 1278,
-   "url": "https://gta.wiki/wiki/Debonne_Air"
-  },
-  {
-   "title": "Dr Froogal",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-27",
-   "group": "lugar",
-   "cats": [
-    "Buildings in GTA VI in Vice City"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 1386,
-   "url": "https://gta.wiki/wiki/Dr_Froogal"
-  },
-  {
-   "title": "Evelyn Andrews",
-   "thumb": "https://gta.wiki/images/thumb/EvelynAndrews-GTAVI-Portrait.png/320px-EvelynAndrews-GTAVI-Portrait.png?ae04e",
-   "image": "EvelynAndrews-GTAVI-Portrait.png",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 2574,
-   "url": "https://gta.wiki/wiki/Evelyn_Andrews"
-  },
-  {
-   "title": "Frankie Delight",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1550,
-   "url": "https://gta.wiki/wiki/Frankie_Delight"
-  },
-  {
-   "title": "Gil Reynolds",
-   "thumb": "https://gta.wiki/images/thumb/GilReynolds-GTAVI-Portrait.png/320px-GilReynolds-GTAVI-Portrait.png?80cd9",
-   "image": "GilReynolds-GTAVI-Portrait.png",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 3527,
-   "url": "https://gta.wiki/wiki/Gil_Reynolds"
-  },
-  {
-   "title": "Giorgio Gallo",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 3285,
-   "url": "https://gta.wiki/wiki/Giorgio_Gallo"
-  },
-  {
-   "title": "Hugh Johsnon",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "outro",
-   "cats": [],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 931,
-   "url": "https://gta.wiki/wiki/Hugh_Johsnon"
-  },
-  {
-   "title": "Jalen Wang",
-   "thumb": "https://gta.wiki/images/thumb/JWang-GTAVI-Portrait.png/320px-JWang-GTAVI-Portrait.png?6dbf6",
-   "image": "JWang-GTAVI-Portrait.png",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1524,
-   "url": "https://gta.wiki/wiki/Jalen_Wang"
-  },
-  {
-   "title": "Louise (waitress)",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": false,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1534,
-   "url": "https://gta.wiki/wiki/Louise_%28waitress%29"
-  },
-  {
-   "title": "Lucky",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1291,
-   "url": "https://gta.wiki/wiki/Lucky"
-  },
-  {
-   "title": "Manny Perez",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "outro",
-   "cats": [
-    "Real-world people credited on GTA VI"
-   ],
-   "new_content": false,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 917,
-   "url": "https://gta.wiki/wiki/Manny_Perez"
-  },
-  {
-   "title": "Maryam Ansari",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "personagem",
-   "cats": [
-    "Characters in GTA VI"
-   ],
-   "new_content": true,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": true,
-   "size": 1591,
-   "url": "https://gta.wiki/wiki/Maryam_Ansari"
-  },
-  {
-   "title": "Meltdown 2: The Hottening",
-   "thumb": "",
-   "image": "",
-   "created": "2026-11-26",
-   "group": "midia",
-   "cats": [
-    "Media in GTA VI"
-   ],
-   "new_content": false,
-   "returning": false,
-   "map_points": 0,
-   "xy": null,
-   "in_app": false,
-   "size": 1417,
-   "url": "https://gta.wiki/wiki/Meltdown_2%3A_The_Hottening"
-  },
-  {
-   "title": "Party Hard",
-   "thumb": "https://gta.wiki/images/thumb/PartyHard-GTAVI-Thumbnail.png/320px-PartyHard-GTAVI-Thumbnail.png?6604d",
-   "image": "PartyHard-GTAVI-Thumbnail.png",
-   "created": "2026-11-26",
+   "title": "Amateur Hour",
+   "thumb": "https://gta.wiki/images/thumb/AmateurHour-GTAVI-Thumbnail.png/320px-AmateurHour-GTAVI-Thumbnail.png?ecdbf",
+   "image": "AmateurHour-GTAVI-Thumbnail.png",
+   "created": "2026-11-28",
    "group": "atividade",
    "cats": [
     "Gameplay in GTA VI"
@@ -252,11 +16,45 @@
    "map_points": 0,
    "xy": null,
    "in_app": true,
-   "size": 7539,
-   "url": "https://gta.wiki/wiki/Party_Hard"
+   "size": 2726,
+   "url": "https://gta.wiki/wiki/Amateur_Hour"
   },
   {
-   "title": "Ugglies",
+   "title": "Bad Driver!",
+   "thumb": "https://gta.wiki/images/thumb/BadDriver-GTAVI-Mission.png/320px-BadDriver-GTAVI-Mission.png?4898a",
+   "image": "BadDriver-GTAVI-Mission.png",
+   "created": "2026-11-27",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 2445,
+   "url": "https://gta.wiki/wiki/Bad_Driver%21"
+  },
+  {
+   "title": "Bargain World",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "lugar",
+   "cats": [
+    "Buildings in GTA VI in Port Gellhorn"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": false,
+   "size": 1641,
+   "url": "https://gta.wiki/wiki/Bargain_World"
+  },
+  {
+   "title": "Basix",
    "thumb": "",
    "image": "",
    "created": "2026-11-27",
@@ -269,8 +67,535 @@
    "map_points": 0,
    "xy": null,
    "in_app": false,
-   "size": 1219,
-   "url": "https://gta.wiki/wiki/Ugglies"
+   "size": 1727,
+   "url": "https://gta.wiki/wiki/Basix"
+  },
+  {
+   "title": "Blood Sweat and Gear",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-28",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1554,
+   "url": "https://gta.wiki/wiki/Blood_Sweat_and_Gear"
+  },
+  {
+   "title": "Brian Bradley",
+   "thumb": "https://gta.wiki/images/thumb/BrianBradley-GTAVI-Portrait.png/320px-BrianBradley-GTAVI-Portrait.png?be9cd",
+   "image": "BrianBradley-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1640,
+   "url": "https://gta.wiki/wiki/Brian_Bradley"
+  },
+  {
+   "title": "Dave Ling",
+   "thumb": "https://gta.wiki/images/thumb/DaveLing-GTAVI-Portrait.png/320px-DaveLing-GTAVI-Portrait.png?74f5f",
+   "image": "DaveLing-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1549,
+   "url": "https://gta.wiki/wiki/Dave_Ling"
+  },
+  {
+   "title": "Derrieair",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-28",
+   "group": "outro",
+   "cats": [
+    "Returning content in GTA VI"
+   ],
+   "new_content": false,
+   "returning": true,
+   "map_points": 0,
+   "xy": null,
+   "in_app": false,
+   "size": 1177,
+   "url": "https://gta.wiki/wiki/Derrieair"
+  },
+  {
+   "title": "Francisco Delgado",
+   "thumb": "https://gta.wiki/images/thumb/FranciscoDelgado-GTAVI-Portrait.png/320px-FranciscoDelgado-GTAVI-Portrait.png?60ee8",
+   "image": "FranciscoDelgado-GTAVI-Portrait.png",
+   "created": "2026-11-28",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1430,
+   "url": "https://gta.wiki/wiki/Francisco_Delgado"
+  },
+  {
+   "title": "GTF",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "empresa",
+   "cats": [
+    "Businesses in GTA VI"
+   ],
+   "new_content": false,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": false,
+   "size": 1055,
+   "url": "https://gta.wiki/wiki/GTF"
+  },
+  {
+   "title": "Geraldo Garcia",
+   "thumb": "https://gta.wiki/images/thumb/GeraldoGarcia-GTAVI-Portrait.png/320px-GeraldoGarcia-GTAVI-Portrait.png?e2c20",
+   "image": "GeraldoGarcia-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1568,
+   "url": "https://gta.wiki/wiki/Geraldo_Garcia"
+  },
+  {
+   "title": "Grower's Glory",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "empresa",
+   "cats": [
+    "Businesses in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": false,
+   "size": 1882,
+   "url": "https://gta.wiki/wiki/Grower%27s_Glory"
+  },
+  {
+   "title": "HCI Representative",
+   "thumb": "https://gta.wiki/images/thumb/HCIRepresentative-GTAVI-Portrait.png/320px-HCIRepresentative-GTAVI-Portrait.png?3c090",
+   "image": "HCIRepresentative-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1760,
+   "url": "https://gta.wiki/wiki/HCI_Representative"
+  },
+  {
+   "title": "Hannah Garcia",
+   "thumb": "https://gta.wiki/images/thumb/HannahGarcia-GTAVI-Portrait.png/320px-HannahGarcia-GTAVI-Portrait.png?73842",
+   "image": "HannahGarcia-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1501,
+   "url": "https://gta.wiki/wiki/Hannah_Garcia"
+  },
+  {
+   "title": "Jerry Turner",
+   "thumb": "https://gta.wiki/images/thumb/JerryTurner-GTAVI-Portrait.png/320px-JerryTurner-GTAVI-Portrait.png?73842",
+   "image": "JerryTurner-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1968,
+   "url": "https://gta.wiki/wiki/Jerry_Turner"
+  },
+  {
+   "title": "Jo-Beth Farlane",
+   "thumb": "https://gta.wiki/images/thumb/JoBethFarlane-GTAVI-Portrait.png/320px-JoBethFarlane-GTAVI-Portrait.png?74f5f",
+   "image": "JoBethFarlane-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1657,
+   "url": "https://gta.wiki/wiki/Jo-Beth_Farlane"
+  },
+  {
+   "title": "Juanita Ortega",
+   "thumb": "https://gta.wiki/images/thumb/JuanitaOrtega-GTAVI-Portrait.png/320px-JuanitaOrtega-GTAVI-Portrait.png?73842",
+   "image": "JuanitaOrtega-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1980,
+   "url": "https://gta.wiki/wiki/Juanita_Ortega"
+  },
+  {
+   "title": "L20S",
+   "thumb": "https://gta.wiki/images/thumb/L20S-GTAVI-FrontQuarter.png/320px-L20S-GTAVI-FrontQuarter.png?3e9c9",
+   "image": "L20S-GTAVI-FrontQuarter.png",
+   "created": "2026-11-27",
+   "group": "veiculo",
+   "cats": [
+    "Vehicles in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 2402,
+   "url": "https://gta.wiki/wiki/L20S"
+  },
+  {
+   "title": "Making Gainz",
+   "thumb": "https://gta.wiki/images/thumb/MakingGainz-GTAVI-Thumbnail.png/320px-MakingGainz-GTAVI-Thumbnail.png?52493",
+   "image": "MakingGainz-GTAVI-Thumbnail.png",
+   "created": "2026-11-27",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 4554,
+   "url": "https://gta.wiki/wiki/Making_Gainz"
+  },
+  {
+   "title": "Marissa Tercio",
+   "thumb": "https://gta.wiki/images/thumb/MarissaTercio-GTAVI-Portrait.png/320px-MarissaTercio-GTAVI-Portrait.png?74f5f",
+   "image": "MarissaTercio-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1371,
+   "url": "https://gta.wiki/wiki/Marissa_Tercio"
+  },
+  {
+   "title": "Mike Jimenez",
+   "thumb": "https://gta.wiki/images/thumb/MikeJimenez-GTAVI-Portrait.png/320px-MikeJimenez-GTAVI-Portrait.png?8f300",
+   "image": "MikeJimenez-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1997,
+   "url": "https://gta.wiki/wiki/Mike_Jimenez"
+  },
+  {
+   "title": "Mitch Farlane",
+   "thumb": "https://gta.wiki/images/thumb/MitchFarlane-GTAVI-Portrait.png/320px-MitchFarlane-GTAVI-Portrait.png?74f5f",
+   "image": "MitchFarlane-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1664,
+   "url": "https://gta.wiki/wiki/Mitch_Farlane"
+  },
+  {
+   "title": "Paradise Taxi",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-28",
+   "group": "empresa",
+   "cats": [
+    "Businesses in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": false,
+   "size": 1709,
+   "url": "https://gta.wiki/wiki/Paradise_Taxi"
+  },
+  {
+   "title": "Pilot Pete",
+   "thumb": "https://gta.wiki/images/thumb/PilotPete-GTAVI-Portrait.png/320px-PilotPete-GTAVI-Portrait.png?c0b1a",
+   "image": "PilotPete-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 7254,
+   "url": "https://gta.wiki/wiki/Pilot_Pete"
+  },
+  {
+   "title": "Pißwasser Nein Merchandise Man",
+   "thumb": "https://gta.wiki/images/thumb/PisswasserNeinMerchandiseMan-GTAVI-Portrait.png/320px-PisswasserNeinMerchandiseMan-GTAVI-Portrait.png?d7f0f",
+   "image": "PisswasserNeinMerchandiseMan-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 2494,
+   "url": "https://gta.wiki/wiki/Pi%C3%9Fwasser_Nein_Merchandise_Man"
+  },
+  {
+   "title": "Starting From Zero (song)",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "midia",
+   "cats": [
+    "Media in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": false,
+   "size": 1597,
+   "url": "https://gta.wiki/wiki/Starting_From_Zero_%28song%29"
+  },
+  {
+   "title": "The Last Mile: Backseat Pilot",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 2093,
+   "url": "https://gta.wiki/wiki/The_Last_Mile%3A_Backseat_Pilot"
+  },
+  {
+   "title": "The Last Mile: Hostile Takeover",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-28",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 2105,
+   "url": "https://gta.wiki/wiki/The_Last_Mile%3A_Hostile_Takeover"
+  },
+  {
+   "title": "The Last Mile: Over and Out",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-28",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 2108,
+   "url": "https://gta.wiki/wiki/The_Last_Mile%3A_Over_and_Out"
+  },
+  {
+   "title": "The Last Mile: Passing the Torch",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 2555,
+   "url": "https://gta.wiki/wiki/The_Last_Mile%3A_Passing_the_Torch"
+  },
+  {
+   "title": "The Last Mile: Stormy Weather",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-28",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1924,
+   "url": "https://gta.wiki/wiki/The_Last_Mile%3A_Stormy_Weather"
+  },
+  {
+   "title": "Too Much Baggage",
+   "thumb": "https://gta.wiki/images/thumb/TooMuchBaggage-GTAVI-Thumbnail.png/320px-TooMuchBaggage-GTAVI-Thumbnail.png?03a4e",
+   "image": "TooMuchBaggage-GTAVI-Thumbnail.png",
+   "created": "2026-11-28",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 3208,
+   "url": "https://gta.wiki/wiki/Too_Much_Baggage"
+  },
+  {
+   "title": "Twist Wrist, Smash, Grab",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-27",
+   "group": "atividade",
+   "cats": [
+    "Gameplay in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 3011,
+   "url": "https://gta.wiki/wiki/Twist_Wrist%2C_Smash%2C_Grab"
+  },
+  {
+   "title": "Wildlife Conservation Department",
+   "thumb": "",
+   "image": "",
+   "created": "2026-11-28",
+   "group": "organizacao",
+   "cats": [
+    "Organizations in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1409,
+   "url": "https://gta.wiki/wiki/Wildlife_Conservation_Department"
+  },
+  {
+   "title": "Yolanda",
+   "thumb": "https://gta.wiki/images/thumb/Yolanda-GTAVI-Portrait.png/320px-Yolanda-GTAVI-Portrait.png?26f3e",
+   "image": "Yolanda-GTAVI-Portrait.png",
+   "created": "2026-11-27",
+   "group": "personagem",
+   "cats": [
+    "Characters in GTA VI"
+   ],
+   "new_content": true,
+   "returning": false,
+   "map_points": 0,
+   "xy": null,
+   "in_app": true,
+   "size": 1184,
+   "url": "https://gta.wiki/wiki/Yolanda"
   }
  ]
 }

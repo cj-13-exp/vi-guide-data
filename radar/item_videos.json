@@ -1,10 +1,10 @@
 {
- "ts": "2026-11-27",
+ "ts": "2026-11-28",
  "kinds": [
   {
    "kind": "missions",
-   "total": 144,
-   "with_video": 120,
+   "total": 157,
+   "with_video": 130,
    "sample": [
     {
      "item": "Prologue",
@@ -31,7 +31,7 @@
      "url": "https://www.youtube.com/watch?v=m2APlrqUlqY"
     },
     {
-     "item": "Get Shirley's Rum",
+     "item": "Get Shirley’s Rum",
      "title": "GTA 6 - Get Shirley’s Rum - Full Walkthrough",
      "channel": "Trophy Tom",
      "url": "https://www.youtube.com/watch?v=F0WIP2jHyVs"
@@ -46,7 +46,7 @@
   },
   {
    "kind": "vehicles",
-   "total": 330,
+   "total": 329,
    "with_video": 35,
    "sample": [
     {
@@ -141,8 +141,32 @@
   {
    "kind": "heists",
    "total": 78,
-   "with_video": 17,
+   "with_video": 21,
    "sample": [
+    {
+     "item": "Hamlet Pawn",
+     "title": "GTA 6: Hamlet Pawn Shop Robbery",
+     "channel": "Kimani Games",
+     "url": "https://www.youtube.com/watch?v=2mXZT7svqeE"
+    },
+    {
+     "item": "Joyeria Empenos",
+     "title": "GTA 6 - How to ROB JOYERIA EMPENOS! (Free Roam Robbery)",
+     "channel": "Vice City Standard",
+     "url": "https://www.youtube.com/watch?v=geG6XbQF5oA"
+    },
+    {
+     "item": "Donovan Banks & Co.",
+     "title": "GTA 6 Hit Donovan Banks & CO. Perfect Heist, Amethyst Necklace, Jewelry Store No Cops, Safe Code",
+     "channel": "Kibbles Gaming",
+     "url": "https://www.youtube.com/watch?v=_ljMcYr6X64"
+    },
+    {
+     "item": "Icegem Diamonds & Watches",
+     "title": "GTA 6 Silent Jewelry Store Robbery — $16K at Icegem Diamonds & Watches",
+     "channel": "GENIX",
+     "url": "https://www.youtube.com/watch?v=cT8X6dSfn2A"
+    },
     {
      "item": "Legendary Custom Jewelry",
      "title": "GTA 6 - How To Rob Legendary Custom Jewelry Like  A Pro (No Kills, No Alarm, No Cops)",
@@ -154,30 +178,6 @@
      "title": "HIT AVERY PAWN Safe Code In GTA 6",
      "channel": "How to Everything",
      "url": "https://www.youtube.com/watch?v=KQa_bHpEXN4"
-    },
-    {
-     "item": "Manatee Motel",
-     "title": "GTA 6: Manatee Motel | Illegal Operation Walkthrough & All Key Valuables",
-     "channel": "IGN Guides",
-     "url": "https://www.youtube.com/watch?v=f2T6dmwl_-I"
-    },
-    {
-     "item": "Sunrise RV Park",
-     "title": "GTA 6 - Sunrise RV Park All Key Valuables & Safe Code Locations Guide",
-     "channel": "HarryNinetyFour",
-     "url": "https://www.youtube.com/watch?v=0ahuqi5Zehw"
-    },
-    {
-     "item": "Fishing Shacks",
-     "title": "GTA 6: Fishing Shacks | Illegal Operation Walkthrough & All Key Valuables",
-     "channel": "IGN Guides",
-     "url": "https://www.youtube.com/watch?v=uhLnf1s97og"
-    },
-    {
-     "item": "Kingpin Bowling",
-     "title": "GTA 6 – All 14 Safe Codes From Illegal Operations (Kingpin Bowling, Sunrise RV & More)",
-     "channel": "LunarGaming",
-     "url": "https://www.youtube.com/watch?v=_bM4rxLlmp8"
     }
    ]
   }
@@ -338,12 +338,6 @@
    "title": "GTA 6 Mission #18 - Don Gone (Chapter 1) [Full Walkthrough - PS5 4K]",
    "channel": "GTA Series Videos",
    "url": "https://www.youtube.com/watch?v=9KwTkHEm28o"
-  },
-  "m:pick-up-groceries": {
-   "id": "frSn4hQJuSk",
-   "title": "GTA 6 - Pick Up Groceries - Full Quest Walkthrough",
-   "channel": "WoW Quests",
-   "url": "https://www.youtube.com/watch?v=frSn4hQJuSk"
   },
   "m:recalibration": {
    "id": "1w11tH5tUVU",
@@ -543,17 +537,23 @@
    "channel": "Game Time Live",
    "url": "https://www.youtube.com/watch?v=SixlDJBEHzs"
   },
-  "m:join-a-street-race": {
-   "id": "JNAC3pwfpEI",
-   "title": "GTA 6 - Join a Street Race - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=JNAC3pwfpEI"
-  },
   "m:mami-knows-best": {
    "id": "6xHjVgGM9sE",
    "title": "GTA 6 - Mami Knows Best (Catch Up With Mia) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=6xHjVgGM9sE"
+  },
+  "m:get-your-wheels": {
+   "id": "n_lZP8X1Sac",
+   "title": "GTA 6 How to Finish Get your Wheels Quest Full Guide - Grand Theft Auto VI",
+   "channel": "Horizon Gaming",
+   "url": "https://www.youtube.com/watch?v=n_lZP8X1Sac"
+  },
+  "m:join-a-street-race": {
+   "id": "JNAC3pwfpEI",
+   "title": "GTA 6 - Join a Street Race - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=JNAC3pwfpEI"
   },
   "m:here-kitty-kitty": {
    "id": "b78Xa-Jlsts",
@@ -561,17 +561,23 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=b78Xa-Jlsts"
   },
+  "m:send-money-to-lorena": {
+   "id": "FVDBZUrlYCE",
+   "title": "GTA 6 Send Money to Lorena (Missions 51 & 53) - $10,000 Through BuckMe | Walkthrough",
+   "channel": "ZHUBA",
+   "url": "https://www.youtube.com/watch?v=FVDBZUrlYCE"
+  },
   "m:boobie-time": {
    "id": "-BWqzOICZqQ",
    "title": "GTA 6 - Boobie Time (Talk to Boobie - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=-BWqzOICZqQ"
   },
-  "m:send-money-to-lorena": {
-   "id": "FVDBZUrlYCE",
-   "title": "GTA 6 Send Money to Lorena (Missions 51 & 53) - $10,000 Through BuckMe | Walkthrough",
-   "channel": "ZHUBA",
-   "url": "https://www.youtube.com/watch?v=FVDBZUrlYCE"
+  "m:buddy": {
+   "id": "ZI3xnyRygWo",
+   "title": "GTA 6 - Buddy - Full Quest Walkthrough",
+   "channel": "WoW Quests",
+   "url": "https://www.youtube.com/watch?v=ZI3xnyRygWo"
   },
   "m:bumper-to-bumper": {
    "id": "deAU19tjAEY",
@@ -579,11 +585,17 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=deAU19tjAEY"
   },
-  "m:race-against-yago": {
-   "id": "PAZbruM1nFw",
-   "title": "GTA 6 - Race Against Yago - Full Quest Walkthrough",
-   "channel": "WoW Quests",
-   "url": "https://www.youtube.com/watch?v=PAZbruM1nFw"
+  "m:send-more-money-to-lorena": {
+   "id": "R-nq2hcylC0",
+   "title": "#51 GTA 6 Story Mode - Send More Money To Lorena (Full Walkthrough)",
+   "channel": "Game Time Live",
+   "url": "https://www.youtube.com/watch?v=R-nq2hcylC0"
+  },
+  "m:tyrone": {
+   "id": "b78Xa-Jlsts",
+   "title": "GTA 6 - Here, Kitty Kitty (Speak with Tyrone) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=b78Xa-Jlsts"
   },
   "m:top-billing": {
    "id": "WQVNZe7fTuY",
@@ -603,11 +615,11 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=EDfkvvpSACs"
   },
-  "m:send-more-money-to-lorena": {
-   "id": "R-nq2hcylC0",
-   "title": "#51 GTA 6 Story Mode - Send More Money To Lorena (Full Walkthrough)",
-   "channel": "Game Time Live",
-   "url": "https://www.youtube.com/watch?v=R-nq2hcylC0"
+  "m:race-against-yago": {
+   "id": "PAZbruM1nFw",
+   "title": "GTA 6 - Race Against Yago - Full Quest Walkthrough",
+   "channel": "WoW Quests",
+   "url": "https://www.youtube.com/watch?v=PAZbruM1nFw"
   },
   "m:clonin-keys-makin-gs": {
    "id": "9yBG8atjQs0",
@@ -627,17 +639,23 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=5ctGFp_zOKo"
   },
+  "m:company-property": {
+   "id": "KwdZlanNH4w",
+   "title": "GTA 6 - Company Property (Meet Brian) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=KwdZlanNH4w"
+  },
   "m:caught-slipping": {
    "id": "uxoOymNZBaw",
    "title": "GTA 6 - Caught Slipping - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=uxoOymNZBaw"
   },
-  "m:company-property": {
-   "id": "KwdZlanNH4w",
-   "title": "GTA 6 - Company Property (Meet Brian) - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=KwdZlanNH4w"
+  "m:heist-planning": {
+   "id": "zp1-8v1HtO8",
+   "title": "gta 6 - how to complete heist planning Mission (complete prep work) | Vcia takedown",
+   "channel": "GuidingLight",
+   "url": "https://www.youtube.com/watch?v=zp1-8v1HtO8"
   },
   "m:safe-word": {
    "id": "szgOCuBpb2c",
@@ -656,12 +674,6 @@
    "title": "GTA 6 - Brother To Brother (Back up Yago) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=iqn7xuoTfQU"
-  },
-  "m:tyrone": {
-   "id": "b78Xa-Jlsts",
-   "title": "GTA 6 - Here, Kitty Kitty (Speak with Tyrone) - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=b78Xa-Jlsts"
   },
   "m:cooties": {
    "id": "cRHuRIngJsU",
@@ -717,23 +729,11 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=Tl9fpCSbuJ0"
   },
-  "m:pay-abe-s-fee": {
-   "id": "xPkrbSmMF6Y",
-   "title": "GTA 6 PAY ABE'S FEE NOT SHOWING ON MAP - Where To Find It - Full Guide",
-   "channel": "BOZ and 2 more",
-   "url": "https://www.youtube.com/watch?v=xPkrbSmMF6Y"
-  },
   "m:lawyer-up": {
    "id": "ERSiv8u1ugw",
    "title": "GTA 6 - Lawyer Up (Meet Abe Gonzalez) - Full Walkthrough",
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=ERSiv8u1ugw"
-  },
-  "m:party-hard": {
-   "id": "b64YxguJB3I",
-   "title": "Party Hard Full Quest Walkthrough Guide in GTA 6",
-   "channel": "Ditech Gaming",
-   "url": "https://www.youtube.com/watch?v=b64YxguJB3I"
   },
   "m:heavy-lifting": {
    "id": "l_GMxQ93mPQ",
@@ -741,17 +741,35 @@
    "channel": "Trophy Tom",
    "url": "https://www.youtube.com/watch?v=l_GMxQ93mPQ"
   },
-  "m:making-gainz": {
-   "id": "5O_diDhX8jg",
-   "title": "GTA 6 -  Making Gainz (Meet Raul  Raul’s Plan) - Full Walkthrough",
-   "channel": "Trophy Tom",
-   "url": "https://www.youtube.com/watch?v=5O_diDhX8jg"
+  "m:party-hard": {
+   "id": "b64YxguJB3I",
+   "title": "Party Hard Full Quest Walkthrough Guide in GTA 6",
+   "channel": "Ditech Gaming",
+   "url": "https://www.youtube.com/watch?v=b64YxguJB3I"
   },
   "m:photo-shoot": {
    "id": "JEuQ-674xjM",
    "title": "GTA 6 - Photo/Shoot - Shoot a Promo - Walkthrough Part 90",
    "channel": "Trophygamers",
    "url": "https://www.youtube.com/watch?v=JEuQ-674xjM"
+  },
+  "m:bad-driver": {
+   "id": "Ah321862Efs",
+   "title": "GTA 6 - Bad Driver! (Find Felipe) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=Ah321862Efs"
+  },
+  "m:making-gainz": {
+   "id": "5O_diDhX8jg",
+   "title": "GTA 6 -  Making Gainz (Meet Raul  Raul’s Plan) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=5O_diDhX8jg"
+  },
+  "m:attend-eddie-acosta-s-party": {
+   "id": "gsAryH_mv5U",
+   "title": "GTA 6 - Attend Eddie Acosta’s Party - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=gsAryH_mv5U"
   },
   "m:blood-sweat-and-gear": {
    "id": "xVVHXU6mKaE",
@@ -765,17 +783,53 @@
    "channel": "Game Time Live",
    "url": "https://www.youtube.com/watch?v=jIZjtT_fn3o"
   },
-  "m:watch-it": {
-   "id": "K23nS4AUIFg",
-   "title": "Grand Theft Auto VI - Watch It Mission Walkthrough (No Commentary)",
-   "channel": "Syrekx",
-   "url": "https://www.youtube.com/watch?v=K23nS4AUIFg"
+  "m:pay-abe-s-fee": {
+   "id": "xPkrbSmMF6Y",
+   "title": "GTA 6 PAY ABE'S FEE NOT SHOWING ON MAP - Where To Find It - Full Guide",
+   "channel": "BOZ and 2 more",
+   "url": "https://www.youtube.com/watch?v=xPkrbSmMF6Y"
   },
   "m:amateur-hour": {
    "id": "JTQNaHNhocQ",
    "title": "Grand Theft Auto VI - Amateur Hour Mission FULL Walkthrough (PS5)",
    "channel": "AJ4Games",
    "url": "https://www.youtube.com/watch?v=JTQNaHNhocQ"
+  },
+  "m:watch-it": {
+   "id": "K23nS4AUIFg",
+   "title": "Grand Theft Auto VI - Watch It Mission Walkthrough (No Commentary)",
+   "channel": "Syrekx",
+   "url": "https://www.youtube.com/watch?v=K23nS4AUIFg"
+  },
+  "m:the-last-mile-backseat-pilot": {
+   "id": "4AAEsVZJV2w",
+   "title": "GTA 6 - The Last Mile Backseat Pilot (Deliver Packages) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=4AAEsVZJV2w"
+  },
+  "m:the-last-mile-hostile-takeover": {
+   "id": "qQI4I04Flsg",
+   "title": "GTA 6 THE LAST MILE HOSTILE TAKEOVER MISSION PILOT GUIDE #gta6 #grandtheftauto6",
+   "channel": "Christian Konopatzki",
+   "url": "https://www.youtube.com/watch?v=qQI4I04Flsg"
+  },
+  "m:the-last-mile-over-and-out": {
+   "id": "84ZekoQ4rls",
+   "title": "GTA 6 THE LAST MILE OVER AND OUT MISSION PILOT PETE GUIDE #gta6 #grandtheftauto6",
+   "channel": "Christian Konopatzki",
+   "url": "https://www.youtube.com/watch?v=84ZekoQ4rls"
+  },
+  "m:the-last-mile-passing-the-torch": {
+   "id": "6F1cFWDHI5U",
+   "title": "GTA 6 - The Last Mile Passing the Torch (Recover Pete’s Plane) - Full Walkthrough",
+   "channel": "Trophy Tom",
+   "url": "https://www.youtube.com/watch?v=6F1cFWDHI5U"
+  },
+  "m:the-last-mile-stormy-weather": {
+   "id": "5SMQS6lOda0",
+   "title": "GTA 6 THE LAST MILE STORMY WEATHER MISSION PILOT PETE GUIDE #gta6 #grandtheftauto6",
+   "channel": "Christian Konopatzki",
+   "url": "https://www.youtube.com/watch?v=5SMQS6lOda0"
   },
   "m:cash-injections": {
    "id": "Qogv71X4V_M",
@@ -837,17 +891,17 @@
    "channel": "Trophygamers",
    "url": "https://www.youtube.com/watch?v=Ou_xWly4TLE"
   },
-  "m:headliners": {
-   "id": "IohTQf1O_1c",
-   "title": "GTA 6 - Headliners - Helping Dre’Quan - Walkthrough Part 113",
-   "channel": "Trophygamers",
-   "url": "https://www.youtube.com/watch?v=IohTQf1O_1c"
-  },
   "m:fully-catered": {
    "id": "m1_qrJ5YO9w",
    "title": "How to complete Fully Catered mission guide & walkthrough in GTA 6",
    "channel": "AlphaZin",
    "url": "https://www.youtube.com/watch?v=m1_qrJ5YO9w"
+  },
+  "m:headliners": {
+   "id": "IohTQf1O_1c",
+   "title": "GTA 6 - Headliners - Helping Dre’Quan - Walkthrough Part 113",
+   "channel": "Trophygamers",
+   "url": "https://www.youtube.com/watch?v=IohTQf1O_1c"
   },
   "m:tie-up-loose-ends": {
    "id": "jU6J2KfA054",
@@ -896,6 +950,12 @@
    "title": "GTA 6 - Last Mission: The End of the Road Walkthrough Gameplay (4K PS5 PRO)",
    "channel": "Boss Fight Database",
    "url": "https://www.youtube.com/watch?v=qHoSGF92Kvs"
+  },
+  "m:audacity-stunts": {
+   "id": "BekefmezmTY",
+   "title": "GTA 6 - Audacity Stunts: Downtown Mission Walkthrough",
+   "channel": "Levas",
+   "url": "https://www.youtube.com/watch?v=BekefmezmTY"
   },
   "m:hit-n-run-vc": {
    "id": "EMQcPxGVMAQ",
@@ -1101,7 +1161,7 @@
    "channel": "HarryNinetyFour",
    "url": "https://www.youtube.com/watch?v=QpOeEmOFr0c"
   },
-  "v:zombie": {
+  "v:zombiebobber": {
    "id": "qUuU3peibfU",
    "title": "How to Get the Original Vice City Motorcycle in GTA 6! (Malibu Zombie Bobber Location)",
    "channel": "KingAlexHD",
@@ -1142,6 +1202,30 @@
    "title": "GTA 6 - Skunk Ape (Bigfoot) Easter Egg Mission & All Endings (Skunk Apeology 101)",
    "channel": "Techzamazing",
    "url": "https://www.youtube.com/watch?v=4SOON1kBdL8"
+  },
+  "h:hamletpawn": {
+   "id": "2mXZT7svqeE",
+   "title": "GTA 6: Hamlet Pawn Shop Robbery",
+   "channel": "Kimani Games",
+   "url": "https://www.youtube.com/watch?v=2mXZT7svqeE"
+  },
+  "h:joyeriaempenos": {
+   "id": "geG6XbQF5oA",
+   "title": "GTA 6 - How to ROB JOYERIA EMPENOS! (Free Roam Robbery)",
+   "channel": "Vice City Standard",
+   "url": "https://www.youtube.com/watch?v=geG6XbQF5oA"
+  },
+  "h:donovanbanksco": {
+   "id": "_ljMcYr6X64",
+   "title": "GTA 6 Hit Donovan Banks & CO. Perfect Heist, Amethyst Necklace, Jewelry Store No Cops, Safe Code",
+   "channel": "Kibbles Gaming",
+   "url": "https://www.youtube.com/watch?v=_ljMcYr6X64"
+  },
+  "h:icegemdiamondswatches": {
+   "id": "cT8X6dSfn2A",
+   "title": "GTA 6 Silent Jewelry Store Robbery — $16K at Icegem Diamonds & Watches",
+   "channel": "GENIX",
+   "url": "https://www.youtube.com/watch?v=cT8X6dSfn2A"
   },
   "h:legendarycustomjewelry": {
    "id": "YZCYnmt4Jf0",
